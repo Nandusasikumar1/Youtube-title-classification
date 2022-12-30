@@ -1,3 +1,3 @@
 # Youtube-title-classification
 
-**Classification** of
+**Classification** of youtube title categories using `Randomforest classifier`
