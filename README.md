@@ -6,4 +6,6 @@
 * Used nltk for performing text preprocessing and vectorization of text data
 * Used Randonforest classifier for bulding the model
 
+## If we input the title of a video the model will give the category of the video as output
+
 
