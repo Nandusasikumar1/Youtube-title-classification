@@ -1,0 +1,2202 @@
+[
+  [
+    "Finding an outlier in a dataset using Python",
+    "In this video we will understand how we can find an outlier in a dataset using python. ref: #medium articles #Outlierdetection ..."
+  ],
+  [
+    "Outlier Detection",
+    "17FD10/ Data warehousing and data mining Ms. K.Saranya AP, department of information technology, Karpagam College of ..."
+  ],
+  [
+    "Outlier Detection Methods: Supervised, Semi Supervised, Unsupervised, Proximity Based, Clustering Ba",
+    "Subject - Data Mining and Business Intelligence Video Name - Outlier Detection Methods Supervised, Semi Supervised, ..."
+  ],
+  [
+    "Outlier Detection and Removal using Z-score Method | Handling Outliers Part 2",
+    "Code Used: https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day42-outlier-removal-using-zscore ..."
+  ],
+  [
+    "28 Outlier Analysis, Types, Outlier Detection &amp; Techniques |DM|",
+    "Abroad Education Channel : https://www.youtube.com/channel/UC9sgREj-cfZipx65BLiHGmw Company Specific HR Mock ..."
+  ],
+  [
+    "Outlier |Types |  Analysis |  Detection Methods  | Challenges",
+    "Outlier |Types | Analysis | Detection Methods | Challenges."
+  ],
+  [
+    "Outlier detection techniques(python)| how to avoid outliers without deleting it",
+    "we will discuss Outlier detection techniques or outlier detection techniques in data mining and ways to Treat outliers effectively ..."
+  ],
+  [
+    "Outlier detection and removal using percentile | Feature engineering tutorial python # 2",
+    "Outliers are unusual data points that differ significantly from rest of the samples. They can occur due to an error in data collection ..."
+  ],
+  [
+    "Outlier Detection and Removal using the IQR Method | Handing Outliers Part 3",
+    "Code Used : https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day43-outlier-removal-using-iqr-method ..."
+  ],
+  [
+    "Outlier detection and removal: z score, standard deviation | Feature engineering tutorial python # 3",
+    "If we have a dataset that follows normal distribution than we can use 3 or more standard deviation to spot outliers in the dataset."
+  ],
+  [
+    "Lecture 28 Outlier detection Approaches",
+    ""
+  ],
+  [
+    "Outlier detection and removal using IQR | Feature engineering tutorial python # 4",
+    "IQR is another technique that one can use to detect and remove outliers. The formula for IQR is very simple. IQR = Q3-Q1. Where ..."
+  ],
+  [
+    "Outlier detection with Local Outlier Factor (LOF) |  Outlier Detection| Machine Learning Algorithms",
+    "Local outlier factor (LOF) is an algorithm used for Unsupervised outlier detection. It produces an anomaly score that represents ..."
+  ],
+  [
+    "5.12 Outlier Analysis",
+    "GATE Insights Version: CSE http://bit.ly/gate_insights or GATE Insights Version: CSE ..."
+  ],
+  [
+    "Outlier Detection🤏 and Its Different Methods",
+    "LinkedIn: https://www.linkedin.com/in/mitra-mirshafiee-data-scientist/ Instagram: https://www.instagram.com/mitra_mirshafiee/ ..."
+  ],
+  [
+    "Local Outlier Factor- Everything you need to know! | Outlier Detection| Machine Learning Algorithms",
+    "Here are some resources on the LOF algorithm which might be of use to you. Don't forget to check 'em out! Local Outlier Factor ..."
+  ],
+  [
+    "Outlier detection techniques using K-Means clustering algorithm",
+    "The video starts off with an introduction on outliers, the significance of outlier detection and clustering algorithms, specifically ..."
+  ],
+  [
+    "Outlier Detection &amp; Removal | Outlier Treatment | Data Preprocessing | Machine Learning | Data Magic",
+    "Hello Friends, Today I will Talk about What is outlier ? and How we can detect outliers from our data ?. Then will talk about how ..."
+  ],
+  [
+    "Outlier Detection using the Percentile Method | Winsorization Technique",
+    "Code used : https://github.com/campusx-official/100-days-of-machine-learning About CampusX: CampusX is an online ..."
+  ],
+  [
+    "Automatic Outlier Detection Method using Isolation Forest",
+    "Watch Video to understand the Overview of automatic Outlier Detection method by using Isolation Forest and introduction of ..."
+  ],
+  [
+    "What are Outliers | Outliers in Machine Learning",
+    "About CampusX: CampusX is an online mentorship program for engineering students. We offer a 6-month long mentorship to ..."
+  ],
+  [
+    "Anomaly/outlier detection using isolation forest Indepth Intuition",
+    "All of us know random forests, one of the most popular ML models. They are a supervised learning algorithm, used in a wide ..."
+  ],
+  [
+    "5 Number Summary And How To handle Outliers Using IQR-Statistics",
+    "In this video we are going to understand 5 number summary and we will try to understand how to handle outliers using IQR(Inter ..."
+  ],
+  [
+    "Outlier detection techniques for network attacks.",
+    "ABOUT SHAKAS , Shakastech.com is a part of Shakas Technologies and especially organized for guiding the students for their ..."
+  ],
+  [
+    "How To Use Isolation Forest Machine Learning Algorithm For Outlier Detection Using Python",
+    "In this tutorial, Gaelim is going to show how to use the Isolation Forest machine learning algorithm to find outliers in your data, and ..."
+  ],
+  [
+    "Outlier Detection: Introduction to Advanced Machine Learning (3)",
+    "Presented by WWCode Data Science ‍   Speaker: Rishika Singh, Joseph Itopa ✓ Topics: Outlier Detection, Types of Outliers, ..."
+  ],
+  [
+    "Outlier Detection Removal using Standard Deviation | Boxplot and Outliers | Satyajit Pattnaik",
+    "Outlier Detection Removal using Standard Deviation | Boxplot and Outliers | Satyajit Pattnaik #statistics #outliers #satyajitpattnaik ..."
+  ],
+  [
+    "Finding outliers in a dataset MAD method",
+    "Finding outliers with the MAD method (Median of the absolute idfference from median) method #Excel #statistics #MAD #outliers."
+  ],
+  [
+    "Local Outlier Factor (LOF) in Python - Outlier Detection Part 2",
+    "In this video we look at local outlier factor with python looking at finding outliers in multidimensional space. We first make a ..."
+  ],
+  [
+    "Outlier Detection",
+    "Access the Outlier Detection Workshop materials here: ..."
+  ],
+  [
+    "Find Outliers with Python- 4 Simple Ways",
+    "Learn how to use traditional IQR and leverage algorithms to identify anomalies and outliers in your data. In this tutorial, we will be ..."
+  ],
+  [
+    "Data outlier detection (हिन्दी)",
+    "What is data outlier, Causes of data outlier, detection of data outlier."
+  ],
+  [
+    "Z-Score for Outlier Detection",
+    "This video talks about the simple yet popular technique based on Z-Score for outlier detection. For more such content, subscribe ..."
+  ],
+  [
+    "Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection",
+    "Authors: Guansong Pang (University of Technology, Sydney); Longbing Cao (Faculty of IT, University of Technology Sydney); Ling ..."
+  ],
+  [
+    "What are Outliers  Types, Challenges Regarding Outliers - Outlier Analysis",
+    "Subject - Data Mining and Business Intelligence Video Name - What are Outliers Types, Challenges Regarding Outliers Chapter ..."
+  ],
+  [
+    "Outlier detection - Robust regression techniques",
+    "Paper: Regression Analysis II Module name: Outlier detection - Robust regression techniques Content Writer: Dr Pooja Sengupta ..."
+  ],
+  [
+    "Anomaly Detection and Removal in Python | 3-Sigma Method | Outlier Detection in Data Project",
+    "In this video, we will talk about Anomaly Detection or outliers ,A project which can detect and remove outliers in python. I will also ..."
+  ],
+  [
+    "Introduction to Outlier Detection Techniques",
+    "Describes about different types of outlier detection techniques like Chauvenet Method, Dickens Method, etc. One and Two-Tailed ..."
+  ],
+  [
+    "Outlier detection and removal z-score,standard deviation ,IQR, Box Plot | Data Cleaning Tutorial 13",
+    "During the Machine Learning Data Cleaning process, you will often need to figure out whether you have outliers in the data set, ..."
+  ],
+  [
+    "Detecting outliers and anomalies in realtime at Datadog - Homin Lee (OSCON Austin 2016)",
+    "Monitoring even a modestly sized systems infrastructure quickly becomes untenable without automated alerting. For many metrics ..."
+  ],
+  [
+    "Stream Data Preprocessing: Outlier Detection Based on the Chebyshev Inequality With Applications",
+    "The 26th IEEE FRUCT Conference: Stream Data Preprocessing: Outlier Detection Based on the Chebyshev Inequality With ..."
+  ],
+  [
+    "Anomaly Detection",
+    "Python Codes and Datasets: https://github.com/fanaee/AnomalyDetection Covered Topics: Definitions Applications Supervised vs."
+  ],
+  [
+    "MAHALANOBIS DISTANCE AND OUTLIER DETECTION (MACHINE LEARNING)",
+    "MAHALANOBISDISTANCE #OUTLIERS #STATISTICS #MACHINELEARNING Join this channel to get access to perks: ..."
+  ],
+  [
+    "Multivariate Outlier Detection For Machine Learning Using Matplotlib and Pandas in Python",
+    "Multivariate Outlier Detection in Machine Learning Using Matplotlib and Pandas in Python. Download Files From Here: ..."
+  ],
+  [
+    "Outlier Detection: The Different Types of Outliers",
+    "Time series anomaly detection is a tool that detects unusual behavior, whether it's hurtful or advantageous for the business."
+  ],
+  [
+    "Contextual Spatial Outlier Detection with Metric Learning",
+    "Contextual Spatial Outlier Detection with Metric Learning Guanjie Zheng (College of Information Sciences and Technology, ..."
+  ],
+  [
+    "Distributed Local Outlier Detection in Big Data",
+    "Distributed Local Outlier Detection in Big Data Yizhou Yan (Worcester Polytechnic Institute) Lei Cao (Massachusetts Institute of ..."
+  ],
+  [
+    "Outlier Detection and Removal using Pandas Python",
+    "This is a small tutorial on how to remove outlier values using Pandas library! If you do have any questions with what we covered in ..."
+  ],
+  [
+    "A Spurious Outlier Detection System For High Frequency Time Series Data",
+    "As we are living in the age of IoT, more and more processes are using information gathered from well placed sensors to infer and ..."
+  ],
+  [
+    "Python for Machine Learning - Part 27 - Detecting Outliers using Elliptic Envelope",
+    "Python for Machine Learning - Part 27 - Detecting Outliers using Elliptic Envelope Detecting Outliers using Elliptic Envelope ..."
+  ],
+  [
+    "How To Use Isolation Forest Machine Learning Algorithm For Outlier Detection Using Python",
+    "In this tutorial, Gaelim is going to show how to use the Isolation Forest machine learning algorithm to find outliers in your data, and ..."
+  ],
+  [
+    "Outlier detection with Excel",
+    ""
+  ],
+  [
+    "Contextual Spatial Outlier Detection with Metric Learning",
+    "Contextual Spatial Outlier Detection with Metric Learning Guanjie Zheng (College of Information Sciences and Technology, ..."
+  ],
+  [
+    "Applying unsupervised learning and outlier detection methods to characterise magnetotail electrons",
+    "Presented by Mayur Bakrania (University College London) ML4PSP Seminar October 2021 Collisionless space plasma ..."
+  ],
+  [
+    "Statistics - How to find outliers",
+    "This video covers how to find outliers in your data. Remember that an outlier is an extremely high, or extremely low value."
+  ],
+  [
+    "(IS03) Outlier-Detection Methods",
+    "In this video, we explore (in detail) the concept of an outlier for a (univariate) data set, and discuss a couple methods, ideas, and ..."
+  ],
+  [
+    "What are Outliers  Types, Challenges Regarding Outliers - Outlier Analysis",
+    "Subject - Data Mining and Business Intelligence Video Name - What are Outliers Types, Challenges Regarding Outliers Chapter ..."
+  ],
+  [
+    "Python for Machine Learning - Part 27 - Detecting Outliers using Elliptic Envelope",
+    "Python for Machine Learning - Part 27 - Detecting Outliers using Elliptic Envelope Detecting Outliers using Elliptic Envelope ..."
+  ],
+  [
+    "Outlier detection Part II",
+    "Paper: Regression Analysis II Module name: Outlier detection Part II Content Writer: Dr Pooja Sengupta / Ms. Sutaoa Ghosh."
+  ],
+  [
+    "Multivariate Outlier Detection For Machine Learning Using Matplotlib and Pandas in Python",
+    "Multivariate Outlier Detection in Machine Learning Using Matplotlib and Pandas in Python. Download Files From Here: ..."
+  ],
+  [
+    "Does normalizing your data affect outlier detection?",
+    "It is common practice to normalize data before using an outlier detection method. But which method should we use to normalize ..."
+  ],
+  [
+    "Anomaly Detection",
+    "Python Codes and Datasets: https://github.com/fanaee/AnomalyDetection Covered Topics: Definitions Applications Supervised vs."
+  ],
+  [
+    "Detecting outliers  #outliers #datascience #boxplot #shorts",
+    "In this video I describe an outlier detection method using boxplot, in less than a minute."
+  ],
+  [
+    "Automated Intelligent Outlier Detection",
+    "University of Colorado Boulder - Tuesday November 12, 2013 @ 8:30pm MST Abstract Bad data is common in the atmospheric ..."
+  ],
+  [
+    "Outlier detection and removal z-score,standard deviation ,IQR, Box Plot | Data Cleaning Tutorial 13",
+    "During the Machine Learning Data Cleaning process, you will often need to figure out whether you have outliers in the data set, ..."
+  ],
+  [
+    "Outlier Detection",
+    ""
+  ],
+  [
+    "(Code) Trimming outliers using the IQR method | Machine Learning",
+    "outliers #machine #learning #iqr #trimming In this tutorial, we'll understand how to use Z scores to trim outliers from a real-life ..."
+  ],
+  [
+    "Outliers Detection in mixed data | data science tutorials",
+    "Hey guys ! welcome to my channel here i upload videos related to programming , machine learning , data science Subscrie to ..."
+  ],
+  [
+    "8.Outlier Detection and Treatment using Python - Part 2 | How to Detect outliers in Machine Learning",
+    "This video titled \"Outlier Detection and Treatment using Python - Part 2 | How to Detect outliers in Machine Learning\" explains ..."
+  ],
+  [
+    "Outlier detection and churn prediction in business",
+    "PyData Cyprus Meetup - July 2021 This meetup was sponsored by RetailZoom Talk 1: Outlier Detection in Business Abstract ..."
+  ],
+  [
+    "Statistical Method for Outlier Detection",
+    ""
+  ],
+  [
+    "7.Outlier Detection and Treatment using Python - Part 1 | How to Detect outliers in Machine Learning",
+    "This video titled \"Outlier Detection and Treatment using Python - Part 1 | How to Detect outliers in Machine Learning\" explains ..."
+  ],
+  [
+    "TODS: An Automated Time Series Outlier Detection System",
+    "Github Repo: https://github.com/datamllab/tods Paper: https://arxiv.org/abs/2009.09822 TODS is a highly modular system that ..."
+  ],
+  [
+    "Outlier detection &amp; removal using Zscore &amp; Quantile | Python",
+    "Do you know how to detect & remove outliers in your data? Outliers are records which their value is extremely high or low. In this ..."
+  ],
+  [
+    "Detecting the Unexpected: An Introduction to Anomaly Detection Methods",
+    "Watch Dr. Kiri Wagstaff from JPL providing an introduction to anomaly detection methods at the Keck Institute for Space Studies ..."
+  ],
+  [
+    "Outlier detection and the calculation",
+    "In this short video, I have explained what is Outlier, what is the main cause of it and how to detect that via chart like Box and ..."
+  ],
+  [
+    "DILOF: Effective and Memory Efficient Local Outlier Detection in Data Streams",
+    "Authors: Gyoung S. Na (Pohang University of Science and Technology (POSTECH)); Donghyun Kim (Pohang University of ..."
+  ],
+  [
+    "Removing Outlier From Complex Data Sets !! Feature Engineering !! Data Science Tutorials",
+    "This is the Full Course on DATA SCIENCE Topics Discussed : (1)Outliers Full Concept (2)Removing Outliers (3)Outliers Detection ..."
+  ],
+  [
+    "Outlier Detection in Python | Machine Learning",
+    "In this video, you will learn how to detect outliers in your variable in python Other important playlists PySpark with Python: https: ..."
+  ],
+  [
+    "What is Outlier, Application of Outlier and Types of Outlier.",
+    "I tried to explain the concept in simple steps. I hope this video will help you to understand the Outlier Concept. If u Understood this ..."
+  ],
+  [
+    "Spatial Machine Learning Explained: Density-Based Clustering and Outlier Detection",
+    "This session will focus on unpacking the 'black box' of some of the most widely adopted Machine Learning methods used for ..."
+  ],
+  [
+    "Outlier Detection: Introduction to Advanced Machine Learning (3)",
+    "Presented by WWCode Data Science ‍   Speaker: Rishika Singh, Joseph Itopa ✓ Topics: Outlier Detection, Types of Outliers, ..."
+  ],
+  [
+    "Scalable Top-n Local Outlier Detection",
+    "Scalable Top-n Local Outlier Detection Yizhou Yan (Worcester Polytechnic Institute) Lei Cao (Massachusetts Institute of ..."
+  ],
+  [
+    "Detecting outliers in Time Series Data| #CodeWithMe |  Local Outlier Factor | Time Series",
+    "In this video, we detected outliers using the LOF Algorithm in time series data. Useful Resources: 1. Dataset ..."
+  ],
+  [
+    "Outlier Detection",
+    "This video is about Outlier Detection, statistical methods, distance, density, clustering, classification, contextual outliers."
+  ],
+  [
+    "Python Machine Learning Project Outlier Detection in Indoor Localization- ClickMyProject",
+    "In Internet of things (IoT) millions of devices are intelligently connected for providing smart services. Especially in indoor ..."
+  ],
+  [
+    "14 MATLAB 2018 Beginners Tutorial- Outlier Detection in Data",
+    "Hi, You got a new video on ML. Please watch: \"TensorFlow 2.0 Tutorial for Beginners 10 - Breast Cancer Detection Using CNN in ..."
+  ],
+  [
+    "Outlier detection using IQR Approach",
+    "Outlier detection using IQR Approach. Let's do hands-on... Let's come together in Joining our strong 3500+ members ..."
+  ],
+  [
+    "Outlier Analysis | Clustering-Based method",
+    "Outlier Analysis with Clustering-Based method and demonstration in Python 3 ( Jupyter )"
+  ],
+  [
+    "Outlier Detection &amp; Visualization in Power BI - Advanced DAX",
+    "Power BI is an amazing tool for visualizing advanced insights that require plenty of logic to work out. In this example, I give you an ..."
+  ],
+  [
+    "Outlier detection and removal in Python",
+    ""
+  ],
+  [
+    "Box Plot - 1 | How to draw Box Plot and Outlier | Data Mining | Statistics",
+    "What is Box Plots and Outlier How to draw Box Plots Whisker, Outlier, Q1, Q2, Q3, Min, Max Useful in Data Science Math."
+  ],
+  [
+    "outlier detection",
+    ""
+  ],
+  [
+    "Kernel-based outlier detection",
+    "The problem of outlier detection, or novelty detection can also be kernelised. We discuss in this video how to do it and what kind of ..."
+  ],
+  [
+    "Outlier Detection - Easily Detect Anomalies in your Metrics with Sumo Logic",
+    "You can now take advantage of our powerful analytics engine to better understand anomalies in your performance metrics data."
+  ],
+  [
+    "Reverse Nearest Neighbors in Unsupervised Distance-Based Outlier Detection",
+    "Reverse Nearest Neighbors in Unsupervised Distance-Based Outlier Detection To buy this project in ONLINE, Contact: Email: ..."
+  ],
+  [
+    "Outlier detection and Implementation in Python (Part-1)",
+    "Outliers #datascience #boxplot #iqr #zscore It is risky to include outliers in data driven models. The existence of one single ..."
+  ],
+  [
+    "Bugra Akyildiz - Outlier Detection in Time Series Signals",
+    "PyData SV 2014 Many real-world datasets have missing observations, noise and outliers; usually due to logistical problems, ..."
+  ],
+  [
+    "Time Series Analysis with Python Cookbook | 8. Outlier Detection Using Statistical Methods",
+    "Time Series Analysis with Python Cookbook is available from: Packt.com https://bit.ly/3xCNTzQ Amazon: https://amzn.to/3NShZoE ..."
+  ],
+  [
+    "Outlier Detection",
+    "Contents taken from google."
+  ],
+  [
+    "Bugra Akyildiz - Outlier Detection in Time Series Signals",
+    "PyData SV 2014 Many real-world datasets have missing observations, noise and outliers; usually due to logistical problems, ..."
+  ],
+  [
+    "Outlier Detection in Python | Machine Learning",
+    "In this video, you will learn how to detect outliers in your variable in python Other important playlists PySpark with Python: https: ..."
+  ],
+  [
+    "Outlier Detection using IQR Interquartile Range with Python|Statistics|Machine Learning|Data Science",
+    "DataScience #MachineLearning #Statistics."
+  ],
+  [
+    "Outlier Detection at Scale - Data Science Festival",
+    "Title: Outlier detection at scale Speaker: Juergen Dietz Abstract: With over 12k advertisers and a network of over 17k publishers, ..."
+  ],
+  [
+    "(Code) Capping outliers using the IQR method | Machine Learning",
+    "outliers #machine #learning #iqr #capping In this tutorial, we'll understand how to use IQR method to cap outliers in a real-life ..."
+  ],
+  [
+    "datamining outlier detection methods part 1",
+    "Recorded with https://screencast-o-matic.com."
+  ],
+  [
+    "outliers detection with machine learning",
+    "In this video I present a few ML techniques and explain how they can be used on data to detect fraud, outliers and anomalies."
+  ],
+  [
+    "Outlier detection with python part 1 univariate",
+    "In this video we look at outlier detection with python looking at filtering univariate outliers from columns. We do this by first building ..."
+  ],
+  [
+    "Kernel-based outlier detection",
+    "The problem of outlier detection, or novelty detection can also be kernelised. We discuss in this video how to do it and what kind of ..."
+  ],
+  [
+    "(Code) Capping outliers using the Z-score method | Machine Learning",
+    "outliers #machine #learning #z #scores #capping In this tutorial, we'll understand how to use Z scores to cap outliers in a real-life ..."
+  ],
+  [
+    "Outlier detection algorithm",
+    ""
+  ],
+  [
+    "outlier detection, missing values detection, univariate outliers detection",
+    "Outlier detection and handling techniques. These issues are handled at preprocessing. The issues generally involve missing ..."
+  ],
+  [
+    "Outlier detection with Excel",
+    ""
+  ],
+  [
+    "Citi® Payment Outlier Detection",
+    "Citi Payment Outlier Detection is a new informational analytics tool that can be used to help identify, review and stop outlier ..."
+  ],
+  [
+    "Identifying Outliers in SPSS (Tamil)",
+    "SPSS playlist:https://youtube.com/playlist?list=PLRd6q1FOHIYGylNvuwP3FhaWPi8EwrGVg ..."
+  ],
+  [
+    "Dynamic Outlier Detection and Visualization with DAX in Power BI",
+    "Learn the theory and best methods to create a dynamic sensitive outlier detection and customize it to your particular dataset."
+  ],
+  [
+    "Outlier Detection with Mahalanobis Charts in R",
+    "Mahalanobis distances are statistical distance measures used for outlier detection. Observations of distances from the chi-square ..."
+  ],
+  [
+    "DM Lecture- Clustering Analysis and outlier detection methods",
+    "Data Mining(3160714) 5. Clustering Analysis Dr. Ami Tusharkant Choksi Associate Professor, Computer Engineering Department, ..."
+  ],
+  [
+    "Provable Self-Representation Based Outlier Detection in a Union of Subspaces | Spotlight 3-1A",
+    "Chong You; Daniel P. Robinson; René Vidal Many computer vision tasks involve processing large amounts of data contaminated ..."
+  ],
+  [
+    "Saliency Deficit and Motion Outlier Detection in Animated Scatterplots",
+    "Saliency Deficit and Motion Outlier Detection in Animated Scatterplots Rafael Veras, Christopher Collins CHI '19: ACM CHI ..."
+  ],
+  [
+    "Anomaly Detection: Algorithms, Explanations, Applications",
+    "Anomaly detection is important for data cleaning, cybersecurity, and robust AI systems. This talk will review recent work in our ..."
+  ],
+  [
+    "Reverse Nearest Neighbors in Unsupervised Distance-Based Outlier Detection",
+    "Reverse Nearest Neighbors in Unsupervised Distance-Based Outlier Detection To buy this project in ONLINE, Contact: Email: ..."
+  ],
+  [
+    "Outlier Detection using RapidMiner",
+    ""
+  ],
+  [
+    "Saliency Deficit and Motion Outlier Detection in Animated Scatterplots",
+    "Saliency Deficit and Motion Outlier Detection in Animated Scatterplots Rafael Veras, Christopher Collins CHI '19: ACM CHI ..."
+  ],
+  [
+    "Outlier Analysis",
+    "Module 1: Data Mining Tasks/Functionalities Reference Book --- Data Mining: Concepts and Techniques(Second Edition)- Jiawei ..."
+  ],
+  [
+    "IXUP - Benchmarking, Trends and Outlier Detection Use Case",
+    "IXUP can help you take a broader view of your industry vertical by helping to identify trends that might not be apparent in your own ..."
+  ],
+  [
+    "[S+SSPR 2020] An Alternative Exploitation of Isolation Forests for Outlier Detection",
+    "Antonella Mensi, Alessio Franzoni, David M. J. Tax, Manuele Bicego. Abstract: Isolation Forests are one of the most successful ..."
+  ],
+  [
+    "Outlier Detection and Removal (Airline Satisfaction Prediction) - Data Every Day #187",
+    "Hi guys, welcome back to Data Every Day! On today's episode, we are looking at a dataset of airline customers and trying to ..."
+  ],
+  [
+    "Outlier Detection in Data Set | Python for Data Cleaning | Z-SCORE | BOX PLOT",
+    "Learn How to detect an outlier in your Data Set by using Z-score and Box Plot and download code for hands-on from below link ..."
+  ],
+  [
+    "Outlier detection and Implementation in Python (Part-1)",
+    "Outliers #datascience #boxplot #iqr #zscore It is risky to include outliers in data driven models. The existence of one single ..."
+  ],
+  [
+    "Identifying multivariate outliers using Z-score method",
+    "Code is given in the comment section. Learn Complete Machine Learning & Data Science using MATLAB: ..."
+  ],
+  [
+    "Find Outliers with Python- 4 Simple Ways",
+    "Learn how to use traditional IQR and leverage algorithms to identify anomalies and outliers in your data. In this tutorial, we will be ..."
+  ],
+  [
+    "Boxplot using seaborn | Detect Outlier | Exploratory data analysis",
+    "In this video we will work on House price prediction dataset : we will cover: - What is boxplot - How boxplot is plotted - Plotting ..."
+  ],
+  [
+    "What and Why of Outlier Detection, data cleansing",
+    "Anomaly detection and handling is an important preprocessing step in data mining and machine learning. Generally, there can be ..."
+  ],
+  [
+    "xStream: Outlier Detection in Feature-Evolving Data Streams",
+    "Authors: Emaad Manzoor (CMU), Hemank Lamba (CMU), Leman Akoglu (CMU) Abstract: This work addresses the outlier ..."
+  ],
+  [
+    "Outlier detection and removal using Inter-quartile range Method in Python",
+    "This function removes outliers based on the Inter-quartile range (IQR) method and replaces it with the median value of the raw ..."
+  ],
+  [
+    "Andrew Patterson - Outlier detection methods for detecting cheaters in mobile gaming",
+    "Filmed at PyData London 2017 www.pydata.org PyData is an educational program of NumFOCUS, a 501(c)3 non-profit ..."
+  ],
+  [
+    "Time Series Analysis with Python Cookbook | 8. Outlier Detection Using Statistical Methods",
+    "Time Series Analysis with Python Cookbook is available from: Packt.com https://bit.ly/3xCNTzQ Amazon: https://amzn.to/3NShZoE ..."
+  ],
+  [
+    "Outlier Detection in Big Time Series-Dr.pandrasamy ,ICRDSEIT 2020",
+    "Computer Science, DDE, Madurai Kamaraj Univeristy."
+  ],
+  [
+    "Anomalies, Breaks, and Outliers Detection in Time Series",
+    "Anton Antonov."
+  ],
+  [
+    "Outliers, detection and remedies.",
+    "An outlier is an observation that is unlike the other observations. It is rare, or distinct, or does not fit in some way. It is also called ..."
+  ],
+  [
+    "Outlier Detection in WSN using Ensembles Techniques",
+    "This video explains a research work about outlier detection using ensembles techniques (SUOD)"
+  ],
+  [
+    "Data Mining - Outlier detection - Exercise 1.d",
+    ""
+  ],
+  [
+    "Grubbs Test for Outlier Detection using Python",
+    "Grubbs' test (Grubbs 1969 and Stefansky 1972) is used to detect a single outlier in a univariate data set that follows an ..."
+  ],
+  [
+    "2021 INFORMS Depth-based Outlier Detection Toolbox",
+    "Antonio Elías presenting a Depth-based outlier detection toolbox at INFORMS 2021 Smart metering infrastructures collect data ..."
+  ],
+  [
+    "Python Machine Learning Project Outlier Detection in Indoor Localization- ClickMyProject",
+    "In Internet of things (IoT) millions of devices are intelligently connected for providing smart services. Especially in indoor ..."
+  ],
+  [
+    "Mahalanobis Distance - Outlier Detection for Multivariate Statistics in R",
+    "Mahalanobis Distance - Outlier Detection for Multivariate Statistics in R."
+  ],
+  [
+    "3D CS - 14 - Outlier Detection (Wolfgang Förstner 2020)",
+    "Slides: https://www.ipb.uni-bonn.de/html/teaching/3dcs-wf-2020/14-3D-CS-Bsc-Outlier-detection.pdf Exercises will be published ..."
+  ],
+  [
+    "Lecture 27 introduction to outlier detection",
+    ""
+  ],
+  [
+    "OUT1: Introduction to Outlier Detection",
+    "Lecture Summer 2022 - PARTIAL recording Erich Schubert, TU Dortmund, Artificial Intelligence 00:00 Introduction 00:57 What Are ..."
+  ],
+  [
+    "17. Normalize and Outlier Detection with the RapidMiner",
+    "Here you go, how to normalize and detect the outliers in the dataset."
+  ],
+  [
+    "Lecture 27 introduction to outlier detection",
+    ""
+  ],
+  [
+    "Bayesian Outlier Detection in Location-aware Wireless Networks",
+    "Abstract--- Location-aware networks are a rapidly growing area of research with a wide range of applications. The accuracy of ..."
+  ],
+  [
+    "isolationForest | Anomaly Detection",
+    "This video explains the basics of isolation forest which is used for anomaly detection."
+  ],
+  [
+    "ML 09 - Machine Learning in Tamil - Outliers Removal",
+    "code : https://github.com/nithyadurai87/machine_learning_examples Tutorials in Tamil ..."
+  ],
+  [
+    "Techniques for Anomaly Detection",
+    "This video gives a brief overview of 5 different techniques for Anomaly Detection. Each of these techniques is explained in more ..."
+  ],
+  [
+    "multivariate outlier detection in JMP",
+    "Using JMP to find outliers in data. Includles finding outliers, marking records, how to complete the Jackknife outlier calculation."
+  ],
+  [
+    "Outlier detection||Outlier||Outlier Removal||Python",
+    ""
+  ],
+  [
+    "Anomaly Detection Algorithms and Techniques for Real-World Detection Systems",
+    "Manojit Nandi ..."
+  ],
+  [
+    "Seminario CIO Rosa Lillo: Scalable outliers detection methods for functional data",
+    ""
+  ],
+  [
+    "(Code) What is Winsorization | Using percentiles for capping outliers in Python | Machine Learning",
+    "python #outliers #machine #learning #winsorization In this tutorial, we'll understand how to use the Winsorization technique to ..."
+  ],
+  [
+    "6.2 Distance based Outlier Mining",
+    ""
+  ],
+  [
+    "Pandas-10 | Outlier Detection And Removal Using Z-score/Percentile/IQR | Python Programming",
+    "Here we will study the following points about outliers Remove outliers python pandas z-score outlier detection pandas Remove ..."
+  ],
+  [
+    "Overview of Credit Card Fraud Detection Techniques",
+    "Hosted by Maarit Widmann and Rosaria Silipo. Based on the example of a credit card fraud detection problem, we will go through ..."
+  ],
+  [
+    "Utility Industry - Outlier Detection",
+    "In the world of Utilities, the ability to monitor Outlier usage activity on the power network has become a major requirement."
+  ],
+  [
+    "Isolation Forest for Outlier Detection within Python",
+    "Isolation Forest is a popular unsupervised machine learning algorithm for detecting anomalies (outliers) within datasets. Anomaly ..."
+  ],
+  [
+    "OUT7: Further Outlier Detectors",
+    "Lecture Summer 2022 - PARTIAL recording Erich Schubert, TU Dortmund, Artificial Intelligence 00:00 Other Outlier Detectors ..."
+  ],
+  [
+    "LOF (Local Outlier Factor) Quickly Explained",
+    ""
+  ],
+  [
+    "How to Detect and Remove Outliers in the Data | Python",
+    "Content Description ⭐️ In this video, I have explained on how to detect and remove outliers in the dataset using python."
+  ],
+  [
+    "How to remove outliers in Python? | For multiple columns | Step by step ♥",
+    "In this video, I demonstrated how to detect, extract, and remove outliers for multiple columns in Python, step by step. Enjoy."
+  ],
+  [
+    "Generalized ESD Test for Outlier Detection using Python",
+    "The Generalized Extreme Studentized Deviate (ESD) Test is a statistical test for outliers. It is used on univariate data which follows ..."
+  ],
+  [
+    "CS 432 - DM, Lec 24, Local Outlier Factor (LOF), Reconstruction-based Outlier Detection",
+    "LOF, auto-encoder based outlier detection."
+  ],
+  [
+    "Anomalies or Outlier, detection &amp; removal, Capping, Trimming, Treat as Missing, Binnig, in Hindi",
+    "Code: https://www.kaggle.com/mukulkirti/outlier-or-anomalies-detection-and-removal What is outlier Types 1.Univarient 2."
+  ],
+  [
+    "Power BI - Visualizing Outliers - Part 1",
+    "0:23 - Data Review 1:08 - Outliers Visual 1:57 - Build Visual 3:03 - Z-Score Review 6:00 - Tukey's Method 6:20 - Interquartile ..."
+  ],
+  [
+    "#15 Local outlier factor in machine learning in hindi | Machine learning lectures in hindi",
+    "This Target Machine Learning Course videos will help you understand and learn Machine Learning Algorithms in detail."
+  ],
+  [
+    "Video 5/7 – Outlier Detection (from the Session 3/5 – Basic Statistics)",
+    "Full Playlist of videos, Code and Datasets link ..."
+  ],
+  [
+    "Anomaly Detection with Isolation Forest ❌Unsupervised Machine Learning with Python",
+    "Isolation Forest is one of the most efficient algorithms for outlier detection especially in high dimensional datasets. The model ..."
+  ],
+  [
+    "Find Outliers in SQL",
+    "Let me show how to quickly find outliers in SQL using this easy to follow along code. In this tutorial, you will learn how to calculate ..."
+  ],
+  [
+    "OUTLIER DETECTION",
+    "How to find the outliers in the data for all the variables at once and their significance. for r codes find the github link ..."
+  ],
+  [
+    "How to Remove Outliers Using Python(outliers)(python)(PYTHON)(Boxplot)(Normality check)",
+    "https://www.youtube.com/channel/UCiTOUGVoZDvMTyxAZnd9tsw How to Remove Outliers Using ..."
+  ],
+  [
+    "Statistics Outlier in urdu, Hindi",
+    "Statistics Outlier in urdu, Hindi quartiles,statistics,quartiles in statistics,quartiles in statistics video,what are quartiles in statistics ..."
+  ],
+  [
+    "Multivariate Outlier Detection (Outlier detection Part 2).",
+    "This video deals with Multivariate outlier detection .We look into two methods 1)DBSCAN 2)LOF Link to the notebook ..."
+  ],
+  [
+    "Outlier Detection with the Elastic Stack",
+    "A common application of Machine Learning is to build models that can understand what's \"normal\" and what can be ignored, and ..."
+  ],
+  [
+    "Finding fraud using outlier detection by Penny Analytics",
+    "Penny Analytics: https://pennyanalytics.com In this video, we demonstrate how outlier detection (anomaly detection) can be used ..."
+  ],
+  [
+    "Fairness Aware Outlier Detection",
+    "Today on the show we have Shubhranshu Shekar, a Ph. D Student at Carnegie Mellon University, who joins us to talk about his ..."
+  ],
+  [
+    "Tutorial 8- Finding Outliers Using Python In Hindi",
+    "Our Popular courses:- Fullstack data science job guaranteed program:- bit.ly/3JronjT Tech Neuron OTT platform for Education:- ..."
+  ],
+  [
+    "Outlier detection in large data sets",
+    ""
+  ],
+  [
+    "Statistical anomaly detection techniques (CANHEIT 2021)",
+    "From May 31 - June 4, CANHEIT 2021 hosted Canada's largest virtual gathering of higher education IT leaders. This presentation ..."
+  ],
+  [
+    "Outlier Detection Using Residuals Quiz - Intro to Machine Learning",
+    "This video is part of an online course, Intro to Machine Learning. Check out the course here: ..."
+  ],
+  [
+    "Live Discussion On Outlier And Its Impacts On Machine Learning UseCases",
+    "github: https://github.com/krishnaik06/Feature-Engineering-Live-sessions Please donate if you want to support the channel ..."
+  ],
+  [
+    "DAY 31 | CLOUD COMPUTING &amp; BIGDATA ANALYTICS | V SEM | B.C.A | OUTLIER DETECTION AND TREATMENT | L2",
+    "Course : B.C.A Semester : V SEM Subject : CLOUD COMPUTING AND BIG DATA ANALYTICS Chapter Name : OUTLIER ..."
+  ],
+  [
+    "Outlier Detection in WSN using Ensembles Techniques",
+    "This video explains a research work about outlier detection using ensembles techniques (SUOD)"
+  ],
+  [
+    "Anomalies, Breaks, and Outlier Detection in Time Series (in R for Data Science User Group, Feb 2021)",
+    "This the recording of my presentation for the presentation \"Anomalies, Breaks, and Outlier Detection in Time Series\" given at ..."
+  ],
+  [
+    "Creating Dynamic Outlier Trigger Points - Advanced Power BI Analysis Technique",
+    "VIEW FULL WORKSHOP HERE - https://www.youtube.com/watch?v=uG32PtbWfTI&t=1634s During the last workshop session, ..."
+  ],
+  [
+    "COMP3425/8410 Outlier Detection in R",
+    "This video shows how to do simple outlier detection in R."
+  ],
+  [
+    "Statistics - Outlier detection",
+    ""
+  ],
+  [
+    "Anomaly Detection Using Gaussian Distribution -Data Science And Machine Learning",
+    "In this video I have discussed an unsupervised machine learning approach that is used for identifying rare items, events or ..."
+  ],
+  [
+    "Outlier detection",
+    ""
+  ],
+  [
+    "Efficient Outlier Detection for High-Dimensional Data",
+    "TO PURCHASE THIS PROJECT IN ONLINE CONTACT : TRU PROJECTS WEBSITE : www.truprojects.in MOBILE : 9676190678 ..."
+  ],
+  [
+    "Outlier detection",
+    ""
+  ],
+  [
+    "Outliers Detection (Ppt) | Best Business Analytics With Python Tutorial For Beginners | Henry Harvin",
+    "Henry Harvin Business Analytics course (Use code “YOUTUBE20”) ..."
+  ],
+  [
+    "Generalized ESD Test for Outlier Detection using Python",
+    "The Generalized Extreme Studentized Deviate (ESD) Test is a statistical test for outliers. It is used on univariate data which follows ..."
+  ],
+  [
+    "noc18-me62 Lec 45-Chi square distribution,and Data outlier detection",
+    "ChiSquareDistributions Dataoutlierdetection."
+  ],
+  [
+    "Anomaly Detection with Isolation Forest ❌Unsupervised Machine Learning with Python",
+    "Isolation Forest is one of the most efficient algorithms for outlier detection especially in high dimensional datasets. The model ..."
+  ],
+  [
+    "Outlier Detection with the Elastic Stack",
+    "A common application of Machine Learning is to build models that can understand what's \"normal\" and what can be ignored, and ..."
+  ],
+  [
+    "RelayiQ - Advanced Outlier Detection Demo",
+    "This video demos RelayiQ's approach to BI Automation with Advanced Outlier Detection and Communications via email, Slack, ..."
+  ],
+  [
+    "RapidMiner Tutorial Data Handling (Normalization and Outlier Detection)",
+    "Data mining application RapidMiner tutorial data handling \"Normalization and Outlier Detection\" Rapidminer Studio 7.1, Mac OS ..."
+  ],
+  [
+    "Tutorial 8- Finding Outliers Using Python In Hindi",
+    "Our Popular courses:- Fullstack data science job guaranteed program:- bit.ly/3JronjT Tech Neuron OTT platform for Education:- ..."
+  ],
+  [
+    "Anomaly detection using Isolation Forest - Contextual Anomalies",
+    "datascience #machinelearning #anomaly You can check my other videos on anomaly detection here ..."
+  ],
+  [
+    "Univariate Outlier Detection for Machine Learning Using Pandas and Matplotlib In Python",
+    "Outlier Detection By Univariate Method for Machine Learning In Python Using Matplotlib and Pandas Download Files Here: ..."
+  ],
+  [
+    "IMCCRT-2020-1125 Title: Application of Outlier Detection Algorithm in Identification of Credit Card",
+    "Title: Application of Outlier Detection Algorithm in Identification of Credit Card Authors Name: Arunkumar O N , Abraham Varghese ..."
+  ],
+  [
+    "Box Plots and Outliers Detection - Urdu / Hindi",
+    "BOX PLOT and Outliers - STATISTICS / ANALYSIS - Explained in Urdu / Hindi Five Number Summary or Boxplot concepts: ..."
+  ],
+  [
+    "Power BI - Visualizing Outliers - Part 1",
+    "0:23 - Data Review 1:08 - Outliers Visual 1:57 - Build Visual 3:03 - Z-Score Review 6:00 - Tukey's Method 6:20 - Interquartile ..."
+  ],
+  [
+    "Fairness Aware Outlier Detection",
+    "Today on the show we have Shubhranshu Shekar, a Ph. D Student at Carnegie Mellon University, who joins us to talk about his ..."
+  ],
+  [
+    "17. Normalize and Outlier Detection with the RapidMiner",
+    "Here you go, how to normalize and detect the outliers in the dataset."
+  ],
+  [
+    "Statistics Outlier in urdu, Hindi",
+    "Statistics Outlier in urdu, Hindi quartiles,statistics,quartiles in statistics,quartiles in statistics video,what are quartiles in statistics ..."
+  ],
+  [
+    "Video 5/7 – Outlier Detection (from the Session 3/5 – Basic Statistics)",
+    "Full Playlist of videos, Code and Datasets link ..."
+  ],
+  [
+    "Anomalies or Outlier detection, One-Class SVM outlier Detection, in Hindi",
+    "Code: https://www.kaggle.com/mukulkirti/outlier-or-anomalies-detection-and-removal/ What is outlier Types: 1. Univariate 2."
+  ],
+  [
+    "Outlier Detection in R",
+    "Function to automatically detect outliers in R Code can be found in the following github link: ..."
+  ],
+  [
+    "DBSCAN (Density Based Spatial Clustering Of Applications with Noise) ll Machine Learning (Hindi)",
+    "Myself Shridhar Mankar a Engineer l YouTuber l Educational Blogger l Educator l Podcaster. My Aim- To Make Engineering ..."
+  ],
+  [
+    "csc8004 video 5/5 -  kNN Outlier Detection Algorithm using Iris Dataset",
+    "This video shows a quick example of the kNN outlier detection algorithm to demonstrate how outliers are identified."
+  ],
+  [
+    "#149 - Anomaly Detection | Local Outlier Factor | Coding | Python I",
+    "This video is part of a comprehensive tutorial on AI, Machine Learning & Deep Learning. We recorded roughly 250 short videos ..."
+  ],
+  [
+    "Detecting &amp; handling outliers in Categorical Data",
+    "Code is posted in the comment section. Dataset :https://www.kaggle.com/c/titanic Learn Complete Machine Learning & Data ..."
+  ],
+  [
+    "Find Outliers in SQL",
+    "Let me show how to quickly find outliers in SQL using this easy to follow along code. In this tutorial, you will learn how to calculate ..."
+  ],
+  [
+    "How to find Outlier (Outlier detection) using box plot and then Treat it",
+    "Learn to interpret boxplot Understand -IQR -Using IQR for outlier detection."
+  ],
+  [
+    "Code Walkthrough - Outlier detection part1",
+    "It is risky to include outliers in data driven models. The existence of one single misleading value has the potential to change the ..."
+  ],
+  [
+    "datamining outlier detection methods part 1",
+    "Recorded with https://screencast-o-matic.com."
+  ],
+  [
+    "Feature Engineering in Python 5- How to Detect Outliers in Machine Learning",
+    "Hi, I will explain the outliers detections in the datasets for machine learning in python. I will be using the Boston housing dataset ..."
+  ],
+  [
+    "IDS Detection Methods /Techniques : Signature Based IDS and Anomaly Based IDS in Hindi",
+    "Myself Shridhar Mankar a Engineer l YouTuber l Educational Blogger l Educator l Podcaster. My Aim- To Make Engineering ..."
+  ],
+  [
+    "Dealing with Outliers in R",
+    "Dealing with Outliers in R, Data Cleaning using R, Outliers in R, NA values in R, Removing outliers in R, R data cleaning."
+  ],
+  [
+    "Univariate Outliers in SPSS",
+    "Univariate Outliers ------------------------------ In this video i will teach you about Univariate Outliers, and we will understand it by using ..."
+  ],
+  [
+    "Outlier Detection with Python (Indonesia)",
+    "Outlier Detection menggunakan python. Github : https://www.github.com/DufanD/outlier-detection -------------------- 2110161034 ..."
+  ],
+  [
+    "Unsupervised Anomaly Detection with Isolation Forest - Elena Sharova",
+    "PyData London 2018 This talk will focus on the importance of correctly defining an anomaly when conducting anomaly detection ..."
+  ],
+  [
+    "Detecting outliers using R",
+    "Paper: Regression Analysis II Module name: Detecting outliers using R Content Writer: Dr Pooja Sengupta."
+  ],
+  [
+    "Multivariate Outlier Analysis/Detection Using Scatter plots and boxplots in Python - Tutorial 21",
+    "In this Video Tutorial on Python for Data science, you will learn about multivariate outlier detection using Scatter plots and box ..."
+  ],
+  [
+    "Outlier Detection Part- 2 (Detection On Simple Dataset)",
+    "Python Code - https://github.com/amitpriyasingh/ExploratoryAnalysis/blob/master/outlierDetectionSelfMadeData.py Outlier ..."
+  ],
+  [
+    "How to detect outliers | Data Science Interview Questions and Answers | Machine Learning",
+    "In this tutorial, we will talk about how to answer the data science interview question about outlier detection. The tutorial covers the ..."
+  ],
+  [
+    "OUT2: Statistical Approaches in Outlier Detection",
+    "Lecture Summer 2022 - PARTIAL recording Erich Schubert, TU Dortmund, Artificial Intelligence 00:00 Statistical Approaches ..."
+  ],
+  [
+    "Outliers : Data Science Basics",
+    "How do we deal with outliers in data science? My Patreon : https://www.patreon.com/user?u=49277905."
+  ],
+  [
+    "Practical implementation of outlier detection in python",
+    "Outliers, one of the buzzwords in the manufacturing industry, has driven engineers and scientists to develop newer algorithms as ..."
+  ],
+  [
+    "Detecting and dealing with outliers",
+    "An easy way to detect outliers in your data and how to deal with them. Dataset file available for download in our blog."
+  ],
+  [
+    "Unsupervised Clustering in Mesos:  Outlier Detection | packtpub.com",
+    "This video tutorial has been taken from Unsupervised Clustering in Mesos. You can learn more and buy the full video course here ..."
+  ],
+  [
+    "How to handle Outliers in a dataset || Data Science Interview Questions || Data Science in Telugu",
+    "Hey folks, Welcome to my channel Nerchuko. Join Our Telegram Group: https://t.me/nerchuko Follow this channel on Instagram: ..."
+  ],
+  [
+    "Demystifying Feature Engineering - Detecting &amp; Removing Outliers",
+    "Watch video for Demystifying Feature Engineering - Outliers Feature Engineering will helps you to represent data in the most ..."
+  ],
+  [
+    "OUTLIER DETECTION IN DATA: Using Quartile-Quartile Approach",
+    "In this video, I demonstrate the easy and simple steps to follow in order to detect outliers in your sample set using the ..."
+  ],
+  [
+    "3 3 Detect Univariate Outliers",
+    "Video examines techniques for identifying univariate outliers in SPSS."
+  ],
+  [
+    "Data Mining With Python - Outlier Detection",
+    "Data Mining With Python - Outlier Detection in this video, we will share how to make outlier detection using in python for data ..."
+  ],
+  [
+    "what is outlier : how to find outlier",
+    "An Outlier is a rare chance of occurrence within a given data set. In Data Science, an Outlier is an observation point that is distant ..."
+  ],
+  [
+    "Machine Learning &amp; Data Science Project - 4 : Outlier Removal (Real Estate Price Prediction Project)",
+    "This data science project series walks through step by step process of how to build a real estate price prediction website. We will ..."
+  ],
+  [
+    "Outliers Detection [DATA SCIENCE AT SCALE WITH VERTICAPY]",
+    "Outliers are hard to define and not easy to catch. However many businesses need to find advanced techniques to catch them."
+  ],
+  [
+    "What are Outliers | When are outliers NOT really outliers | Machine Learning",
+    "outliers #machine #learning In this tutorial, we'll understand what are outliers in data, and when are data points that look like ..."
+  ],
+  [
+    "isolationForest | Anomaly Detection",
+    "This video explains the basics of isolation forest which is used for anomaly detection."
+  ],
+  [
+    "Anomaly Detection using Isolation Forest - Time Series",
+    "datascience #timeseries #isolationforest Anomaly detection using Facebook Prophet - https://youtu.be/0wfOOl5XtcU Isolation ..."
+  ],
+  [
+    "Outlier detection with interquartile range rule",
+    "Outlier detection with interquartile range rule For more information, visit github: https://github.com/danilopcarlotti/nlp4law."
+  ],
+  [
+    "Automate Anomaly Detection Using Pycaret -Data Science And Machine Learning",
+    "PyCaret's Anomaly Detection Module is an unsupervised machine learning module that is used for identifying rare items, events ..."
+  ],
+  [
+    "Handling Outliers | Detection and Removal | Feature Engineering  Machine Learning Data Mining Part 4",
+    "In statistics , an outlier is an observation point that is distant from other observations.These extreme values can be present in both ..."
+  ],
+  [
+    "outlier detection",
+    ""
+  ],
+  [
+    "How to identify and handle outliers using Python",
+    "In this video, let us understand 1) what are outliers? (0:25) 2) Causes for outliers (0:44) 3) Observational error/measurement error ..."
+  ],
+  [
+    "Data preprocessing and feature engineering with Python | Hypothesis testing &amp; outlier detection.",
+    "this includes basic data preprocessing steps before feeding data into a regression model, which includes, Exploratory data ..."
+  ],
+  [
+    "Outlier Detection and Removal Using Std Deviation | Data Science Using Machine Learning and Python",
+    "Outlier Detection and Removal Using Std Deviation #OutlierDetectionAndRemoval #StdDeviation ..."
+  ],
+  [
+    "Outlier detection part2",
+    "Outliers #datascience #boxplot #SIQR #Medcouple It is risky to include outliers in data driven models. The existence of one single ..."
+  ],
+  [
+    "Unsupervised Anomaly Detection With Advanced Analytics: Your Next Steps - Harizo Rajaona",
+    "How can we improve anomaly detection with unsupervised methods? After a quick sum up of supervised methods, we'll show ..."
+  ],
+  [
+    "Box Plots and Outliers Detection - Urdu / Hindi",
+    "BOX PLOT and Outliers - STATISTICS / ANALYSIS - Explained in Urdu / Hindi Five Number Summary or Boxplot concepts: ..."
+  ],
+  [
+    "Detecting Outliers in the Stock Market with Machine Learning",
+    "Using machine learning to separate noise from trends in the stock market. Uses the algorithm Isolation Forest to detect these ..."
+  ],
+  [
+    "OUT4: Local Outlier Detection (Local Outlier Factor, LOF)",
+    "Lecture Summer 2022 - PARTIAL recording Erich Schubert, TU Dortmund, Artificial Intelligence 00:00 Local Outlier Detection ..."
+  ],
+  [
+    "ODEBIO   Outlier Detection for Biomedical Applications ins",
+    "ODEBIO - Outlier Detection for Biomedical Applications (ins) For more information: ..."
+  ],
+  [
+    "20190528 A GIST Outlier Detection method via GAN _ Jusung Kang",
+    "A-GIST 스터디 발표 영상 [비정형 Units] 발표일 : 20190528 게시일 : 20190529 제목 : Outlier Detection method via GAN 발표자 ..."
+  ],
+  [
+    "Machine Learning &amp; Data Science Project - 4 : Outlier Removal (Real Estate Price Prediction Project)",
+    "This data science project series walks through step by step process of how to build a real estate price prediction website. We will ..."
+  ],
+  [
+    "OUTLIER DETECTION IN DATA: Using Quartile-Quartile Approach",
+    "In this video, I demonstrate the easy and simple steps to follow in order to detect outliers in your sample set using the ..."
+  ],
+  [
+    "Stream Data Preprocessing: Outlier Detection Based on the Chebyshev Inequality With Applications",
+    "The 26th IEEE FRUCT Conference: Stream Data Preprocessing: Outlier Detection Based on the Chebyshev Inequality With ..."
+  ],
+  [
+    "Creating Dynamic Outlier Trigger Points - Advanced Power BI Analysis Technique",
+    "VIEW FULL WORKSHOP HERE - https://www.youtube.com/watch?v=uG32PtbWfTI&t=1634s During the last workshop session, ..."
+  ],
+  [
+    "Lecture 15.1 — Anomaly Detection Problem | Motivation  — [ Machine Learning | Andrew Ng ]",
+    "GREAT DEAL*** ***12% OFF*** ***Apple MacBook Pro*** *BUY HERE:* https://amzn.to/3Wa365r."
+  ],
+  [
+    "When to and when NOT to use Z-scores for handling outliers | Machine Learning",
+    "z #score #outliers #ml In this tutorial, we'll learn when is it a good idea to use the Z-score method for detecting and dealing with ..."
+  ],
+  [
+    "datamining outlier detection part 2",
+    "Recorded with https://screencast-o-matic.com."
+  ],
+  [
+    "Detecting &amp; handling outliers in Categorical Data",
+    "Code is posted in the comment section. Dataset :https://www.kaggle.com/c/titanic Learn Complete Machine Learning & Data ..."
+  ],
+  [
+    "OUT2: Statistical Approaches in Outlier Detection",
+    "Lecture Summer 2022 - PARTIAL recording Erich Schubert, TU Dortmund, Artificial Intelligence 00:00 Statistical Approaches ..."
+  ],
+  [
+    "Data Mining With Python - Outlier Detection",
+    "Data Mining With Python - Outlier Detection in this video, we will share how to make outlier detection using in python for data ..."
+  ],
+  [
+    "How to find Outlier (Outlier detection) using box plot and then Treat it",
+    "Learn to interpret boxplot Understand -IQR -Using IQR for outlier detection."
+  ],
+  [
+    "(Code) Trimming outliers using the Z-score method | Machine Learning",
+    "outliers #machine #learning #z #scores #trimming In this tutorial, we'll understand how to use Z scores to cap and trim outliers ..."
+  ],
+  [
+    "Qlik Alerting &amp; Outlier Detection",
+    "This video shows you how to do an outlier detection using standard deviation in Qlik Alerting for data inside Qlik Sense."
+  ],
+  [
+    "Spatial Outlier Help Video (Point)",
+    "DSI."
+  ],
+  [
+    "Judging outliers in a dataset | Summarizing quantitative data | AP Statistics | Khan Academy",
+    "Courses on Khan Academy are always 100% free. Start practicing—and saving your progress—now: ..."
+  ],
+  [
+    "Anomaly Detection for JavaScript Apps",
+    "Watch this video to learn about the anomaly detection tools which will enable you to monitor and detect abnormalities in your ..."
+  ],
+  [
+    "Identifying multivariate outliers using Z-score method",
+    "Code is given in the comment section. Learn Complete Machine Learning & Data Science using MATLAB: ..."
+  ],
+  [
+    "Detect Outlier | Exploratory data analysis",
+    "In this video we will work on House price prediction dataset : we will cover: - What are Outliers - How to detect Outliers using ..."
+  ],
+  [
+    "Time Series Anomaly Detection Using Prophet in Python | Machine Learning",
+    "This tutorial will talk about how to do time series anomaly detection using Facebook (Meta) Prophet model in Python. Anomalies ..."
+  ],
+  [
+    "SAP HANA Academy - PAL: 143. Classification - SVM Outlier Detection Predict [2.0 SPS 01]",
+    "In this video tutorial, Philip Mugglestone shows how to predict potential outliers using a one-class Support Vector Machine (SVM) ..."
+  ],
+  [
+    "Dealing with Outliers in R",
+    "Dealing with Outliers in R, Data Cleaning using R, Outliers in R, NA values in R, Removing outliers in R, R data cleaning."
+  ],
+  [
+    "Applying unsupervised learning and outlier detection methods to characterise magnetotail electrons",
+    "Presented by Mayur Bakrania (University College London) ML4PSP Seminar October 2021 Collisionless space plasma ..."
+  ],
+  [
+    "OUT3: Distance-based Outlier Detection",
+    "Lecture Summer 2022 - PARTIAL recording Erich Schubert, TU Dortmund, Artificial Intelligence 00:00 Distance-Based ..."
+  ],
+  [
+    "Bay31 Identity Risk Scoring and Outlier Detection",
+    "Learn how Bay31's Identity Risk Scoring and Outlier Detection lets you accelerate your IT security audit or access review."
+  ],
+  [
+    "Outlier detection and removal using percentile - Stats For Data Science Class 03 - Urdu / Hindi",
+    "Hey Everyone! Outliers are unusual data points that differ significantly from rest of the samples. They can occur due to an error in ..."
+  ],
+  [
+    "Data Noise – Techniques to remove Noise(Binning, Regression, Clustering), Steps of Data Cleaning",
+    "Data Noise – Techniques to remove Noise(Binning, Regression, Clustering), Steps of Data Cleaning Process Data Warehouse ..."
+  ],
+  [
+    "#27 Grid Based Clustering - STING Algorithm |DM|",
+    "Abroad Education Channel : https://www.youtube.com/channel/UC9sgREj-cfZipx65BLiHGmw Company Specific HR Mock ..."
+  ],
+  [
+    "Machine Learning | Python for Machine Learning | Detect and Handle Outliers - P26",
+    "Outliers - How to detect the outliers and reduce the effect using variable transformation like using log, square root, cube root or ..."
+  ],
+  [
+    "Automated Intelligent Outlier Detection",
+    "University of Colorado Boulder - Tuesday November 12, 2013 @ 8:30pm MST Abstract Bad data is common in the atmospheric ..."
+  ],
+  [
+    "What is feature engineering | Feature Engineering Tutorial Python # 1",
+    "Feature engineering is an important area in the field of machine learning and data analysis. It helps in data cleaning process ..."
+  ],
+  [
+    "K-Nearest Neighbors (KNN) For Outlier Detection in Python",
+    "Hi everyone! This video is about how to implement the K-Nearest Neighbors (KNN) algorithm from scratch in Python, and use it for ..."
+  ],
+  [
+    "Quality control and automatic outlier detection  of atmospheric data",
+    "Quality control and automatic outlier detection of atmospheric data."
+  ],
+  [
+    "Applied Machine Learning 2019 - Lecture 16 - NMF; Outlier detection",
+    "Non-negative Matrix factorization for feature extraction Outlier detection with probabilistic models Isolation forests One-class SVMs ..."
+  ],
+  [
+    "Near Real time Outlier Detection and Interpretation",
+    ""
+  ],
+  [
+    "Clustering and outliers detection with DBSCAN in Power BI",
+    "This video is about DBSCAN clustering algorithm and the detection of outliers. I also show how you can implement in Power BI ..."
+  ],
+  [
+    "Detecting anomalies using Isolation Trees: Practical Machine Learning",
+    "Production alerts are an important way in which engineers monitor the health of their services. The alerts are fired when important ..."
+  ],
+  [
+    "#27 Grid Based Clustering - STING Algorithm |DM|",
+    "Abroad Education Channel : https://www.youtube.com/channel/UC9sgREj-cfZipx65BLiHGmw Company Specific HR Mock ..."
+  ],
+  [
+    "Outlier detection in production line 2 (Bottle fill level).",
+    "Inference data source: online webcam. Annotated class: OK level. epochs:150 sample pictures:1000. model:yolov5n. Dataset: ..."
+  ],
+  [
+    "Ways to Detect Outliers",
+    "This video covers different ways to detect outliers. Let's come together in Joining our strong 3500+ members community ..."
+  ],
+  [
+    "Data preprocessing and feature engineering with Python | Hypothesis testing &amp; outlier detection.",
+    "this includes basic data preprocessing steps before feeding data into a regression model, which includes, Exploratory data ..."
+  ],
+  [
+    "An Efficient Approach for Outlier Detection with Imperfect Data Labels",
+    "This Is KNOWLEDGE AND DATA ENGINEERING Paper. Developped In Java Platform. Developper: Vedha Technologies."
+  ],
+  [
+    "Introduction to Outliers",
+    "In this video we will understand about Outliers. After this video, watch - Possible Outlier Treatment: ..."
+  ],
+  [
+    "Demystifying Feature Engineering - Detecting &amp; Removing Outliers",
+    "Watch video for Demystifying Feature Engineering - Outliers Feature Engineering will helps you to represent data in the most ..."
+  ],
+  [
+    "Outlier Detection &amp; Treatment in R",
+    "OUTLIER #regression #datascience In this video you will learn how to detect & treat Outliers For study packs on Introduction to ..."
+  ],
+  [
+    "OUT4: Local Outlier Detection (Local Outlier Factor, LOF)",
+    "Lecture Summer 2022 - PARTIAL recording Erich Schubert, TU Dortmund, Artificial Intelligence 00:00 Local Outlier Detection ..."
+  ],
+  [
+    "Anomaly Detection",
+    "Python Codes and Datasets: https://github.com/fanaee/AnomalyDetection Covered Topics: Definitions Applications Supervised vs."
+  ],
+  [
+    "Detecting Outliers and Shifts in EViews 12",
+    "A demonstration of indicator saturation in EViews 12, which can automatically detect and model outliers and shifts in constants ..."
+  ],
+  [
+    "Tutorial 22-Univariate, Bivariate and Multivariate Analysis- Part1 (EDA)-Data Science",
+    "Please join as a member in my channel to get additional benefits like materials in Data Science, live streaming for Members and ..."
+  ],
+  [
+    "Lecture17 (Data2Decision) Testing for Outliers, part 1",
+    "Defining outliers, Chauvenet's criterion, Multiple of IQR, Dixon's Q-test. Course Website: ..."
+  ],
+  [
+    "4.7 Density based method DBSCAN",
+    "GATE Insights Version: CSE http://bit.ly/gate_insights or GATE Insights Version: CSE ..."
+  ],
+  [
+    "[CPSC 340] More Clustering, Outlier Detection",
+    "Slides at https://ubc-cs.github.io/cpsc340/lectures/L9.pdf?raw=1 Camera operated by Tanner Johnson. Content based on original ..."
+  ],
+  [
+    "Outlier detection and removal using percentile - Stats For Data Science Class 03 - Urdu / Hindi",
+    "Hey Everyone! Outliers are unusual data points that differ significantly from rest of the samples. They can occur due to an error in ..."
+  ],
+  [
+    "Outlier Detection in Medical Claims using Knime",
+    "This video describes the workflow of outlier detection in medical claims available on the Knime Workflow Public Server. Some of ..."
+  ],
+  [
+    "Dr. Spotfire - Using OSI PI, Hierarchical Clustering, and Outlier Detection",
+    "Discover what Dr. Spotfire's online office hours has to offer by registering for a live session. And that's not all! If you are ready to ..."
+  ],
+  [
+    "Data Mining With Python - Outlier Detection",
+    "Data Mining With Python - Outlier Detection in this video, we will share how to make outlier detection using in python for data ..."
+  ],
+  [
+    "Quality control and automatic outlier detection  of atmospheric data",
+    "Quality control and automatic outlier detection of atmospheric data."
+  ],
+  [
+    "What should you do with outliers?",
+    "An outlier is an unusual data point, a weirdo that's not like the others. What should you do if you find one in your dataset?"
+  ],
+  [
+    "Outlier detection with interquartile range rule",
+    "Outlier detection with interquartile range rule For more information, visit github: https://github.com/danilopcarlotti/nlp4law."
+  ],
+  [
+    "3 8 Detect Multivariate Outliers",
+    "Video examines techniques for detecting multivariate outliers in SPSS."
+  ],
+  [
+    "20190528 A GIST Outlier Detection method via GAN _ Jusung Kang",
+    "A-GIST 스터디 발표 영상 [비정형 Units] 발표일 : 20190528 게시일 : 20190529 제목 : Outlier Detection method via GAN 발표자 ..."
+  ],
+  [
+    "What Is Anomaly Detection ?",
+    "Anomaly detection is the process of identifying unexpected items or events in data sets, which differ from the normal Data Science ..."
+  ],
+  [
+    "Outliers Detection | using Boxplot| credit card dataset part 4",
+    "Hey guys ! welcome to my channel here i upload videos related to programming , machine learning , data science Subscrie to ..."
+  ],
+  [
+    "Remove outliers from your dataset using SAS",
+    "This video shows a simple method to remove outliers from your data set using SAS. Please remember that residual value between ..."
+  ],
+  [
+    "DM-11 DBSCAN and its use to detect anomaly",
+    "DBScan Clustering Anomaly Detection Python Implementation."
+  ],
+  [
+    "028 Anomaly detection in Python",
+    ""
+  ],
+  [
+    "Detection of Outliers 1",
+    "This video helps in identifying outliers in data set."
+  ],
+  [
+    "ML Bootcamp - Data Visualization &amp; Outlier Detection with Seaborn, Matplotlib",
+    "In this video of our 30 Days Machine Learning Bootcamp, we will learn about Data Visualisation & Outlier Detection with Seaborn, ..."
+  ],
+  [
+    "How to Detect, Remove, and Work with Outliers | Practical Example Machine Learning",
+    "Outliers cause statistical challenges, understand what are outliers, how to visualize outliers, get hands-on experience working ..."
+  ],
+  [
+    "Credit Card Fraud Detection using Machine Learning from Kaggle",
+    "The Credit Card Fraud Detection Problem includes modeling past credit card transactions with the knowledge of the ones that ..."
+  ],
+  [
+    "Ch12 High Dimensional Data",
+    ""
+  ],
+  [
+    "When to and when NOT to use Z-scores for handling outliers | Machine Learning",
+    "z #score #outliers #ml In this tutorial, we'll learn when is it a good idea to use the Z-score method for detecting and dealing with ..."
+  ],
+  [
+    "Identifying Multivariate Outliers with Mahalanobis Distance in SPSS",
+    "This video demonstrates how to identify multivariate outliers with Mahalanobis distance in SPSS. The probability of the ..."
+  ],
+  [
+    "What are outliers, How to Detect Them, When to Remove Them (Trimmed Mean, Z Score, Modified Z Score)",
+    "Trimmed Mean: [1:52] Standard Z Score: [2:25] Modified Z Score: [2:55] What is an outlier? What methods are there for detecting ..."
+  ],
+  [
+    "datamining outlier detection part 2",
+    "Recorded with https://screencast-o-matic.com."
+  ],
+  [
+    "Outlier &amp; Missing Value Treatment Hands-on",
+    "In our earlier videos we have covered the theory related to common issues with any dataset and we also discussed the right ..."
+  ],
+  [
+    "How to spot and remove outliers using Knowledge-based rule system? #analytics #knime #outliers",
+    "Get the full course on Udemy: https://www.udemy.com/course/applied-hr-people-analytics-certificate-course/?"
+  ],
+  [
+    "DBSCAN Clustering for Identifying Outliers Using Python - Tutorial 22 in Jupyter Notebook",
+    "In this tutorial about python for data science, you will learn about DBSCAN (Density-based spatial clustering of applications with ..."
+  ],
+  [
+    "Part--6 | ML project | Outlier detection Analysis | Airline Passenger Satisfaction | #IQR,#box-plot",
+    "Outliers are actually headache in machine learning projects, we need to spend a lot of time to detect outliers. So in this we are ..."
+  ],
+  [
+    "Anomaly detection with Isolation Forests",
+    "For more ML content, visit, https://machinelearninginterview.com/ All of us know random forests, one of the most popular ML ..."
+  ],
+  [
+    "4. How to detect and handle Outlier Data Preprocessing Data Mining Machine Learning by Mahesh Huddar",
+    "4. How to detect and handle Outlier Data Preprocessing Data Mining Machine Learning by Mahesh Huddar Blog / Source Code: 1 ..."
+  ],
+  [
+    "What are techniques to identify outliers and how to handle them? | Machine learning Interview",
+    "A more detailed article on dealing with outliers and anomaly in your data: ..."
+  ],
+  [
+    "Univariate data analysis - 04 - Outliers, and &quot;Robust Methods&quot; to deal with them",
+    "These videos are part of the FREE online book, \"Process Improvement using Data\", http://yint.org/pid Related is the Coursera ..."
+  ],
+  [
+    "Bay31 Identity Risk Scoring and Outlier Detection",
+    "Learn how Bay31's Identity Risk Scoring and Outlier Detection lets you accelerate your IT security audit or access review."
+  ],
+  [
+    "Outlier detection using z-score standard deviation &amp; IQR - Stats For DataScience C#04 - Urdu / Hindi",
+    "Hey Everyone! Outliers are unusual data points that differ significantly from rest of the samples. They can occur due to an error in ..."
+  ],
+  [
+    "Using IQR for handling outliers | Calculating Percentiles | Inner &amp; Outer Fences | Machine Learning",
+    "iqr #outliers In this tutorial, we'll learn when is it a good idea to use the IQR method for detecting and dealing with outliers in data, ..."
+  ],
+  [
+    "9.Preprocessing Outliers",
+    "Tratando con los outliers (I)"
+  ],
+  [
+    "Tracking with Outlier Detection and Occlusion Handling Combining Depth and Audio Measurements",
+    "This video shows a comparison of raw head tracking results from Kinect SDK v2.0 versus our results after outlier detection and ..."
+  ],
+  [
+    "ODEBIO   Outlier Detection for Biomedical Applications ins",
+    "ODEBIO - Outlier Detection for Biomedical Applications (ins) For more information: ..."
+  ],
+  [
+    "Machine Learning | Detect Outliers using Mathematical Formula through Python - P28",
+    "Machine Learning | Detect Outliers using Mathematical Formula through Python - P28 Session # 28 Topic to be covered - Detect ..."
+  ],
+  [
+    "Regression Modeling: Detecting Outliers in Data || Data Science",
+    "regression #outlier #sas In this video you will learn how to detect outliers in your data before doing modeling For Training & Study ..."
+  ],
+  [
+    "Anomaly Detection model on Time Series data in Python",
+    "datascience #anomalydetection #timeseries In this video we are going to see Anomaly detection using facebook prophet Anomaly ..."
+  ],
+  [
+    "BAN 5573 section 1, Feb/16/2021, Knime experiment for outlier detection and cross validation",
+    "In this session, we worked on two workflows. The first was for outlier detection, the second was for experimenting cross-validation ..."
+  ],
+  [
+    "Reverse Nearest Neighbors In Unsupervised Distance Based Outlier Detection",
+    "O GET THIS PROJECT THROUGH ONLINE OR TRAINING SESSION CONTACT: LansA Informatics Pvt Ltd No 165, 5th Street, ..."
+  ],
+  [
+    "INFORMATION-THEORETIC OUTLIER DETECTION FOR LARGE-SCALE CATEGORICAL DATA",
+    "Gagner Technologies offers M.E projects based on IEEE 2013 . Final Year Projects, M.E projects 2013-2014, mini projects ..."
+  ],
+  [
+    "[OOPSLA] Approximate Computation with Outlier Detection in Topaz",
+    "Talk Title: Approximate Computation with Outlier Detection in Topaz Presenter: Sara Achour More Info: ..."
+  ],
+  [
+    "Anomaly Detection with Machine Learning",
+    "Unsupervised machine learning can help you detect anomalies in your data and forecast trends. The Elastic Observability and ..."
+  ],
+  [
+    "Excel PRO TIP: Outlier Detection | Top Udemy Instructor, Chris Dutton",
+    "In this video, Excel PRO TIP: Outlier Detection, by Udemy Instructor, Chris Dutton you'll learn some Excel's greatest features."
+  ],
+  [
+    "184 - Deep Unsupervised Anomaly Detection",
+    ""
+  ],
+  [
+    "The Power of AI: How to Detect Outliers in Data Using Machine Learning | Accurate Outlier Detection",
+    "This demo video shows how Gleematic can detect outliers in the data. An outlier is an abnormal data point that significantly differs ..."
+  ],
+  [
+    "Ch 12 Statistical Methods",
+    ""
+  ],
+  [
+    "Anomaly detection &amp; behavior analytics in Payments Fraud Risk management.",
+    ""
+  ],
+  [
+    "Anomaly Detection - Algorithms, Use cases, and Hands on",
+    "In this session, we talk about the notion of anomaly detection, and how Machine learning is being progressively used to automate ..."
+  ],
+  [
+    "Use cases in Social Media Analytics: Anomaly Detection",
+    "This a video about anomaly detection (outlier detection) from my course Social Media Analytics on Experfy ..."
+  ],
+  [
+    "DM Lecture- Clustering Analysis and outlier detection methods",
+    "Data Mining(3160714) 5. Clustering Analysis Dr. Ami Tusharkant Choksi Associate Professor, Computer Engineering Department, ..."
+  ],
+  [
+    "Outlier Detection and Removal in Python",
+    "In this video we discuss how to remove outlier from a given dataset during machine learning. Since, outliers reduces the accuracy ..."
+  ],
+  [
+    "&quot;Graph Databases for Dynamic Recommender Systems and Outlier Detection&quot;",
+    "Denis Vrdoljak, CISCO & Gunnar Kleemann, UC Berkeley presented \"Graph Databases for Dynamic Recommender Systems and ..."
+  ],
+  [
+    "Reverse Nearest Neighbors in Unsupervised Distance Based Outlier Detection",
+    "2015 IEEE Transaction on KNOWLEDGE AND DATA ENGINEERING For More Details::Contact::K.Manjunath - 09535866270 ..."
+  ],
+  [
+    "Reverse Nearest Neighbors in Unsupervised Distance Based Outlier Detection new",
+    ""
+  ],
+  [
+    "A visual way to check for outliers",
+    "Download the code here: https://github.com/mariocastro73/ML2020-2021/blob/master/scripts/outliers.R."
+  ],
+  [
+    "Python Tutorial : Outliers in Credit Data",
+    "Want to learn more? Take the full course at https://learn.datacamp.com/courses/credit-risk-modeling-in-python at your own pace."
+  ],
+  [
+    "K-Nearest Neighbor Classification ll KNN Classification Explained with Solved Example in Hindi",
+    "Myself Shridhar Mankar a Engineer l YouTuber l Educational Blogger l Educator l Podcaster. My Aim- To Make Engineering ..."
+  ],
+  [
+    "Chi square distribution,and Data outlier detection",
+    "Subject: Mechanical Engineering and Science Courses: Engineering Metrology."
+  ],
+  [
+    "What is Outlier?",
+    "Introduction to Outlier ----------------------------------- In this video i will teach you about Introduction to Outlier, and we will understand ..."
+  ],
+  [
+    "Outlier Detection and Treatment, Data Analytics, KTU CSE",
+    "Exclusive learning platform for Engineering students* *Live and Recorded Classes Available* *Our Specialities* 1️⃣One to ..."
+  ],
+  [
+    "Detecting and controling outliers with PowerBI",
+    "In this video, you will learn how to detect outliers using PowerBi. Specifically, we are detecting and excluding outlier through the ..."
+  ],
+  [
+    "Leveraging Beacon Detection Techniques to Identify Anomalous Logons | 2020 THIR Summit",
+    "Attackers attempting to compromise passwords via brute forcing or password spraying usually do so with the help of automated ..."
+  ],
+  [
+    "Outlier Analysis",
+    "Video ini dibuat untuk memenuhi projek mata kuliah Data Mining. Nama Dosen : Dewi Suryani Kelas : LD01 Nama Kelompok ..."
+  ],
+  [
+    "Data/Fun:-How to deal with outlier in Python|outlier treatment|Boxplot",
+    "Data Science updates:-- Outlier Analysis| Data mining|Data Cleaning In real life data having Outlier values so Outlier values is big ..."
+  ],
+  [
+    "[SIBGRAPI 2021] Paper: Unsupervised Brain Anomaly Detection in MR Images",
+    "This is the video presentation of my paper 'Unsupervised Brain Anomaly Detection in MR Images', accepted at SIBGRAPI 2021, ..."
+  ],
+  [
+    "Information-Theoretic Outlier Detection for Large-Scale Categorical Data",
+    "Gagner Technologies offers M.E projects based on IEEE 2014 . M.Phil Research projects,Final Year Projects, M.E projects ..."
+  ],
+  [
+    "Using clustering to detect multivariate outliers",
+    ""
+  ],
+  [
+    "Production ML Monitoring: Outliers, Drift, Explainers &amp; Statistical Performance",
+    "The lifecycle of a machine learning model only begins once it's in production. In this talk we provide a practical deep dive on best ..."
+  ],
+  [
+    "Prof Sam Madden, MIT CSAIL on &quot;Outlier Detection&quot;",
+    "Rapidly developing areas of information technology are generating massive amounts of data. Human errors, sensor failures, and ..."
+  ],
+  [
+    "Python Tutorial: Data outliers and scaling",
+    "Want to learn more? Take the full course at ..."
+  ],
+  [
+    "Time Series Anomaly Detection Using Prophet in Python | Machine Learning",
+    "This tutorial will talk about how to do time series anomaly detection using Facebook (Meta) Prophet model in Python. Anomalies ..."
+  ],
+  [
+    "Anomaly Detection on Image Data using Generative Adversarial Networks",
+    "My Second Undergraduate Honours Seminar at the University of Regina."
+  ],
+  [
+    "#24 (Predictive Modeling) How to Treat Outliers in Python | Google Colab | RK KEYNOTES",
+    "Outliers #DetectOutliers #OutliersTreatment #BoxPlot #ScatterPlot #NumPy #Matplotlib In this video, I have shown how to detect ..."
+  ],
+  [
+    "Splunk MLTK&#39;s Detect Numeric Outliers assistant for detecting deviation in no. of employee logins",
+    "In this video, we will be using the Splunk Machine Learning Toolkit's (MLTK) Detect Numeric Outleirs assistant to find values that ..."
+  ],
+  [
+    "How to Detect and Remove Outliers using Interquantile Range in Python",
+    "Join this channel to get access to perks: https://bit.ly/363MzLo In this tutorial, you're gonna learn how to detect and remove outliers ..."
+  ],
+  [
+    "Implement DBSCAN Clustering and detecting OUTLIERS with Python",
+    "Video demonstrate how to use and implement DBSCAN Clustering in practice with Python in real data. This is one of methods ..."
+  ],
+  [
+    "OUTLIER ANALYSIS",
+    ""
+  ],
+  [
+    "Anomaly detection with KNN",
+    "How do you know something is not right or it is far from the normal situation? Mathematically, if we can measure the distance ..."
+  ],
+  [
+    "Stereo vision SLAM with a novel outlier detection algorithm",
+    "http://www.esl.sun.ac.za/mapping/"
+  ],
+  [
+    "982 SAD: An Unsupervised System for Subsequence Anomaly Detection",
+    "Table of Contents (powered by https://videoken.com) 0:00:00 [Talk: SAD: An Unsupervised System for Subsequence Anomaly ..."
+  ],
+  [
+    "Anomaly detection using iforest",
+    "Anomaly detection is an interesting topic that is gaining interest in different industries. Anomaly detection algorithms in health care ..."
+  ],
+  [
+    "Big Data Analysis Basics Lecture 9 (180512) - outlier detection, density estimation",
+    ""
+  ],
+  [
+    "Can Outlier Detection Be Automated Using AI technology?| BlinxAI #blinxai #outlierdetection #ml #ai",
+    "Blinx A.I. has the capability to give entry-level users access to machine learning and A.I. These can be used for data analytics and ..."
+  ],
+  [
+    "184 - Deep Unsupervised Anomaly Detection",
+    ""
+  ],
+  [
+    "Proximity Methods",
+    ""
+  ],
+  [
+    "Azure ML Studio: Address Outliers",
+    "Data: https://www.ishelp.info/data/bikebuyers.csv."
+  ],
+  [
+    "4. How to detect and handle Outlier Data Preprocessing Data Mining Machine Learning by Mahesh Huddar",
+    "4. How to detect and handle Outlier Data Preprocessing Data Mining Machine Learning by Mahesh Huddar Blog / Source Code: 1 ..."
+  ],
+  [
+    "What are outliers, How to Detect Them, When to Remove Them (Trimmed Mean, Z Score, Modified Z Score)",
+    "Trimmed Mean: [1:52] Standard Z Score: [2:25] Modified Z Score: [2:55] What is an outlier? What methods are there for detecting ..."
+  ],
+  [
+    "Anomaly Detection with Machine Learning",
+    "Unsupervised machine learning can help you detect anomalies in your data and forecast trends. The Elastic Observability and ..."
+  ],
+  [
+    "Nuts and Bolts of Machine Learning Model: Theory and Practical using Python",
+    ""
+  ],
+  [
+    "Detecting Temporal Anomalies in Business Processes Using Distance-Based Methods",
+    "Title: Detecting Temporal Anomalies in Business Processes Using Distance-Based Methods Authors: Ioannis Mavroudopoulos ..."
+  ],
+  [
+    "Graph Representation Learning in the Presence of Outliers (Sambaran, IBM Research &amp; IISC Bangalore)",
+    "Sambaran Bandyopadhyay from IBM Research & IISC Bangalore present in UoU Data Science Club ..."
+  ],
+  [
+    "Detecting Univariate Outliers in Data Scores using SPSS",
+    "To download playlists (pdf), data sets, and take tests visit https://rkvarsity.com/ Learn how to detect univariate outliers with the help ..."
+  ],
+  [
+    "Z - Score | Standard Score | outlier detection | statistics | Data science | Machine Learning Part 7",
+    "Z-score also known as standard score gives you an idea of how far from the mean a data point is. But more technically it's a ..."
+  ],
+  [
+    "An Efficient Approach for Outlier Detection with Imperfect Data Labels",
+    "An Efficient Approach for Outlier Detection with Imperfect Data Labels +91-9994232214,8144199666, ..."
+  ],
+  [
+    "Detecting and controling outliers with PowerBI",
+    "In this video, you will learn how to detect outliers using PowerBi. Specifically, we are detecting and excluding outlier through the ..."
+  ],
+  [
+    "Group Anomaly Detection with Machine Learning",
+    "The identification of anomalous overdensities in data --- group or collective anomaly detection --- is a rich problem with a large ..."
+  ],
+  [
+    "Tech talk: Explainable anomaly detection",
+    "Spotting irregularities in data plays a crucial role in processes that protect organisations from harm, such as identifying financial ..."
+  ],
+  [
+    "Machine Learning Tutorial 15 - Outliers",
+    "FREE Courses (100+ hours) - https://calcur.tech/all-in-ones Python Course - https://calcur.tech/python-courses ✓ Data ..."
+  ],
+  [
+    "Identifying univariate outliers using the 2 standard deviation method in SPSS",
+    "Identifying univariate outliers using the 2 standard deviation method in SPSS."
+  ],
+  [
+    "Local Dynamic Neighborhood Based Outlier Detection Approach and its Framework for Large Scale Data",
+    "For More Details Contact Name:Venkatarao Ganipisetty Mobile:+91 9966499110 Email :venkatjavaprojects@gmail.com ..."
+  ],
+  [
+    "Anomaly detection &amp; behavior analytics in Payments Fraud Risk management.",
+    ""
+  ],
+  [
+    "Anomaly detection with Isolation Forest Crash Course",
+    "This video will show you how to perform anomaly detection with Isolation Forest with Python. This is the continuous part of the ..."
+  ],
+  [
+    "SMART Seminar Series: Presented by Dean Marchiori",
+    "Mr Dean Marchiori presented a seminar titled \"Unsupervised outlier detection systems for e-commerce\" as part of the SMART ..."
+  ],
+  [
+    "Pandas : How to detect and remove outliers from each column of pandas dataframe at one go?",
+    "Pandas : How to detect and remove outliers from each column of pandas dataframe at one go? [ Beautify Your Computer ..."
+  ],
+  [
+    "Detecting Ourliers Using R Studio",
+    "An outlier is a value or an observation that is distant from other observations, that is to say, a data point that differs significantly ..."
+  ],
+  [
+    "Anomaly Detection - Handling Collective Anomalies- Mehmet Gorkem Kestane",
+    "In this video, I made a presentation to senior year ungraduate Computer Engineering students. I talked about what is collective ..."
+  ],
+  [
+    "What is Anomaly detection? Stylianos Kampakis",
+    "What is Anomaly detection? Stylianos Kampakis To Subscribe!! https://bit.ly/3xiivHg Anomaly detection is a topic with many ..."
+  ],
+  [
+    "K-Nearest Neighbor Classification ll KNN Classification Explained with Solved Example in Hindi",
+    "Myself Shridhar Mankar a Engineer l YouTuber l Educational Blogger l Educator l Podcaster. My Aim- To Make Engineering ..."
+  ],
+  [
+    "20190528 A GIST Outlier Detection method via GAN _ Jusung Kang",
+    "A-GIST 스터디 발표 영상 [비정형 Units] 발표일 : 20190528 게시일 : 20190529 제목 : Outlier Detection method via GAN 발표자 ..."
+  ],
+  [
+    "outlier analysis using  ELLIPTICAL ENVELOPE algorithm",
+    "in this tutorial you will know how to do outlier analysis. code: ..."
+  ],
+  [
+    "Removing Outliers in Python | The Gaussian Distribution | Normal Distribution | Machine Learning",
+    "Removing Outliers in Python | The Gaussian Distribution | Normal Distribution | Machine Learning ✓ Join the Facebook Group: ..."
+  ],
+  [
+    "Outlier analysis in SCLC - Vinicius Ernani",
+    ""
+  ],
+  [
+    "The Power of AI: How to Detect Outliers in Data Using Machine Learning | Accurate Outlier Detection",
+    "This demo video shows how Gleematic can detect outliers in the data. An outlier is an abnormal data point that significantly differs ..."
+  ],
+  [
+    "Using clustering to detect multivariate outliers",
+    ""
+  ],
+  [
+    "BML ID 152 Fraud Detection Techniques In The BigData Era",
+    "152 Hanae Abbassi, Imane El Alaoui and Youssef Gahi Fraud Detection Techniques In The Big Data Era."
+  ],
+  [
+    "Data/Fun:-How to deal with outlier in Python|outlier treatment|Boxplot",
+    "Data Science updates:-- Outlier Analysis| Data mining|Data Cleaning In real life data having Outlier values so Outlier values is big ..."
+  ],
+  [
+    "Detection of outliers II",
+    "Subject:Statistics Paper: Regression analysis II."
+  ],
+  [
+    "Python Tutorial : Outliers in Credit Data",
+    "Want to learn more? Take the full course at https://learn.datacamp.com/courses/credit-risk-modeling-in-python at your own pace."
+  ],
+  [
+    "Learn fMRI (W09) 04 Parametric vs Non-Parametric Group Analysis: Outliers",
+    ""
+  ],
+  [
+    "BAN 5573 section 1, Mar/24/2021, KNIME experiments for outlier detection, and SVM cross-validation",
+    "Visual Analytics & Business Intelligence Spring 2021, section 1 In this session, we had 2 KNIME experiments, in the first one we ..."
+  ],
+  [
+    "Lesson 16 Outlier Diagnostic Rstudio Help",
+    ""
+  ],
+  [
+    "Outlier vs noise (Bangla)",
+    "Video Title: Data Mining By Rohit Lecture: Outlier vs noise Topic: Data Mining Lectured by: Syed Rohit Zaman Gmail ..."
+  ],
+  [
+    "Outlier Detection Based on Recurrent Neural Networks",
+    "We provide you best learning capable projects with online support What we support? 1. Online assistance for project Execution ..."
+  ],
+  [
+    "Outlier Detection with BiGAN with tensorflow with MNIST",
+    "Using Bidirectional GAN for Anomaly Detection with tensorflow on the MNIST images, with 0 as outlier and the tuple (ground truth ..."
+  ],
+  [
+    "Splunk MLTK&#39;s Detect Numeric Outliers assistant for detecting deviation in no. of employee logins",
+    "In this video, we will be using the Splunk Machine Learning Toolkit's (MLTK) Detect Numeric Outleirs assistant to find values that ..."
+  ],
+  [
+    "Outlier Treatment through Square Root Transformation | Convert Skewed data to Normal Distribution",
+    "This video titled \"Outlier Treatment through Square Root Transformation | Convert Skewed data to Normal Distribution\" explains ..."
+  ],
+  [
+    "A Hybrid Unsupervised Clustering Based Anomaly Detection Method",
+    "A Hybrid Unsupervised Clustering Based Anomaly Detection Method IEEE PROJECTS 2021-2022 TITLE LIST MTech,BTech,BE ..."
+  ],
+  [
+    "Parametric Methods for Anomaly Detection in Aggregate Traffic",
+    "Parametric Methods for Anomaly Detection in Aggregate Traffic To buy this project in ONLINE, Contact: Email: ..."
+  ],
+  [
+    "Python Tutorial : Outliers in Credit Data",
+    "Want to learn more? Take the full course at https://learn.datacamp.com/courses/credit-risk-modeling-in-python at your own pace."
+  ],
+  [
+    "outlier analysis using  ELLIPTICAL ENVELOPE algorithm",
+    "in this tutorial you will know how to do outlier analysis. code: ..."
+  ],
+  [
+    "Outlier analysis in SCLC - Vinicius Ernani",
+    ""
+  ],
+  [
+    "Splunk MLTK&#39;s Detect Numeric Outliers assistant for detecting deviation in no. of employee logins",
+    "In this video, we will be using the Splunk Machine Learning Toolkit's (MLTK) Detect Numeric Outleirs assistant to find values that ..."
+  ],
+  [
+    "Anomaly Detection Based on Log Analysis | AI/ML IN 5G CHALLENGE",
+    "Puzzled by massive log data? Log Anomaly Detection can save you! Logs, as we know, record valuable systems runtime ..."
+  ],
+  [
+    "BML ID 152 Fraud Detection Techniques In The BigData Era",
+    "152 Hanae Abbassi, Imane El Alaoui and Youssef Gahi Fraud Detection Techniques In The Big Data Era."
+  ],
+  [
+    "20190528 A GIST Outlier Detection method via GAN _ Jusung Kang",
+    "A-GIST 스터디 발표 영상 [비정형 Units] 발표일 : 20190528 게시일 : 20190529 제목 : Outlier Detection method via GAN 발표자 ..."
+  ],
+  [
+    "HawkEye: A Real Time Anomaly Detection System",
+    "HawkEye: A Real-Time Anomaly Detection System Talk at Fifth Elephant Conference 2015 HawkEye is a real-time anomaly ..."
+  ],
+  [
+    "Outlier Treatment through Square Root Transformation | Convert Skewed data to Normal Distribution",
+    "This video titled \"Outlier Treatment through Square Root Transformation | Convert Skewed data to Normal Distribution\" explains ..."
+  ],
+  [
+    "Removing Outliers in Python | The Gaussian Distribution | Normal Distribution | Machine Learning",
+    "Removing Outliers in Python | The Gaussian Distribution | Normal Distribution | Machine Learning ✓ Join the Facebook Group: ..."
+  ],
+  [
+    "&quot;Graph Databases for Dynamic Recommender Systems and Outlier Detection&quot;",
+    "Denis Vrdoljak, CISCO & Gunnar Kleemann, UC Berkeley presented \"Graph Databases for Dynamic Recommender Systems and ..."
+  ],
+  [
+    "A Comprehensive Study of Outliers",
+    "Download Article   https://www.ijert.org/a-comprehensive-study-of-outliers IJERTV11IS030051 A Comprehensive Study of ..."
+  ],
+  [
+    "Lesson 16 Outlier Diagnostic Rstudio Help",
+    ""
+  ],
+  [
+    "Learn fMRI (W09) 04 Parametric vs Non-Parametric Group Analysis: Outliers",
+    ""
+  ],
+  [
+    "BAN 5573 section 1, Mar/24/2021, KNIME experiments for outlier detection, and SVM cross-validation",
+    "Visual Analytics & Business Intelligence Spring 2021, section 1 In this session, we had 2 KNIME experiments, in the first one we ..."
+  ],
+  [
+    "Outlier vs noise (Bangla)",
+    "Video Title: Data Mining By Rohit Lecture: Outlier vs noise Topic: Data Mining Lectured by: Syed Rohit Zaman Gmail ..."
+  ],
+  [
+    "Data/Fun:-How to deal with outlier in Python|outlier treatment|Boxplot",
+    "Data Science updates:-- Outlier Analysis| Data mining|Data Cleaning In real life data having Outlier values so Outlier values is big ..."
+  ],
+  [
+    "Outlier Detection with BiGAN with tensorflow with MNIST",
+    "Using Bidirectional GAN for Anomaly Detection with tensorflow on the MNIST images, with 0 as outlier and the tuple (ground truth ..."
+  ],
+  [
+    "Outlier Detection Based on Recurrent Neural Networks",
+    "We provide you best learning capable projects with online support What we support? 1. Online assistance for project Execution ..."
+  ],
+  [
+    "Parametric Methods for Anomaly Detection in Aggregate Traffic",
+    "Parametric Methods for Anomaly Detection in Aggregate Traffic To buy this project in ONLINE, Contact: Email: ..."
+  ],
+  [
+    "How to Remove Outliers in Dataframe Using Python",
+    ""
+  ],
+  [
+    "Outlier Method for Noise Removal | Digital Image Processing using MATLAB",
+    "Code is posted in the comment section. Learn Complete Machine Learning & Data Science using MATLAB: ..."
+  ],
+  [
+    "A Hybrid Unsupervised Clustering Based Anomaly Detection Method",
+    "A Hybrid Unsupervised Clustering Based Anomaly Detection Method IEEE PROJECTS 2021-2022 TITLE LIST MTech,BTech,BE ..."
+  ],
+  [
+    "3 9 Remove Multivariate Outliers",
+    "Video examines techniques for removing multivariate outliers in SPSS."
+  ],
+  [
+    "Anomaly detection with KNN",
+    "How do you know something is not right or it is far from the normal situation? Mathematically, if we can measure the distance ..."
+  ],
+  [
+    "Anomaly Detection - Nick Radcliffe",
+    "PyData London 2018 Stochastic Solutions is producing a course on Anomaly Detection in Python for DataCamp. This workshop ..."
+  ],
+  [
+    "Anomaly detection with TensorFlow | Workshop",
+    "Learn how to go from basic Keras Sequential models to more complex models using the subclassing API, and see how to build an ..."
+  ],
+  [
+    "Detecting abnormal events in video using Narrowed Normality Clusters",
+    "Our oral presentation for WACV 2019."
+  ],
+  [
+    "Weka Tutorial 19: Outliers and Extreme Values (Data Preprocessing)",
+    "This tutorial shows how to detect and remove outliers and extreme values from datasets using WEKA."
+  ],
+  [
+    "Toppling the Stack: Outlier Detection for Threat Hunters - SANS Threat Hunting Summit 2017",
+    "So much of what we do as hunters is based on finding oddballs, but most published hunt procedures seem to rely on a single ..."
+  ],
+  [
+    "BigDataRevealed’s Outlier / Anomaly discovery, detection and notification/alert  06 06 2016",
+    "Analyzing outliers is a process that looks for data exceptions beyond what was expected. Exceptions can be the result of fraud, ..."
+  ],
+  [
+    "Outlier Analysis | Clustering-Based method",
+    "Outlier Analysis with Clustering-Based method and demonstration in Python 3 ( Jupyter )"
+  ],
+  [
+    "Outlier Analysis in Data Mining شرح  - part 1",
+    ""
+  ],
+  [
+    "Fraud Detection Methods",
+    "This slideshow is about fraud detection and how occupational fraud is most commonly detected based on the ACFE's 2020 Report ..."
+  ],
+  [
+    "Anomaly Detection || Machine Learning || Data Science  (Part-1)",
+    "In this video you will learn about different types of Anomaly detection. ANalytics Study Pack : https://analyticuniversity.com ..."
+  ],
+  [
+    "Log Transformation for Outliers | Convert Skewed data to Normal Distribution",
+    "This video titled \"Log Transformation for Outliers | Convert Skewed data to Normal Distribution\" explains how to use Log ..."
+  ],
+  [
+    "The Power of AI: How to Detect Outliers in Data Using Machine Learning | Accurate Outlier Detection",
+    "This demo video shows how Gleematic can detect outliers in the data. An outlier is an abnormal data point that significantly differs ..."
+  ],
+  [
+    "37  Credit Card Fraud Detection   The Algorithms | Computer Monk 🔴",
+    "Machine Learning Beginner to Professional Project Link ..."
+  ],
+  [
+    "Data Science# Outlier Treatment Z Score",
+    "Data Science# Outlier Treatment Z Score."
+  ],
+  [
+    "Detection of outliers II",
+    "Subject:Statistics Paper: Regression analysis II."
+  ],
+  [
+    "Detection of Outliers 1",
+    "This video helps in identifying outliers in data set."
+  ],
+  [
+    "Jan van der Vegt: A walk through the isolation forest | PyData Amsterdam 2019",
+    "Anomaly detection can help with fraud detection, predictive maintenance and cyber security cases amongst others. Next to this it ..."
+  ],
+  [
+    "Anna Vergeles, Nataliia Manakova &quot;Unsupervised Real-Time Stream-Based Novelty Detection Technique&quot;",
+    "Highload fwdays'18 conference took place on September 15 in Kyiv: https://fwdays.com/event/highload-fwdays-2018 Talk ..."
+  ],
+  [
+    "Sara Iris Garcia - Detecting and removing outliers in your data",
+    ""
+  ],
+  [
+    "Dealing with Outliers in RapidMiner - Data Mining",
+    ""
+  ],
+  [
+    "How to Find Outliers with Excel",
+    "Find outliers in your data in minutes by leveraging built-in functions in Excel."
+  ],
+  [
+    "Exploratory Data Analysis Tutorial | Basics of EDA with Python | Great Learning",
+    "1000+ Free Courses With Free Certificates: ..."
+  ],
+  [
+    "&quot;Detecting IoT device compromise using Python&quot; - Amith Murthy (Kiwi Pycon XI)",
+    "(Amith Murthy) Network security tools in the industry commonly rely on rulesets or signature-based detection for identifying attacks ..."
+  ],
+  [
+    "Detecting and controling outliers with PowerBI",
+    "In this video, you will learn how to detect outliers using PowerBi. Specifically, we are detecting and excluding outlier through the ..."
+  ],
+  [
+    "Machine Learning Tutorial Chap 6| Part-2 Dealing with Outlier | Rohit Ghosh | GreyAtom",
+    "Welcome to the #DataScienceFridays Rohit Ghosh, a deep learning scientist, and an Instructor at GreyAtom will take us through ..."
+  ],
+  [
+    "Random Forest Algorithm Clearly Explained!",
+    "Here, I've explained the Random Forest Algorithm with visualizations. You'll also learn why the random forest is more robust than ..."
+  ],
+  [
+    "Nuts and Bolts of Machine Learning Model: Theory and Practical using Python",
+    ""
+  ],
+  [
+    "Code anomalies in Kotlin programs Automatic detection of anomalous code fragments written in Kotlin",
+    "by Timofey Bryksin At: FOSDEM 2019 https://video.fosdem.org/2019/H.2213/ml_on_code_kotlin_anomalies.webm This talk will ..."
+  ],
+  [
+    "Excel Removing Outliers from Pivot Table Data",
+    "Removing Outliers from pivot table data can be a bit tricky, but I've made a step by step video of how to identify and filter outliers ..."
+  ],
+  [
+    "Lecture-20: Feature Engineering  Techniques in Machine Learning Algorithms",
+    "Feature Engineering is a process of extracting useful features from a raw dataset using mathematics, statistics and domain ..."
+  ],
+  [
+    "Z - Score | Standard Score | outlier detection | statistics | Data science | Machine Learning Part 7",
+    "Z-score also known as standard score gives you an idea of how far from the mean a data point is. But more technically it's a ..."
+  ],
+  [
+    "Tutorial 45-Handling imbalanced Dataset  using python- Part 1",
+    "Machine Learning algorithms tend to produce unsatisfactory classifiers when faced with imbalanced datasets. For any imbalanced ..."
+  ],
+  [
+    "Outlier Purusit: Robust PCA and Coolaborative Filtering",
+    "Principal Component Analysis is one of the most widely used techniques for dimensionality reduction. Nevertheless, it is plagued ..."
+  ],
+  [
+    "Creating outlier profile! (Isolation Forest)",
+    "While most of anomaly detection algorithm focus on finding normal objects, IsolationForest seeks outliers. We are going to break ..."
+  ],
+  [
+    "SMART Seminar Series: Presented by Dean Marchiori",
+    "Mr Dean Marchiori presented a seminar titled \"Unsupervised outlier detection systems for e-commerce\" as part of the SMART ..."
+  ],
+  [
+    "Reliable Deep Anomaly Detection - Jie Ren, Google AI Brain Team",
+    "Speaker Bio: Jie Ren is a Senior Research Scientist at Google Research Brain Team. Her research focuses on developing robust ..."
+  ],
+  [
+    "Applying Forensic Accounting Techniques With SQL And R",
+    "For more information: http://csmore.info/on/outliers Forensic accountants and fraud examiners use a range of techniques to ..."
+  ],
+  [
+    "Unsupervised Data Center Health Monitoring and Anomaly Detection",
+    "Moshe Gabel - Department of Computer Science at the Technion, Haifa, Israel Modern data centers are comprised of hundreds or ..."
+  ],
+  [
+    "What is Anomaly detection? Stylianos Kampakis",
+    "What is Anomaly detection? Stylianos Kampakis To Subscribe!! https://bit.ly/3xiivHg Anomaly detection is a topic with many ..."
+  ],
+  [
+    "AI Testing Talks – Anomaly Detection. Part 3 – Machine Learning Methods",
+    "We continue our AI Testing Talks – a series of lectures discussing the applications of artificial intelligence (AI) to various software ..."
+  ],
+  [
+    "Outlier Treatment in R - Part 1 - Discarding Outliers",
+    "In this video tutorial, you are going to learn about how to discard outliers from the dataset using the R Programming language."
+  ],
+  [
+    "#6: Scikit-learn 4: Preprocessing 4: Scaling data with outliers using RobustScaler",
+    "The video discusses how to and how not-to scale data with outliers and use of RobustScaler in Scikit-learn in Python. Timeline ..."
+  ],
+  [
+    "Petrophysics - Applications of Machine Learning to Petrophysical Workflows",
+    "The adoption of machine learning within the petrophysics domain has increased greatly over the past decade. This short ..."
+  ],
+  [
+    "Outliers in Data Science Using Python",
+    ""
+  ],
+  [
+    "BML ID 152 Fraud Detection Techniques In The BigData Era",
+    "152 Hanae Abbassi, Imane El Alaoui and Youssef Gahi Fraud Detection Techniques In The Big Data Era."
+  ],
+  [
+    "Temporal: Bot or human? Detecting malicious bots with machine... - Benjamin Fabre • Antoine Vastel",
+    "Temporal: Bot or human? Detecting malicious bots with machine learning in 2021 SPEAKERS Benjamin Fabre • Antoine Vastel ..."
+  ],
+  [
+    "SPSS Essentials: Mahalanobis Distance Test in SPSS for Finding Multivariate Outliers",
+    "When you are cleaning your raw data, you will want to check for outliers. The Mahalanobis Distance test identifies multivariate ..."
+  ],
+  [
+    "Anna Vergeles, Nataliia Manakova &quot;Unsupervised Real-Time Stream-Based Novelty Detection Technique&quot;",
+    "Highload fwdays'18 conference took place on September 15 in Kyiv: https://fwdays.com/event/highload-fwdays-2018 Talk ..."
+  ],
+  [
+    "Outlier Analysis",
+    "Created using Powtoon -- Free sign up at http://www.powtoon.com/youtube/ -- Create animated videos and animated ..."
+  ],
+  [
+    "The Effects of Outliers on Spread and Centre (1.5)",
+    "See how outliers can affect measures of spread (range and standard deviation) and measures of centre (mode, median and ..."
+  ],
+  [
+    "WiDS-Dhahran-2021-Talk 05: Predicting and Mining Customer&#39;s Intents: Techniques and Challenges",
+    "Intent prediction is an essential task in customer service chatbots to determine the most appropriate response to a user query."
+  ],
+  [
+    "Detecting abnormal events in video using Narrowed Normality Clusters",
+    "Our oral presentation for WACV 2019."
+  ],
+  [
+    "DBSCAN Clustering Easily Explained with Implementation",
+    "Density-based spatial clustering of applications with noise (DBSCAN) is a well-known data clustering algorithm that is commonly ..."
+  ],
+  [
+    "How to handle the Outliers in Python | Pandas",
+    "In this particular video , I have explained one possible way to remove outliers from our dataset . We will calculate (3*P99 & 0.3*P1) ..."
+  ],
+  [
+    "Handle Outlier Values || With Python || Jupyter Notebook || Anaconda Navigator",
+    "At the very first I have explained what do you mean by outliers then I explained how to find them and then the most important step ..."
+  ],
+  [
+    "Unsupervised Sequential Outlier Detection With Deep Architectures",
+    "Unsupervised Sequential Outlier Detection With Deep Architectures HOME PAGE : http://www.micansinfotech.com/index.html ..."
+  ],
+  [
+    "Time Series Anomaly Detection with LSTM Autoencoders using Keras &amp; TensorFlow 2 in Python",
+    "Subscribe: http://bit.ly/venelin-youtube-subscribe Complete tutorial + source code: ..."
+  ],
+  [
+    "Dealing with an outlier - Winsorize",
+    "I describe and demonstrate the procedure of winsorizing - an attractive method to dealing with an outlier."
+  ],
+  [
+    "Contextual Anomaly Detection in Big Sensor Data",
+    "Performing predictive modelling, such as anomaly detection, in Big Data is a difficult task. This problem is compounded as more ..."
+  ],
+  [
+    "How to Identify Outliers from the Data Using GraphPad Prism",
+    "Please click the links for the In-vivo study protocols: ..."
+  ],
+  [
+    "Automatic Identification of Outlier Galaxy Images",
+    "Lior Shamir, Associate Professor of Computer Science at Kansas University, joins us today to talk about the recent paper ..."
+  ],
+  [
+    "Data Preprocessing for Machine learning in Python _part 2(outlier handling)",
+    "Outlier and data duplicate handling."
+  ],
+  [
+    "37  Credit Card Fraud Detection   The Algorithms | Computer Monk 🔴",
+    "Machine Learning Beginner to Professional Project Link ..."
+  ],
+  [
+    "How to Prepare Data for Machine Learning [Outlier Treatment-Data Scaling-One Hot Encoding]",
+    "datapreparation #datapreparationforml how to prepare data for machine learning? Data Preparation In Data Mining One Hot ..."
+  ],
+  [
+    "Outliers",
+    ""
+  ],
+  [
+    "OUT9: Outlier Scores &amp; Ensembles",
+    "Lecture Summer 2022 - PARTIAL recording Erich Schubert, TU Dortmund, Artificial Intelligence 00:00 Scores & Ensembles 01:08 ..."
+  ],
+  [
+    "VLOG-63 | The #Semiconductor Outlier",
+    "Technology #Vlog #Semiconductor #Manufacturing #Outlier VLOG-63 | The Semiconductor Outlier: 1/ - Outliers Are #Part Of ..."
+  ],
+  [
+    "Decision Tree Important Points ll Machine Learning ll DMW ll Data Analytics ll Explained in Hindi",
+    "Decision Tree Explained with Example https://youtu.be/RVuy1ezN_qA Myself Shridhar Mankar a Engineer l YouTuber l ..."
+  ],
+  [
+    "&quot;Detecting IoT device compromise using Python&quot; - Amith Murthy (Kiwi Pycon XI)",
+    "(Amith Murthy) Network security tools in the industry commonly rely on rulesets or signature-based detection for identifying attacks ..."
+  ],
+  [
+    "A Visual Analytics Framework for the Detection of Anomalies in High Performance Computing",
+    "Anomalous runtime behavior detection is one of the most important tasks for performance diagnosis in High Performance ..."
+  ],
+  [
+    "How to identify an OUTLIER during an OOS Investigation?",
+    "outlier #pharma #oos #interview More than 1000+ pharma professionals have chosen Pharma Growth Hub as their career ..."
+  ],
+  [
+    "Average excluding outliers - 1 Minute Excel Tip",
+    "ExcelAverage #ExcelFormulas #TRIMMEAN #TrimmeanExcelDemo We all know how to calculate Average in Excel. But how to ..."
+  ],
+  [
+    "Outlier detection using IQR",
+    "source code: https://github.com/codebasics/py/tree/master/ML/FeatureEngineering/3_outlier_IQR/Exercise Nếu thấy hay các bạn ..."
+  ],
+  [
+    "Outlier Detection for Temporal Data A Survey",
+    "Outlier Detection for Temporal Data A Survey IEEE PROJECTS 2021-2022 TITLE LIST MTech,BTech,BE,ME,B.Sc,M.Sc,BCA,MCA ..."
+  ],
+  [
+    "Pacific Graphics 2014 - A Data-Driven Framework for Visual Crowd Analysis",
+    "We present a novel approach for analyzing the quality of multi-agent crowd simulation algorithms. Our approach is data-driven, ..."
+  ]
+]

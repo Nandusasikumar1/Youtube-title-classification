@@ -1,0 +1,2202 @@
+[
+  [
+    "Object Detection Explained | Tensorflow Object Detection | AI ML for Beginners | Edureka",
+    "Edureka PGP in AI & ML: https://www.edureka.co/post-graduate/machine-learning-and-ai This Edureka video gives you a brief ..."
+  ],
+  [
+    "Object Detection Series (Deep Learning)",
+    "In this video series we start assuming no previous knowledge of Object Detection and quickly build up an understanding of what ..."
+  ],
+  [
+    "TFOD 2.0 Custom Object Detection Step By Step Tutorial",
+    "Google colab code https://colab.research.google.com/drive/19ycUy5qIZKCO8tKy37f4zkUiHzgKs05I?usp=sharing Files of Object ..."
+  ],
+  [
+    "Tensorflow Object Detection in 5 Hours with Python | Full Course with 3 Projects",
+    "Want to get up to speed on AI powered Object Detection but not sure where to start? Want to start building your own deep learning ..."
+  ],
+  [
+    "Tensorflow Object Detection (TFOD)",
+    ""
+  ],
+  [
+    "Object detection Deep Learning Tutorial -1 || how object detection works | Object Detection Playlist",
+    "ObjectDetection #RanjanSharma Video with Explanation of Object Detection with out Deep Learning and with Deep Learnign."
+  ],
+  [
+    "Image classification vs Object detection vs Image Segmentation | Deep Learning Tutorial 28",
+    "Using a simple example I will explain the difference between image classification, object detection and image segmentation in this ..."
+  ],
+  [
+    "What is YOLO algorithm? | Deep Learning Tutorial 31 (Tensorflow, Keras &amp; Python)",
+    "YOLO (You only look once) is a state of the art object detection algorithm that has become main method of detecting objects in the ..."
+  ],
+  [
+    "CNN-Object Detection",
+    ""
+  ],
+  [
+    "How computers learn to recognize objects instantly | Joseph Redmon",
+    "Ten years ago, researchers thought that getting a computer to tell the difference between a cat and a dog would be almost ..."
+  ],
+  [
+    "Object Detection OpenCV Python | Easy and Fast (2020)",
+    "In this tutorial, we are going to learn how to detect objects using OpenCV and python. The Object Detection OpenCV method we ..."
+  ],
+  [
+    "YOLO Object Detection Using OpenCV And Python | Python Projects |  Python Training | Edureka",
+    "Edureka Python Training: https://www.edureka.co/python-programming-certification-training/ This Edureka video on \" YOLO ..."
+  ],
+  [
+    "Live Object Detection in Python",
+    "Today we learn how to implement live object detection in Python, using machine learning and OpenCV. Resources: ..."
+  ],
+  [
+    "Object detection using YOLO v4 and pre trained model | Deep Learning Tutorial 32 (Tensorflow)",
+    "In this video we will use YOLO V4 and use pretrained weights to detect object boundaries in an image. The model was trained on ..."
+  ],
+  [
+    "Install Tensorflow Object Detection From Scratch in 5 Steps | Python Deep Learning",
+    "Running into errors? Tired of seeing \"ERROR: XXXXX something didn't go right\" I hear you! Installing Tensorflow Object Detection ..."
+  ],
+  [
+    "C4W3L03 Object Detection",
+    "Take the Deep Learning Specialization: http://bit.ly/2wz3fZ6 Check out all our courses: https://www.deeplearning.ai Subscribe to ..."
+  ],
+  [
+    "Object Localization Vs Object Detection Deep Learning",
+    "Kite is a free AI-powered coding assistant that will help you code faster and smarter. The Kite plugin integrates with all the top ..."
+  ],
+  [
+    "Object Detection in 10 minutes with YOLOv5 &amp; Python!",
+    "In this video tutorial you will learn how to use YOLOv5 and python to quickly run object detection on a video stream or file all in 10 ..."
+  ],
+  [
+    "TensorFlow Object Detection COMPLETE TUTORIAL | 40 TensorFlow Object Detection Models",
+    "TensorFlow Object Detection on Windows and Linux. We will run 40 TensorFlow object detection models. This tutorial is made for ..."
+  ],
+  [
+    "YOLO Object Detection (TensorFlow tutorial)",
+    "You Only Look Once - this object detection algorithm is currently the state of the art, outperforming R-CNN and it's variants. I'll go ..."
+  ],
+  [
+    "Object Detection using OpenCV | Python | Tutorial for beginners 2020",
+    "This video contains a stepwise implementation of python code for object detection based on the OpenCV library. The following are ..."
+  ],
+  [
+    "Introduction to Object Detection in Deep Learning",
+    "In this first video of this series in object detection we try to understand what object detection is and how it works. We also look at an ..."
+  ],
+  [
+    "Pre-Trained Models in Object Detection ( RCNN , Yolo, SSD) || Applications of Object Detection - 2",
+    "ObjectDetection #RanjanSharma Video with Explanation of Pretrained Models in Object Detection and many more. Covered ..."
+  ],
+  [
+    "Object Detection in 60 Seconds using Python and YOLOv5 #shorts",
+    "In this video, Rob Mulla quickly shows how easy you can run object detection machine learning model in 60 seconds using ..."
+  ],
+  [
+    "What Is Object Detection?",
+    "Object detection is a key technology behind applications like video surveillance and advanced driver assistance systems (ADAS)."
+  ],
+  [
+    "Object Detection introduction and an overview | Essentials of Object Detection",
+    "This is an introductory video on object detection which is a computer vision task to localize and identify objects in images."
+  ],
+  [
+    "Deep-learning Project : OBJECT DETECTION in 10 lines of code..!",
+    "In this video, We are going to see about Object detection in 10 lines of Python code using the ImageAI library ImageAI is a Python ..."
+  ],
+  [
+    "Object Detection &amp; Identification using ESP32 CAM Module &amp; OpenCV",
+    "Up to 20%-30% off for PCB & PCBA order: Only 0$ for 1-4 layer PCB Prototypes: https://www.nextpcb.com/?code=Htoeletric ..."
+  ],
+  [
+    "Lecture 15: Object Detection",
+    "Lecture 15 introduces object detection as the core computer vision task of localizing objects in images. We contrast this task with ..."
+  ],
+  [
+    "Image Segmentation And Object Detection Using 5 Lines Of Code Using PixelLib",
+    "github:https://github.com/krishnaik06/Image-Segmentation-Using-Pixellib Documentation Page: ..."
+  ],
+  [
+    "What is YOLO Object Detection?",
+    "Want to Learn YOLOv7 and solve real-world problems? FREE YOLOv7 Nano Course ..."
+  ],
+  [
+    "Object Detection: Part 1 | Student Competition: Computer Vision Training",
+    "Learn to detect objects using template matching, histogram of gradients (HOG), and cascade object detectors. Get files: ..."
+  ],
+  [
+    "Bounding Box Formats | Essentials of Object Detection",
+    "This tutorial goes over various bounding box formats used in Object Detection. Link the Google Colab notebook: ..."
+  ],
+  [
+    "On-device object detection: Add a pre-trained model to your app",
+    "This video is part of a learning pathway that teaches you how to do object detection on mobile. In this video, you'll learn how to ..."
+  ],
+  [
+    "Official Yolov7 Paper Explanation and Inference - Real-Time Object Detection At Its Zenith",
+    "YOLOv7 surpasses all known Object Detectors in both speed and accuracy. The official YOLOv7 is the new state-of-the-art Object ..."
+  ],
+  [
+    "Yolov4 Object Detection - How it Works &amp; Why it&#39;s So Amazing! | OpenCV Python | Computer Vision",
+    "Want to Learn YOLOv7 and solve real-world problems? FREE YOLOv7 Nano Course ..."
+  ],
+  [
+    "Object Detection With YOLO V3| Python Tutorial|",
+    "In this video i implement the YOLO V3 Object detection model(in darknet) using google colab. The code is just 4 lines of code, and ..."
+  ],
+  [
+    "1 Object Detection Using Faster R-CNN",
+    "Explained Faster R-Cnn theoretically .Practical Implementation of Faster R-CNN: ..."
+  ],
+  [
+    "Official YOLO v7 COMPLETE Object Detection Tutorial | Windows &amp; Linux",
+    "YOLO v7 object detection tutorial for Windows and Linux. This is a complete tutorial and covers all variations of the YOLO v7 ..."
+  ],
+  [
+    "What is Object Detection - ML1M",
+    "Object detection is probably the most popular Computer Vision task. It allows us to both localise and classify objects of certain ..."
+  ],
+  [
+    "Introduction to object detection on Raspberry Pi",
+    "In the first episode of Machine Learning for Raspberry Pi, learn how to download a pre-trained TensorFlow Lite object detection ..."
+  ],
+  [
+    "OpenCV Python Tutorial For Beginners 13 - Object Detection and Object Tracking Using HSV Color Space",
+    "In this video on OpenCV Python Tutorial For Beginners, I am going to show How to do Object Detection and Object Tracking Using ..."
+  ],
+  [
+    "How To Train an Object Detection Neural Network Using TensorFlow (GPU) on Windows 10",
+    "This tutorial shows you how to train your own object detector for multiple objects using Google's TensorFlow Object Detection API ..."
+  ],
+  [
+    "You Only Look Once: Unified, Real-Time Object Detection",
+    "This video is about You Only Look Once: Unified, Real-Time Object Detection."
+  ],
+  [
+    "Object Detection Using Tensorflow | TensorFlow Tutorial For Beginners | Deep Learning | Simplilearn",
+    "TensorFlow is a popular deep learning library for building neural network models. In this video, you will learn how about the ..."
+  ],
+  [
+    "Build your OBJECT DETECTION SOFTWARE - Crash course | with Opencv and Python (2022)",
+    "Blog: https://pysource.com/2022/01/10/build-your-object-detection-software-crash-course/ Software that can detect Objects in ..."
+  ],
+  [
+    "Step 6- TensorFlow 2 Detection Model Zoo- Object Detection",
+    "github: https://github.com/krishnaik06/TFOD A big affordable series is back now , with super facility and mentor led class ..."
+  ],
+  [
+    "Object Detection on Custom Dataset with YOLO (v5) | Fine-tuning with PyTorch and Python Tutorial",
+    "Subscribe: http://bit.ly/venelin-subscribe Complete tutorial + notebook: ..."
+  ],
+  [
+    "Real time object detection using AI",
+    "This video is an introduction to neural network framework for object detection called Darknet and object detection method called ..."
+  ],
+  [
+    "YOLO (You Only Look Once) algorithm for Object Detection Explained!",
+    "In this video, I've explained about the YOLO (You Only Look Once) algorithm which is used in object detection. Object detection is ..."
+  ],
+  [
+    "Object Detection Using YOLO v4 on Custom Dataset | Practical Implementation",
+    "Step by step Implementation of YOLO v4. Dataset Preparation for yolo v4. Train your custom Yolo v4 Model Test your Yolo v4 ..."
+  ],
+  [
+    "Image Classification vs Object Detection in Machine Learning",
+    "Image Classification vs Object Detection in Machine Learning is a short video to describe the core difference between Image ..."
+  ],
+  [
+    "Image Object Detection in Oracle Analytics with OCI Vision AI",
+    "This video shows how to apply object detection models to your own images by using Oracle Analytics integration with OCI Vision ..."
+  ],
+  [
+    "YOLO object detection using Opencv with Python",
+    "Tutorial and source code: https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/ We're going to learn ..."
+  ],
+  [
+    "How to Detect and Count Objects Python | Object Detection Machine Learning Project Dr. Mahesh Huddar",
+    "How to Detect and Count Objects using Python Object Detection Machine Learning Project by Dr. Mahesh Huddar Source code ..."
+  ],
+  [
+    "YOLOv6 Object Detection - Paper Explanation and Inference",
+    "YOLOv6 is an anchor-free real-time object detection model aimed at industrial applications. Learn about the working of YOLOv6 ..."
+  ],
+  [
+    "Tensorflow Object Detection Explained | What Is Tensorflow Object Detection? | Simplilearn",
+    "TensorFlow is a popular deep learning library for building neural network models. In this video, you will learn how about the ..."
+  ],
+  [
+    "How to Build an Object Detection Classifier with TensorFlow 2.0 on Windows/Linux",
+    "Learn how to build your very own object detection classifier with TensorFlow 2.0! This video will walk you through the process and ..."
+  ],
+  [
+    "Annotating Videos for Object Detection",
+    "In this video, we show how to split a video into frames, annotate the frames using Roboflow Pro's new \"Repeat Previous ..."
+  ],
+  [
+    "Real Time Sign Language Detection with Tensorflow Object Detection and Python | Deep Learning SSD",
+    "Language barriers are very much still a real thing. We can take baby steps to help close that. Speech to text and translators have ..."
+  ],
+  [
+    "How to Make Object Detection in PictoBlox | Artificial Intelligence | AI and ML Projects for Kids",
+    "Learn how to make object detection in PictoBlox- a graphical programming software based on Scratch blocks. Visit the link here to ..."
+  ],
+  [
+    "Real-time object detection demo",
+    "Thanks to Nicholas Renotte for his course on TensorFlow object detection!"
+  ],
+  [
+    "Jetson AI Fundamentals - S3E4 - Object Detection Inference",
+    "Code your own Python program for object detection using Jetson Nano and deep learning, then experiment with realtime ..."
+  ],
+  [
+    "Object Detection using OpenCV python in 15 Minutes! Coding Tutorial for beginners course!",
+    "Welcome to another tutorial where you will learn how to use Object Detection using OpenCV in python in just 15 minutes! This is a ..."
+  ],
+  [
+    "Step 1-Tensorflow Object Detection Set Up With Tensorflow 2.0 In Windows-Creating The Environment",
+    "Cuda CNN set up :https://www.youtube.com/watch?v=StH5YNrY0mE ⭐ Kite is a free AI-powered coding assistant that will help ..."
+  ],
+  [
+    "Lecture 11 | Detection and Segmentation",
+    "In Lecture 11 we move beyond image classification, and show how convolutional networks can be applied to other core computer ..."
+  ],
+  [
+    "Object Detection in 60 Seconds using Python and YOLOv5 #shorts",
+    "In this video, Rob Mulla quickly shows how easy you can run object detection machine learning model in 60 seconds using ..."
+  ],
+  [
+    "YOLO Algorithm for Object Detection Implementation using Python",
+    "In this video, I've implemented the YOLO (You Only Look Once) algorithm which is used in object detection using Python. Object ..."
+  ],
+  [
+    "On-device object detection: Introduction",
+    "A new learning pathway from Google Developers to help you build On-Device Machine Learning apps. In this pathway, you'll ..."
+  ],
+  [
+    "Intro - TensorFlow Object Detection API Tutorial p.1",
+    "Hello and welcome to a miniseries and introduction to the TensorFlow Object Detection API. This API can be used to detect, with ..."
+  ],
+  [
+    "Official YOLO v7 Custom Object Detection Tutorial | Windows &amp; Linux",
+    "This is a complete YOLO v7 custom object detection tutorial, starting from annotating the custom dataset, setting up environment ..."
+  ],
+  [
+    "Train a Deep Learning model for custom object detection using TensorFlow 2.x (On Google Colab)",
+    "This video shows step by step tutorial on how to train an object detection model for a custom dataset using TensorFlow 2.x."
+  ],
+  [
+    "How to make Object Detection Android App Project for beginners using TensorflowLite &amp; Coco Dataset",
+    "In this video, I have shown you how to build your first Object Detection Project in Android. This is for Beginners only. Source code ..."
+  ],
+  [
+    "Object Detection using Custom Vision Azure Cognitive Service",
+    "In this video on the Microsoft Trainer Community Channel Kalpa Subbaiah will run through Object Detection using Custom Vision ..."
+  ],
+  [
+    "Calculating Tensorflow Object Detection Metrics with Python | Mean Average  Precision (mAP) &amp; Recall",
+    "Finished building your object detection model? Want to see how it stacks up against benchmarks? Need to calculate precision ..."
+  ],
+  [
+    "Drone Object Detection | Opencv CVZone",
+    "In this video, we are going to learn how to run object detection on a drone. We will first look at object detection and then embed it ..."
+  ],
+  [
+    "YoloV5 Object Detection - with source code- 5 EASY STEPS-Python Machine Learning Project",
+    "Here we go over implementation of a YOLO V5 object detection in python on a google Colab file. Github link will be uploaded if ..."
+  ],
+  [
+    "Top 10 Object Detection Algorithms in Machine Learning",
+    "Top 10 Object Detection Algorithms in Machine Learning is a short video to discuss ten types of Object Detection Algorithms in ..."
+  ],
+  [
+    "118 - Object detection by template matching",
+    "This video explains the process of detecting objects in an image based on a template reference image. This process is not scale ..."
+  ],
+  [
+    "Object Recognition and Object Detection Software",
+    "Object Detection Software https://Object-Detection.com/ Object detection is the process of finding instances of real-world objects ..."
+  ],
+  [
+    "How to Train custom Object Detection Neural Network using TensorFlow 2.3 on Google Colab Free GPU",
+    "tensorflow #objectdetection #computervision If you like the video, please subscribe to the channel by using the below link ..."
+  ],
+  [
+    "Creating an Object Detection Application Using TensorFlow || [GSP141] || Solution",
+    "Track 3 Quest 10 Classify Images of Cats and Dogs using Transfer Learning || [GSP141] || Solution Thanks for Watching ..."
+  ],
+  [
+    "Self-Driving Cars - Lecture 10.1 (Object Detection: Introduction)",
+    "Lecture: Self-Driving Cars (Prof. Andreas Geiger, University of Tübingen) Course Website with Slides, Lecture Notes, Problems ..."
+  ],
+  [
+    "TensorFlow Object Detection | Realtime Object Detection With TensorFlow | TensorFlow | Simplilearn",
+    "Object detection is a popular application of machine learning. In this video, we'll understand object detection using the ..."
+  ],
+  [
+    "3D Object Detection and Pose Estimation with Deep Learning in OpenCV Python",
+    "In this Neural Networks and Deep Learning tutorial, we are going to do 3D Object Detection and Pose Estimation with Deep ..."
+  ],
+  [
+    "Wisenet P series AI-based Object Detection",
+    "Hanwha Techwin's Wisenet P series AI-based object detection reduces the occurrence of false alarms experienced when using ..."
+  ],
+  [
+    "Object detection vs Image Segmentation | Deep Learning | Machine Learning",
+    "Get a look at our course on data science and AI here: https://bit.ly/3thtoUJ ..."
+  ],
+  [
+    "Realtime Object Detection | Object Detection with TensorFlow | Edureka | Deep Learning Live - 1",
+    "AI & Deep Learning Using TensorFlow - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video will ..."
+  ],
+  [
+    "text to speech object detection | tensorflow-lite object detection | raspberry pi 4 tensorflow-lite",
+    "code for text to speech:- https://github.com/freedomwebtech/raspberrypiAiTF code for install opencv and tflite:- ..."
+  ],
+  [
+    "How To Implement YOLO V6 On Google Collab Using Python | Object Detection | ML | For Beginners",
+    "Get a look at our course on data science and AI here: https://bit.ly/3thtoUJ The Python Codes are available at this link: ..."
+  ],
+  [
+    "Exploratory Analysis – Object Detection Tool Basics",
+    "This lesson explains how to use the Object Detection tool to quickly detect objects as point features using ArcGIS Pro. The Object ..."
+  ],
+  [
+    "Getting started with AI: Custom Vision - Object Detection",
+    "Getting started with Artificial Intelligence isn't that hard! Watch this video and you are able to create a custom vision model!"
+  ],
+  [
+    "Building an Object Detection App with Tensorflow.JS and React.JS in 15 Minutes | COCO SSD",
+    "Want to build your very own object detection app? Tried, but maybe it took a little too long? Just need a kickstart? Well, I hear you!"
+  ],
+  [
+    "Python: Real Time Object Detection (Image, Webcam, Video files) with Yolov3 and OpenCV",
+    "TABLE OF CONTENT Introduction 00:00:36 How to install YOLOv3 00:03:50 Download Weight and Configuration Files ..."
+  ],
+  [
+    "TFLite Object Detection Android App Tutorial Using YOLOv5 | Yolov5 to tflite conversion",
+    "Learn to Develop your Object Detection Mobile Application from yolov5 model. Github: ..."
+  ],
+  [
+    "Single Shot Detector On Custom Dataset | SSD | Object Detection Using SSD",
+    "Implementation of Single Shot Detector on Custom Dataset. Explained : 1- How to prepare dataset for Single Shot Detector."
+  ],
+  [
+    "CUSTOM OBJECT DETECTION USING PYTHON | DETECTO",
+    "datascience #machinelearning #python Source code : https://github.com/akshaytheau/Data-Science Whatsapp community grp ..."
+  ],
+  [
+    "MobileNet Object Detection",
+    "In this video, Innovative Coder shows you a project based on Deep Learning Object Detection use case using MobileNet model."
+  ],
+  [
+    "YOLOv4 TFLite Object Detection Android App Tutorial Using YOLOv4 Tiny, YOLOv4, and YOLOv4 Custom",
+    "Make YOLOV4 TFLite Object Detection Mobile app for Android using YOLOv4 Tiny, YOLOV4, and custom trained YOLOv4 TFLite ..."
+  ],
+  [
+    "YOLOv7 | Object Detection on Custom Dataset",
+    "YoloV7 is new framework which can perform various computer vision tasks like Object Detection, instance segmentation, ..."
+  ],
+  [
+    "Building an Object Detection App with Tensorflow.JS and React.JS in 15 Minutes | COCO SSD",
+    "Want to build your very own object detection app? Tried, but maybe it took a little too long? Just need a kickstart? Well, I hear you!"
+  ],
+  [
+    "React native tensorflow object detection",
+    "React native tensorflow object detection We will be creating the app in expo (Managed workflow) Timestamps: 0:00 Intro into ..."
+  ],
+  [
+    "DETECTRON2  | Instance Segmentation, Object Detection, Keypoints Detection",
+    "Learn about Detectron2, an object detection library now implemented in PyTorch. Detectron2 provides support for the latest ..."
+  ],
+  [
+    "Train custom object detection model with YOLO V5",
+    "In this video, I will show you how you can train your own custom object detection model using YOLOv5! Ultralytics yolov5: ..."
+  ],
+  [
+    "Object detection (Andrej Karpathy)",
+    "From Tesla Autonomy Day on April 22, 2019. Original video: https://youtu.be/Ucp0TTmvqOE."
+  ],
+  [
+    "Object Detection Via SSD",
+    "Featuring the Renesas RZ/G MPU, the Single Shot Object Detection(SSD) process demonstrates an OpenCV Deep Neuron ..."
+  ],
+  [
+    "YOLOv6 on Custom dataset | Object Detection",
+    "In this video, I will show you a practical Implementation of Yolov6 model which was released 1 week ago by the research group at ..."
+  ],
+  [
+    "286 - Object detection using Mask RCNN: end-to-end from annotation to prediction",
+    "Code generated in the video can be downloaded from here: ..."
+  ],
+  [
+    "Object Detection Introduction | Difference between Object Detection and Object Recognition",
+    "This video \"Object Detection Introduction | Difference between Object Detection and Object Recognition\" explains the concept of ..."
+  ],
+  [
+    "Sliding Window Object Detection | Deep Learning Tutorial 30 (Tensorflow, Keras &amp; Python)",
+    "Sliding window object detection is a technique that allows you to detect objects in a picture. This technique is not very efficient as it ..."
+  ],
+  [
+    "ml5.js: Object Detection with COCO-SSD",
+    "In this video, I cover object detection in ml5.js with the COCO-SSD pre-trained model. Code: ..."
+  ],
+  [
+    "Yolo Object Detection in Google Colab [Full Tutorial]",
+    "Python & Machine learning Career & Course Guideline PDF at just 50 INR Buy from here:- ..."
+  ],
+  [
+    "Object Tracking from scratch with OpenCV and Python",
+    "Blog : https://pysource.com/2021/10/05/object-tracking-from-scratch-opencv-and-python/ In this special video, I'm going to help ..."
+  ],
+  [
+    "CNNs for Object Detection I PART 01",
+    "CNNs for Object Detection I PART 01."
+  ],
+  [
+    "Object Detection Raspberry Pi using OpenCV Python",
+    "In this video, we will look at how to run object detection on Raspberry Pi using OpenCV and python. We will create a modular ..."
+  ],
+  [
+    "[Tutorial] Training End-to-end Object Detection with Transformer(DETR) model on custom dataset",
+    "Training DETR model on custom dataset Code https://github.com/thedeepreader/detr_tutorial Dataset ..."
+  ],
+  [
+    "Object Detection Tensorflow 2.x.x | Setting Environment for Object Detection",
+    "ObjectDetection #RanjanSharma Video with Explanation of getting the environment Ready for object detection using Tensorflow 2 ..."
+  ],
+  [
+    "Jetson AI Fundamentals - S3E5 - Training Object Detection Models",
+    "Learn how to train object detection models with PyTorch onboard Jetson Nano, and collect your own detection datasets to create ..."
+  ],
+  [
+    "Object Tracking Using DeepSORT and YOLOv5 | Multi Object Tracking",
+    "Object Tracking Using YOLOv5 and Deep Sort Algorithm. We will perform Object Detection using yolov5 and Object tracking using ..."
+  ],
+  [
+    "BrainChip Object Detection and Classification Technology",
+    "What role does object detection and classification play in agro-industrial IoT? With one-shot learning on the device, BrainChip's ..."
+  ],
+  [
+    "Object detection with ANY camera in Home Assistant - Tensorflow and DOODS",
+    "In this video we are looking at Object Detection with Home Assistant or HASSIO using Tensorflow and an awesome community ..."
+  ],
+  [
+    "Object Detection using YOLO | Multi-Class Object Detection in Colab | Edureka",
+    "Edureka Python Certification Training Course ..."
+  ],
+  [
+    "Difference between Object detection, Semantic Segmentation and Instance Segmentation.",
+    "Object Detection : is the technology that is related to computer vision and image processing. It's aim? detect objects in an image."
+  ],
+  [
+    "YOLOv5 Custom Object Detection with Code and Dataset - Neural Networks and Deep Learning",
+    "In this Neural Networks and Deep Learning tutorial, we are going to take a look at YOLOv5 for Custom Object Detection. We will ..."
+  ],
+  [
+    "A Better Detection Head | Essentials of Object Detection",
+    "This is a continuation of the Detection Head tutorial that explains how to write the code such that you can avoid ugly indexing into ..."
+  ],
+  [
+    "Faster R-CNN on Custom Dataset | Custom Object Detector",
+    "Learn how to build your Custom Object Detector Using Faster RCNN. Also explained how to prepare custom dataset for Faster ..."
+  ],
+  [
+    "How to Set Missing Object Detection on Security Cameras",
+    "This video demonstrates how to configure Missing Object Detection on your Security Camera. Use Missing Object Detection to ..."
+  ],
+  [
+    "Single Shot Detector | SSD | Object Detection Using SSD",
+    "Explained what is Single Shot Detector. You can learn other object detection algorithms from below given link: Yolo Algorithm: ..."
+  ],
+  [
+    "1. Object Detection Using Detectron2",
+    "Video explains the details about the detectron2 framework for object detection. ✓Recommended Gaming Laptops For Machine ..."
+  ],
+  [
+    "Object Detection in Images using (Pre-trained Models) YOLO in R",
+    "In this R Tutorial, We'll learn how to use Pre-trained Model weights from YOLO to do Object Detection in Images (Image Detection) ..."
+  ],
+  [
+    "How to Install TensorFlow Object Detection in 2020 (Webcam and Images!)",
+    "Hey guys welcome back, Ben again! Today i'm going through the process step by step to get Google's TensorFlow Object ..."
+  ],
+  [
+    "TFLite Object Detection Android App Tutorial | TensorFlow Object Detection",
+    "Python & Machine learning Career & Course Guideline PDF at just 100 INR Buy from here:- ..."
+  ],
+  [
+    "Making Classification and Object Detection model in 5 minutes without coding skills| Future of AI",
+    "Now we can make an image Classification, Speech Recognition and Object Detection model in just 5 minutes without any coding ..."
+  ],
+  [
+    "Object Detection - Data Collection and Bounding Boxes using Python",
+    "datascience #objectdetection #deeplearning For end to end image classification and object detection video you can check Object ..."
+  ],
+  [
+    "C# - Real-time Object Detection From an Image | Yolo -  I | Detect Object",
+    "Yolo Part 1 - https://youtu.be/G4tNSnIE_lY Yolo Part 2 - https://youtu.be/w93g6yAOuNE ..."
+  ],
+  [
+    "Object Detection | Computer Vision and Image Processing Fundamentals",
+    "Object Detection | Video: Object Detection watch the full list Computer Vision and Image Processing Fundamentals: ..."
+  ],
+  [
+    "Object detection Vs Object tracking",
+    "April-2020 series videos Learn more about what is object detection and what is object tracking in brief,etc. Vid part of Covid touch ..."
+  ],
+  [
+    "YOLO Custom Object Detection - Part 1 - Creating a Dataset - using Google Colab - with code",
+    "This is part 1 of the series of videos regarding YOLO custom object detection. We go over how to create a dataset of objects that ..."
+  ],
+  [
+    "Build Your Own Object Detection System with Machine Learning",
+    "In this tutorial we show you how to build a custom object detection system that can recognize things in your house. You learn how ..."
+  ],
+  [
+    "YOLO Object Detection On RC Plane Footage",
+    "Using the YOLO Object detector on RC Plane Footage. YOLO: https://pjreddie.com/darknet/yolo/"
+  ],
+  [
+    "TensorFlow Object Detection | Realtime Object Detection with TensorFlow | TensorFlow Python |Edureka",
+    "AI & Deep Learning Using TensorFlow (Use Code \"YOUTUBE20\") ..."
+  ],
+  [
+    "Tensorflow Object Detection Tutorial - Complete Guide for Beginners",
+    "In this tutorial we are discussing about how to install TensorFlow Object Detection API in your computer and how to customize it ..."
+  ],
+  [
+    "Adding Object detection using Google ML Kit library | ML Kit &amp; TF Lite 008",
+    "In this video we will use object detection library to detect and classify images. Sample images: https://1drv.ms/f/s!"
+  ],
+  [
+    "3D Object Detection using YOLO4 | LiDAR Dataset",
+    "This is a tutorial on how to perform 3D object detection on LiDAR Dataset. I have used Kitti dataset in the Implementation. Topics ..."
+  ],
+  [
+    "AI Builder Object Detection - Count Things",
+    "Microsoft's new AI Builder capability for the Power Platform includes an Object Detection model. But what does this mean and how ..."
+  ],
+  [
+    "Training a TensorFlow Object Detection Network",
+    "link to Config File: https://github.com/emadyagh/Object_detection_codes link to download model: ..."
+  ],
+  [
+    "Real Time Object Detection using Machine Learning for Visually Impaired people",
+    "Tech Requirements: 1. Python 3.6 (64 bit) 2. Tensorflow 3. Protobuf 4. YOLO v3 5. COCO-api Video editing done by Aritro ..."
+  ],
+  [
+    "Object Tracking with Opencv and Python",
+    "Source code: https://pysource.com/2021/01/28/object-tracking-with-opencv-and-python/ You will learn in this video how to Track ..."
+  ],
+  [
+    "Object detection and localization",
+    "The bottom-right image shows the resulting detection and localization after a learning stage achieved on 3 images (bottom-left, ..."
+  ],
+  [
+    "ip cam app object detection | yolov5 with mobile camera | how to use ip camera app with yolov5",
+    "install yolov5 on bullseye:-https://youtu.be/cCnrnt86Rak install opencv on bullseye:- https://youtu.be/a_Ar-fF5CWE keywords: ..."
+  ],
+  [
+    "Object Detection - Data Collection and Bounding Boxes using Python",
+    "datascience #objectdetection #deeplearning For end to end image classification and object detection video you can check Object ..."
+  ],
+  [
+    "Object detection Vs Object tracking",
+    "April-2020 series videos Learn more about what is object detection and what is object tracking in brief,etc. Vid part of Covid touch ..."
+  ],
+  [
+    "AI Builder Object Detection - Count Things",
+    "Microsoft's new AI Builder capability for the Power Platform includes an Object Detection model. But what does this mean and how ..."
+  ],
+  [
+    "Official YOLOv7 | Object Detection",
+    "In this video, I will show you how to use Official YOLOv7 on custom dataset. For queries: You can comment in comment section or ..."
+  ],
+  [
+    "YOLO Object Detection On RC Plane Footage",
+    "Using the YOLO Object detector on RC Plane Footage. YOLO: https://pjreddie.com/darknet/yolo/"
+  ],
+  [
+    "Object detection in Gazebo using Yolov5 and ROS2",
+    "In this tutorial, we look at a simple way to do object detection in Gazebo simulator. The project files are here ..."
+  ],
+  [
+    "Annotation for object detection (YoloV5) | Part 1 | Python | Object Detection",
+    "Annotation is a method for creating the bounding boxes around the objects in the images. Bounding boxes is one of the most ..."
+  ],
+  [
+    "Tensorflow Object Detection Tutorial - Complete Guide for Beginners",
+    "In this tutorial we are discussing about how to install TensorFlow Object Detection API in your computer and how to customize it ..."
+  ],
+  [
+    "Image Processing: Moment of Image for Object Detection",
+    "Moment of Image is used for pattern recognition, object detection, robot vision and many more. Here you will come to know what is ..."
+  ],
+  [
+    "Train Object Detection Model for Android &amp; IOS course | Realtime Object Detection | Tensorflow Lite",
+    "Integrate Object Detection models in Android like YOLO and train custom object detection models for Android and IOS Course ..."
+  ],
+  [
+    "Introduction to Object Detection (in Hindi)",
+    "In this video, we now use our knowledge of solving classification and object localization to solve the problem of object detection ..."
+  ],
+  [
+    "Run Official YOLOv7 Object Detection on Images, Video &amp; WebCam in Google Colab| 4K",
+    "Learn how to get YOLOv7 Object Detection running in the Cloud with Google Colab. YOLOv7 is brand new and boasts many ..."
+  ],
+  [
+    "Object detection and localization",
+    "The bottom-right image shows the resulting detection and localization after a learning stage achieved on 3 images (bottom-left, ..."
+  ],
+  [
+    "YOLO -  Object Detection Using Python",
+    "Image Detection Using Python | Discussed about Non max suppression, IoU and Anchor Boxes. Check the complete Machine ..."
+  ],
+  [
+    "How to Export a Tensorflow saved model for object detection classifier",
+    "No need of retraining,.,.,don't waste your time..,.,it's a just 10 sec of job,.,.,. Jai Hind.,. Just watch me.,.,., Expoter_model.py and ..."
+  ],
+  [
+    "MY155 - Assisted Navigation and Object Detection for Blind Person Using Deep Learning",
+    ""
+  ],
+  [
+    "Radar Object Detection System from Newest One (Korea)",
+    "The Radar Sensor uses FMCW radar technology to detect stationary objects and people in blind spots. This advanced system ..."
+  ],
+  [
+    "Custom Object Detection| +91-9872993883  for query| MATLAB using Deep Learning |",
+    "In this video, I've described how to implement object detection in Matlab using Deep Learning. For more such videos, please ..."
+  ],
+  [
+    "Object Detection with AWS DeepLens and Sagemaker",
+    "In this session I will show you how I build an IoT solution to solve my wife's problem “What should I wear today?” We will start with ..."
+  ],
+  [
+    "Lecture 17 - Object detection using HSV color space | Image Processing | OpenCV | Color Detection |",
+    "Image Procession and Computer Vision with OpenCV python full tutorial in Hindi. In this video on OpenCV Python Tutorial For ..."
+  ],
+  [
+    "Creating the Correct Object Detection Dataset Format with Roboflow",
+    "Create a Roboflow account: https://roboflow.com/ I found this post from them really helpful: ..."
+  ],
+  [
+    "YOLOv5 Custom Object Detection with Code and Dataset - Neural Networks and Deep Learning",
+    "In this Neural Networks and Deep Learning tutorial, we are going to take a look at YOLOv5 for Custom Object Detection. We will ..."
+  ],
+  [
+    "4.3.1  مفهوم التعرف علي الأشياء  Object Detection",
+    "هذه المحاضرة هي جزء من سلسلة محاضرات التعلم العميق Deep Learning يمكنك مشاهدة جميع الحلقات هنا ..."
+  ],
+  [
+    "Real-time Object Detection - OpenCV Object Detection in Games #5",
+    "Learn how to detect objects inside a game window in real-time using OpenCV. Full tutorial playlist: ..."
+  ],
+  [
+    "How To Setup Abandoned Object Detection on Security Cameras",
+    "This video demonstrates how to configure the smart function known as Abandoned Object Detection. Easily monitor an area and ..."
+  ],
+  [
+    "Labeling Images for Object Detection (YOLO) with LabelImg",
+    "Join this channel to get access to perks: https://www.youtube.com/channel/UCaZuPdmZ380SFUMKHVsv_AA/join Learn more ..."
+  ],
+  [
+    "How To Use YOLOv7 Model for Object Detection",
+    "In this Neural Networks and Deep Learning tutorial, we are going to use the YOLOv7 model for Object Detection Model. We will ..."
+  ],
+  [
+    "Counting Objects Using YOLOv4 Object Detection | Custom YOLOv4 Functions with TensorFlow",
+    "Learn how to code your very own Custom Functions to work with YOLOv4 Object Detections! In this video I will walk-through how ..."
+  ],
+  [
+    "ip cam app object detection | yolov5 with mobile camera | how to use ip camera app with yolov5",
+    "install yolov5 on bullseye:-https://youtu.be/cCnrnt86Rak install opencv on bullseye:- https://youtu.be/a_Ar-fF5CWE keywords: ..."
+  ],
+  [
+    "Object detection &amp; Tracking Deep learning YOLO Detector - Own data",
+    "Object detection & Tracking Deep learning YOLO Detector - Own data Any doubts josemebin@gmail.com , Whatspp - +91 ..."
+  ],
+  [
+    "AWS Rekognition Image Object Detection Demo",
+    "Amazon Rekognition makes it easy to add image and video analysis to your applications. Cloud computing in Tamil ..."
+  ],
+  [
+    "[Flutter Object detection] How to load an object detection model",
+    "in this video i will show you guys how to load any deep learning model in flutter app and then you can use it in your project source ..."
+  ],
+  [
+    "BLIND ASSISTANCE SYSTEM: REAL-TIME OBJECT DETECTION USING TENSORFLOW OUTPUTS Generation(PART-2)",
+    "This is simply the output video of the previous BLIND ASSISTANCE SYSTEM PART:1. After working and with proper ..."
+  ],
+  [
+    "Object Detection Removing Duplicates | OpenCV Python",
+    "In this tutorial, we are going to learn how to remove duplicates from object detection when using the mobile net SSD that we ran in ..."
+  ],
+  [
+    "Flutter + TensorFlow Lite | Object Detection | YoloV2 | SSD Tutorial",
+    "In this video, I will explain how to use TFLite with Tiny Yolov2 and SSD models to perform on-device object detection #Trending ..."
+  ],
+  [
+    "Object Detection On FPGA",
+    "This project was done by Sanchit Sreekanth TVE17EC039 Sreevishakh V TVE17EC052 Vishal Menon TVE17EC062 Vishnu ..."
+  ],
+  [
+    "Live Object Detection Practical Using YOLO Model",
+    "this video explains what is YOLO and how it works. This video also contains practical code execution Git Hub link ..."
+  ],
+  [
+    "Object Detection &amp; Instance Segmentation using Mask R-CNN [ Video Demo ]",
+    "Python & Machine learning cheat sheet at just 50 INR Buy from here:- ..."
+  ],
+  [
+    "Object Detection API using YOLO and FLASK",
+    "Detect-Object using YOLO, with front-end developed as FLASK Github Link : https://github.com/ViAsmit/Object-Detection-YOLO ..."
+  ],
+  [
+    "[CVPR 2021-Oral] Towards Open World Object Detection",
+    "Oral Presentation at CVPR 2021 Joseph K J, Salman Khan, Fahad Shahbaz Khan and Vineeth N Balasubramanian Humans ..."
+  ],
+  [
+    "Object Detection: The Opportunities and Limitations for Media Applications",
+    ""
+  ],
+  [
+    "Testing YOLO v3 real time object detection with WebCam",
+    "In this short tutorial, I will show you how to set up YOLO v3 real-time object detection on your webcam capture. Text version ..."
+  ],
+  [
+    "Object Detection in C++, with Onnxruntime",
+    "Deep Learning Practice today has come a long way. Today it becomes inevitable to apply Machine Learning without taking into ..."
+  ],
+  [
+    "YOLO Object Detection Explained for Beginners",
+    "Get a look at our course on data science and AI here: https://bit.ly/3thtoUJ ..."
+  ],
+  [
+    "Deep Drowsiness Detection using YOLO, Pytorch and Python",
+    "Want to leverage YOLO object detection for safety? One great implementation is using it to determine when drivers might be ..."
+  ],
+  [
+    "Object Detection project using Pictoblox #Abhiscreation7",
+    "In this video i discus about How to make a Object Detection project using Pictoblox and it's coding. Pictoblox mobile app link ..."
+  ],
+  [
+    "Pixel Accuracy in Image Segmentation | Object Detection | Deep Learning | Computer VIsion",
+    "Also Checkout my 2nd Channel ( on Trading, Crypto & Investments ) ..."
+  ],
+  [
+    "Build and deploy custom object detection model with TensorFlow Lite | Workshop",
+    "A common application of machine learning is object detection, where the model is able to determine bounding boxes around ..."
+  ],
+  [
+    "Simplest custom object detection with Python | Deep Learning | Pytorch | Detecto | ResNet",
+    "Hi, In this video I show how to create a custom object detection using Deep Learning technique with Detecto. This is a simplest ..."
+  ],
+  [
+    "Object detection Python Machine Learning Web App",
+    "ObjectDetectionPython #MachineLearning #webapp *** Download Link ..."
+  ],
+  [
+    "CenterNet: Objects as Points – Anchor Free Object Detection Explained",
+    "CenterNet: Object as Points is one of the milestones in the anchor-free object detection algorithm. Anchor-free object detection is ..."
+  ],
+  [
+    "Pixel Accuracy in Image Segmentation | Object Detection | Deep Learning | Computer VIsion",
+    "Also Checkout my 2nd Channel ( on Trading, Crypto & Investments ) ..."
+  ],
+  [
+    "Object detection Python Machine Learning Web App",
+    "ObjectDetectionPython #MachineLearning #webapp *** Download Link ..."
+  ],
+  [
+    "Applications and use of Object Detection algorithms.",
+    "Object detection algorithm finds its usage in lot of fields, they are used in industries, used in medical field, used in different mobile ..."
+  ],
+  [
+    "Demo: Object Detection With Ranging using Mistral&#39;s AI-enabled Sensor Fusion",
+    "Mistral's AI-enabled Sensor Fusion Kit is an integrated, easy to use Optical Camera Vision and mmWave RADAR sensor fusion ..."
+  ],
+  [
+    "Real-time object detection demo",
+    "Thanks to Nicholas Renotte for his course on TensorFlow object detection!"
+  ],
+  [
+    "Train YOLOv7 Object Detection on Custom Dataset in Google Colab | 4K",
+    "Learn how to train YOLOv7 Object Detection running in the Cloud with Google Colab. YOLOv7 is better & faster than YOLOv5."
+  ],
+  [
+    "Object Detection Using IR Sensor | Arduino Obstacle Detection Sensor | Obstacle Avoidance module",
+    "Learn object detection sensor in 8 minutes with code, IR sensor is used to detect objects."
+  ],
+  [
+    "[Code] How to use Facebook&#39;s DETR object detection algorithm in Python (Full Tutorial)",
+    "Watch my as I struggle my way up the glorious path of using the DETR object detection model in PyTorch. Original Video on ..."
+  ],
+  [
+    "Object Detection in C++, with Onnxruntime",
+    "Deep Learning Practice today has come a long way. Today it becomes inevitable to apply Machine Learning without taking into ..."
+  ],
+  [
+    "TensorFlow Object Detection API Tutorial | Object Detection API | TensorFlow Tutorial | Simplilearn",
+    "This TensorFlow tutorial will take you through the TensorFlow code to perform object detection in a video. TensorFlow object ..."
+  ],
+  [
+    "Real-Time Object Detection | Object Detection with TensorFlow | Edureka | ML  Rewind - 5",
+    "Edureka Machine Learning Course Master Program: ..."
+  ],
+  [
+    "Object Detection using Tensoflow Project in Python | Download Projects with Source Code",
+    "Object Detection using Tensoflow Project in Python | Download Projects with Source Code, Keras, Deep Learning, tech with tim, ..."
+  ],
+  [
+    "10. Applications in Computer Vision: Object Detection",
+    "Welcome to the last three lessons about the applications of neural networks in Computer Vision! Object detection is a key ..."
+  ],
+  [
+    "Machine Learning to detect face mask in iOS using Object Detection | CreateML | CoreML",
+    "Hi Friends, In this video, I tried to teach you how you can use Machine Learning in iOS. CoreML ..."
+  ],
+  [
+    "Custom Object Detection on Google Colab in Hindi (YOLO DARKNET) - Part 6",
+    "In this video, we discussed about how we can use Google Colab. If in our PC, GPU is not present, then dont worry, we have a ..."
+  ],
+  [
+    "YOLO Object Detection using Matlab",
+    "OpenCV Projects - https://www.pantechsolutions.net/opencv-projects Machine Learning Projects ..."
+  ],
+  [
+    "Real-time Object Detection on YoloV5 with Flask | yolov5 object detection | opencv python | yolov5",
+    "code:- https://github.com/freedomwebtech/yolov5flask install yolov5 on bullseye:-https://youtu.be/cCnrnt86Rak install opencv on ..."
+  ],
+  [
+    "Object detection braking project using IR sensor and motor driver #shorts #arduinoproject",
+    ""
+  ],
+  [
+    "Street View DeepLabV3 Segmentation &amp; YOLOv4 Object Detection in Runway · Alameda Principal, Málaga",
+    "Predicting segmentation masks and detecting objects on Google Street View images using DeepLabV3 and YOLOv4, respectively ..."
+  ],
+  [
+    "YOLOv4 Object Detection 30 FPS in 7 Minutes | OpenCV Python | Computer Vision (2021)",
+    "Want to Learn YOLOv7 and solve real-world problems? FREE YOLOv7 Nano Course ..."
+  ],
+  [
+    "Multi-class Object Detection using Deep Learning - Part 1",
+    "IEEE Student Branch VIT Pune is here with an exciting playlist of Mini projects on Deep Learning. In this tutorial, we will learn how ..."
+  ],
+  [
+    "Obstacle detection and navigation using tensorflow object detection API",
+    ""
+  ],
+  [
+    "NVIDIA - CNN - Camera Object Detection &amp; Classification and Radar Demo for ADAS vehicles",
+    "Using the NVIDIA Jetson Nano to demonstrate how Convolutional Neural Networks (CNN's) use object detection and ..."
+  ],
+  [
+    "Create an object detection angular web application using Tensorflow JS",
+    "You can learn how to add machine learning object detection model into your angular or any other web application by using ..."
+  ],
+  [
+    "Object Detection using YOLO v5 and PyTorch| +91-9872993883 for query",
+    "Hi guys, In this video we are working on object detection using Yolov5 and PyTorch. Yolov5 is the most recent addition to the Yolo ..."
+  ],
+  [
+    "Object detection using Tensorflow.js and Angular (8)",
+    "Image Classification and Object detection by Using Tensorflow.js with Angular."
+  ],
+  [
+    "AI Center Object Detection Convert Base64 String into Image using UiPath #UiPath #RPA  #AICenter",
+    "UiPath #RPA #AIFabric #AICenter #Robotic Process Automation #Base64 Simply Learn RPA UiPath | AI Fabric Object Detection ..."
+  ],
+  [
+    "Tensorflow Object Detection on WebCam &amp; Video using CPU [ Full Tutorial ]",
+    "Python & Machine learning cheat sheet at just 50 INR Buy from here:- ..."
+  ],
+  [
+    "Yolov5 Tutorial - What is YOLOv5 Object Detector (Real-Time Object Detection)",
+    "YOLOv5 Object Detector is a Real-Time Object Detector and is a PyTorch implementation of YOLO SSD known for its blazingly ..."
+  ],
+  [
+    "How to use Machine Learning and AI  in Android Studio | Object Detection Tenserflow Deep Learning",
+    "In this video, I want to show How to use Machine Learning and AI in Android Studio | Object Detection Tenserflow Deep Learning ..."
+  ],
+  [
+    "YOLO Object Detection Training Demo on Google Colab",
+    ""
+  ],
+  [
+    "STONKAM 1080P AI Moving Object Detection on a Vehicle Mounted Side-view Camera (Motion Detection)",
+    "STONKAM 1080P AI Moving Object Detection Camera is a high-end product based on optical flow detection technology, which is ..."
+  ],
+  [
+    "Detect Object by Text Prompting using GLIP |  Object Detection | Self-supervised learning",
+    "GLIP unifies object detection and phrase grounding for pre-training. The unification brings two benefits: 1) it allows GLIP to learn ..."
+  ],
+  [
+    "Mean-IoU (Intersection over Union) in Object Detection | Semantic Segmentation | Deep Learning",
+    "Also Checkout my 2nd Channel ( on Trading, Crypto & Investments ) ..."
+  ],
+  [
+    "Dataset to Perform Object Detection in Satellite Images",
+    "A suitable dataset to perform object detection in satellite images. - DOTA: A Large-Scale Dataset for Object Detection in Aerial ..."
+  ],
+  [
+    "Custom object detection by YOLOv5 |Cancer Diagnosis | Lung cancer Diagnosis | Deep Learning Yolov5",
+    "Lung cancer is the deadliest cancer in the world — about 75% of those who have it die within five years of diagnosis. But when ..."
+  ],
+  [
+    "Color | object Detection Using Opencv | Object Detection Using HSV Color Opencv | All In One Code",
+    "opencv #machinelearning #allinonecode #facedetection #colordetection #objectdetection Meet Me Online : Facebook ..."
+  ],
+  [
+    "How to use object detection package in Autoware",
+    ""
+  ],
+  [
+    "How To Deploy Custom YOLOv5 Model for Object Detection with OpenCV - With Example and Python Code",
+    "In this Neural Networks and Deep Learning tutorial, we are going to Deploy a Custom YOLOv5 Object Detection Model with ..."
+  ],
+  [
+    "HALCON&#39;s Deep-Learning-Based Object Detection 1: Introduction and Preparation of the Dataset",
+    "In the first part of this tutorial series on HALCON's object detection, you will learn what object detection actually is, and what kinds ..."
+  ],
+  [
+    "You Only Look Once: object detection with YOLOv4 | DIY drone pt. 3",
+    "YOLO: ain't that from the 2010s? THINK AGAIN. Its all about forcing electrocuted sand to see what stuff is in photos and video, like ..."
+  ],
+  [
+    "ARFoundation and Object Detection in Unity",
+    "For details: https://blog.usejournal.com/object-detection-and-arfoundation-in-unity-8782b1ee6ea3."
+  ],
+  [
+    "How To Deploy Live YOLOv5 Model for Object Detection with OpenCV",
+    "In this Neural Networks and Deep Learning tutorial, we are going to Deploy a Custom YOLOv5 Object Detection Model with ..."
+  ],
+  [
+    "Object Detection with TensorFlow and the ArcGIS API for Python",
+    "Using TensorFlow and the ArcGIS API for Python, we can detect the presence of a person in a video feed and update map ..."
+  ],
+  [
+    "Raspberry pi custom object detection using tensorflow lite 🔥 | no GPU| PART - 2🔥",
+    "Note: use python 3.6 python xml_to_csv.py python generate_tfrecord.py --csv_input=images\\train_labels.csv ..."
+  ],
+  [
+    "Object Detection using Lidar Module: Electronics For You DIY Project",
+    "Want to develop your own object dtector? Yes, it's possible. And not too difficult. Watch this video to see the proof-of-concept. Plus ..."
+  ],
+  [
+    "OBJECT DETECTION WEB APP USING TENSORFLOW, OPENCV AND FLASK | Yaswanth Sai Palaghat | Techie Empire",
+    "yaswanthpalaghat #objectdetection #techieempire Check out the new Course titled \"Building an Object Detection Web App using ..."
+  ],
+  [
+    "Object Detection in Videos Tutorial - using Python OpenCV and YOLO",
+    "Here we go over an object detection tutorial in videos using Python, OpenCv and YOLO. Support me on Patreon ..."
+  ],
+  [
+    "Deploy Object detection model using Flask",
+    "Source code: https://thinkinfi.com/deploy-object-detection-model-using-flask/ Learn how to build and deploy Object Detection APIs ..."
+  ],
+  [
+    "Object Detection Using Single Shot Multibox Detector",
+    "Part of the ECE 542 Virtual Symposium (Spring 2020) Our project (SSD: Single Shot MultiBox Detector) presents an object ..."
+  ],
+  [
+    "Real-time Object Detection on YoloV5 with Flask",
+    "pyresearch #Yolov5 #objectdetection #model #deployment #flask #python #pythontutorial #shorts #shortvideo #shortsvideo This ..."
+  ],
+  [
+    "Tensorflow Android: Real-time Object Detection in 6 steps",
+    "Please LIKE//Subscribe//Share Step 1: Install Android Studio https://developer.android.com/studio/index.html Step 2: Install python ..."
+  ],
+  [
+    "Object Detection video   | Trained model from tensorflow zoo | tkinter GUI",
+    "Here is the link some of the references ..."
+  ],
+  [
+    "Object Detection and Tracking using Matlab GUI and Arduino uno",
+    "This video tracks the red colour object using matlab. A led connected to Arduino glows whenever a single or multiple red objects ..."
+  ],
+  [
+    "Merged pipeline: Object Detection, Garment Classification and Attribute detection on Fashion imagery",
+    "eTryOn update on project's deliverable D3.1 - Pattern recognition on fashion imagery - working model: Check out our video ..."
+  ],
+  [
+    "Image labeling/Object detection for Android using Firebase ML Kit Urdu/Hindi",
+    "GET SOME SKILLS THAT DIFFERENTIATES YOU FROM OTHER ANDROID DEVELOPERS WITH KNOWLEDGE OF USING ..."
+  ],
+  [
+    "Deploy Object detection model using Flask",
+    "Source code: https://thinkinfi.com/deploy-object-detection-model-using-flask/ Learn how to build and deploy Object Detection APIs ..."
+  ],
+  [
+    "Understanding RCNN, Fast RCNN and Faster RCNN - YoloX Object Detection Model Deployment on the Cloud",
+    "Deep Learning Practice today has come a long way. Today it becomes inevitable to apply Machine Learning without taking into ..."
+  ],
+  [
+    "Find poles using TerraScan Object Detection",
+    "Training content - Object detection from point cloud: 1. Pre-classify the point cloud and assign groups 2. Define sample objects 3."
+  ],
+  [
+    "ARFoundation and Object Detection in Unity",
+    "For details: https://blog.usejournal.com/object-detection-and-arfoundation-in-unity-8782b1ee6ea3."
+  ],
+  [
+    "Real-time Object-Detection With Spring Cloud Stream",
+    "As a Java practitioner, how can you leverage ML/DL to deliver richer business solutions to your customers? My goal is to show ..."
+  ],
+  [
+    "DAY - 22 Real-time Object detection using MATLAB | Pantech e learning",
+    "Image processing using MATLAB -తెలుగు 1 DAY - 01 Getting Started With MATLAB 2 DAY - 02 Image processing using ..."
+  ],
+  [
+    "Object Detection with Yolo C++ and Camera",
+    "Link download below https://withkoji.com/@tomha Due to heavy data files and requirements and Drive We also know why ..."
+  ],
+  [
+    "Detection of household objects using TensorFlow Object Detection API",
+    "For this video, we trained a convolutional neural network (a MobileNet v1 from the TensorFlow Object Detection API, pretrained on ..."
+  ],
+  [
+    "Object Detection using YOLO v5 and PyTorch",
+    "Hi guys, In this video, I worked on object detection using Yolov5 and PyTorch. Yolov5 is the most recent addition to the Yolo family ..."
+  ],
+  [
+    "tamil yolo R yolo r yolo v5 custom object detection on own dataset speed breaker tamil deep learning",
+    "Join this channel to get access to perks: https://www.youtube.com/channel/UCS71lXSeU3CVYa6I_2KK0EA/join Join this channel ..."
+  ],
+  [
+    "Yolov5 Tutorial - What is YOLOv5 Object Detector (Real-Time Object Detection)",
+    "YOLOv5 Object Detector is a Real-Time Object Detector and is a PyTorch implementation of YOLO SSD known for its blazingly ..."
+  ],
+  [
+    "Object Detection using Arduino with sooner sensor | Bangla Tutorial",
+    "Get the code: https://github.com/Ishtiakur/Motion-Object-Detector This video about motion object detector using arduino and ..."
+  ],
+  [
+    "CenterNet: Objects as Points – Anchor Free Object Detection Explained",
+    "CenterNet: Object as Points is one of the milestones in the anchor-free object detection algorithm. Anchor-free object detection is ..."
+  ],
+  [
+    "[OpenQVision] Project showcase (OpenCV + PyQt5 + Object Detection)",
+    "Link to my GitHub: https://github.com/martuscellifaria/OpenQVision Link to my LinkedIn Profile: ..."
+  ],
+  [
+    "Creating an Object Detection Application Using TensorFlow GSP141 #googlecloudready",
+    "Join this channel to get access to perks: https://www.youtube.com/channel/UC5nwRSArw9U3GbXxKqbViuw/join Hey! All, It's your ..."
+  ],
+  [
+    "Object Detection with 10 lines of code",
+    ""
+  ],
+  [
+    "quarter CNN: Feature Pyramid Networks for Object Detection",
+    "This video introduces feature pyramid networks that produce a feature pyramid for addressing the scaling problem in the object ..."
+  ],
+  [
+    "Specified any Custom Object Detection by using ImageAI YOLOV3 Model from COCO Dataset 80 categories",
+    "Specified any Custom Object Detection by using ImageAI YOLOV3 Model from COCO Dataset 80 categories with Colab Google ..."
+  ],
+  [
+    "Project 132 OBJECT DETECTION ON IMAGES PART 2 Whitehat JR",
+    "Project Link https://balakrishnan11.github.io/PROject-132/ 0:00 Intro 03:55 Creating the Folder 04:29 Coding 36:14 Final Preview ..."
+  ],
+  [
+    "What is YOLO object detection algorithm? DARKNET |COCO dataset |Google CoLab |GRIP Sparksfoundation",
+    "The learning objective of the content is mainly focused on multiple object detection in a given image using YOLO version 4. In this ..."
+  ],
+  [
+    "Dominating an Online Game with Object Detection Using OpenCV - Template Matching.",
+    "Detect objects with No GPU, No Neural Network, and No training. Template matching has some unique advantages including ..."
+  ],
+  [
+    "Object Detection Custom Training of Image Mask RCNN Deep Learning | AI SANGAM",
+    "In this video we will learn \"How to Train Custom dataset with Mask RCNN\" Step 1: Collect data and divide them for train and ..."
+  ],
+  [
+    "Real-time Object Detection and Tracking up to 500m Away",
+    "Real-time Long-range Object Detection and Tracking using Livox Horizon & Tele 15."
+  ],
+  [
+    "Real Time Object Detection using fastai and Retinanet",
+    "This model was trained on a custom dataset and the Retinanet Architecture using the fastai library and amazing work of Jeremy ..."
+  ],
+  [
+    "Object Detection using Openvino IR with YOLO V3 on Video",
+    "Here you will get hustle free YOLO v3 model conversion to Open-vino IR and prediction on video. Step 1: Go to the link and ..."
+  ],
+  [
+    "Object Detection using Tensorflow JS, Vue 3  and TypeScript",
+    "Hello everyone, In this video, we will see how to use Tensorflow JS with Vue 3 and TyepScript to create an app for detecting ..."
+  ],
+  [
+    "Object Detection and Tracking Using OpenCv || Python ||",
+    "Language : Python 3.6 Packages : openCV, Numpy Repo: https://github.com/ashok-133/Computer-Vision DON'T CLICK THIS ..."
+  ],
+  [
+    "YOLO V1 - YOU ONLY LOOK ONCE || YOLO OBJECT DETECTION SERIES",
+    "Hi Guys, I am starting a new series about YOLO object detection model family. This is not an overview series, we will dig deeper ..."
+  ],
+  [
+    "How to train a self driving object detection model using Tensorflow 2",
+    "In this video we train efficientdet-d0 object detection model using udacity self driving car dataset. We then export the model and ..."
+  ],
+  [
+    "GPU less object detection/python tutorial, OpenCV",
+    "AI coordinator python tutorial. It is easy and fast to detect objects. No GPU is needed; only the CPU is needed for fast processing."
+  ],
+  [
+    "Yolo V5 Object Detection using Pytorch | On Local &amp; Colab |",
+    "Python & Machine learning Career & Course Guideline PDF at just 50 INR Buy from here:- ..."
+  ],
+  [
+    "Object Detection in 5 Lines | Detecto | Deep Learning | Python",
+    "Content Description ⭐️ In this video, I have explained on how to create a object detection model in 5 lines of code. This is very ..."
+  ],
+  [
+    "Object Detection Full Project: What It Is, How It&#39;s Done, and Why It&#39;s Important",
+    "Complete implementation of Object detection | Learn What How and Why It's Important ..."
+  ],
+  [
+    "ip webcam | opencv  object detection ip webcam |  tensorflow lite mobile cam object detection",
+    "code:- https://github.com/freedomwebtech/tensorflow-lite-ipcam keywords:- ip webcam, mobile to mobile, how to use, app, ..."
+  ],
+  [
+    "object detection using background subtraction",
+    "Background subtraction is a major preprocessing steps in many vision based applications. For example, consider the cases like ..."
+  ],
+  [
+    "YOLO Object Detection On RC Plane Footage",
+    "Using the YOLO Object detector on RC Plane Footage. YOLO: https://pjreddie.com/darknet/yolo/"
+  ],
+  [
+    "Object detection in iOS with Swift and CoreML",
+    "Learn how it is implemented: https://www.neuralception.com/object-detection-app/ An iOS app which detects red and green traffic ..."
+  ],
+  [
+    "SFA 3D | 3D Object Detection | Perception for Self Driving Cars",
+    "Discussing a 3D Object Detection technique, SFA 3D, Super Fast and Accurate 3D Object Detection. The network makes use of a ..."
+  ],
+  [
+    "Object Detection Video Annotation Tool",
+    "You can easily create an object detection dataset from a video with an object by annotating it on the first frame of a video with the ..."
+  ],
+  [
+    "YOLOv4 Tutorial: Setup and Object Detection in Linux",
+    "github- https://github.com/alexeyab/darknet#requirements paper- https://arxiv.org/abs/2004.10934 All commands used inside the ..."
+  ],
+  [
+    "72. Deep Learning Object Detection using Vision Development Module for LabVIEW",
+    "Deep Learning Object Detection using VDM for LabVIEW ======== Information ..."
+  ],
+  [
+    "poly-yolo colab tutorial segmentation and bounding box in object detection  alternative to mask rcnn",
+    "https://stackoverflow.com/questions/28583565/str-object-has-no-attribute-decode-python-3-error ..."
+  ],
+  [
+    "OBJECT DETECTION | SINGLE SHOT MULTI BOX DETECTOR | ON VIDEO IMPLEMENTATION",
+    "Hello guys, this is a PyTorch implementation of Single Shot MultiBox Detector on sample video. Link to GitHub Repo: ..."
+  ],
+  [
+    "Object detection and measurement in realtime using aruco and opencv",
+    ""
+  ],
+  [
+    "Yolo V5 Object Detection using Pytorch | On Local &amp; Colab |",
+    "Python & Machine learning Career & Course Guideline PDF at just 50 INR Buy from here:- ..."
+  ],
+  [
+    "Make YOLO do object detection faster with Multiprocessing",
+    "This tutorial is a brief introduction to multiprocessing in Python. At the end of this tutorial, I will show how I use it to make ..."
+  ],
+  [
+    "AI Robot: Object detection using TensorFlow Lite and Web Monitoring | Raspberry Pi",
+    "This AI Robot is now capable of detecting objects in live video stream. A Machine Learning model 'MobileNet SSD v1 (COCO)' ..."
+  ],
+  [
+    "Object Detection in 5 Lines | Detecto | Deep Learning | Python",
+    "Content Description ⭐️ In this video, I have explained on how to create a object detection model in 5 lines of code. This is very ..."
+  ],
+  [
+    "Object Detection in Python with OpenCV | Practical Demonstration with Code Explained",
+    "This video is for those who want to get started in Machine Learning Image Processing with OpenCV. A thorough explanation of the ..."
+  ],
+  [
+    "Object Detection using Openvino IR with YOLO V3 on Video",
+    "Here you will get hustle free YOLO v3 model conversion to Open-vino IR and prediction on video. Step 1: Go to the link and ..."
+  ],
+  [
+    "How to Perform Object Detection in Clustered scene using Point Feature Matching| MATLAB|",
+    "https://www.ris-ai.com/ #AI #DeepLearning #Tensorflow #Matlab https://www.ris-ai.com/ #AI # Deep Learning # Tensorflow ..."
+  ],
+  [
+    "Object Detection and Tracking Using OpenCv || Python ||",
+    "Language : Python 3.6 Packages : openCV, Numpy Repo: https://github.com/ashok-133/Computer-Vision DON'T CLICK THIS ..."
+  ],
+  [
+    "CNN W3L03 : Object Detection",
+    "Convolutional Neural Networks(CNN) Week 3 Lecture 3 : Object Detection."
+  ],
+  [
+    "05 | Faster-RCNN Algorithm | Overview | Object Detection | Part 1",
+    "FasterRCNN, #ObjectDetection, #Beginners In this video I briefly describe the overview of the Faster-RCNN algorithm. Link to the ..."
+  ],
+  [
+    "Object Detection Video Annotation Tool",
+    "You can easily create an object detection dataset from a video with an object by annotating it on the first frame of a video with the ..."
+  ],
+  [
+    "72. Deep Learning Object Detection using Vision Development Module for LabVIEW",
+    "Deep Learning Object Detection using VDM for LabVIEW ======== Information ..."
+  ],
+  [
+    "object detection using background subtraction",
+    "Background subtraction is a major preprocessing steps in many vision based applications. For example, consider the cases like ..."
+  ],
+  [
+    "python object detection tutorial | using OpenCv  plus convert text to speech",
+    "python object detection tutorial and Recognition project using OpenCV plus convert the detected text to speech. This is based on ..."
+  ],
+  [
+    "Project 132 OBJECT DETECTION ON IMAGES PART 2 Whitehat JR",
+    "Project Link https://balakrishnan11.github.io/PROject-132/ 0:00 Intro 03:55 Creating the Folder 04:29 Coding 36:14 Final Preview ..."
+  ],
+  [
+    "Object Detection with ImageAI in Python with Colab Google Drive",
+    "Object Detection with ImageAI in Python Colab Google Drive colab google link ..."
+  ],
+  [
+    "Object Detection Deep Learning Full Tutorial - Part 1 - Intro to Object Detection",
+    "Welcome to our Full Tutorial Video Series of - Object Detection with Deep Learning Pre-Requisites: Core Python ..."
+  ],
+  [
+    "OpenCV Object Detection in Python - Using Color segmentation (Tutorial)",
+    "for code visit :http://thecodacus.com/opencv-object-tracking-colour-detection-python/ For Queries Visit my Forums: ..."
+  ],
+  [
+    "How can you try Object Detection?",
+    ""
+  ],
+  [
+    "Object Detection using ImageAI in Python",
+    "Object detection is a technology that falls under Computer Vision which deals with identifying and tracking objects present in ..."
+  ],
+  [
+    "YOLO V1 - YOU ONLY LOOK ONCE || YOLO OBJECT DETECTION SERIES",
+    "Hi Guys, I am starting a new series about YOLO object detection model family. This is not an overview series, we will dig deeper ..."
+  ],
+  [
+    "American Sign Language Detection using YOLO V5 Object Detection",
+    "A quick Python OpenCV Project using YOLOV5 Object Detection. With Code Colab Link: ..."
+  ],
+  [
+    "poly-yolo colab tutorial segmentation and bounding box in object detection  alternative to mask rcnn",
+    "https://stackoverflow.com/questions/28583565/str-object-has-no-attribute-decode-python-3-error ..."
+  ],
+  [
+    "SFA 3D | 3D Object Detection | Perception for Self Driving Cars",
+    "Discussing a 3D Object Detection technique, SFA 3D, Super Fast and Accurate 3D Object Detection. The network makes use of a ..."
+  ],
+  [
+    "Object Detection Kivy App",
+    "Object Detection Kivy App using google vision API My Upwork Profile Link ..."
+  ],
+  [
+    "Object Detection using HOG-Linear SVM in Python",
+    "Object Detection using HOG as descriptor and Linear SVM as classifier. The detector was written in Python. sklearn and ..."
+  ],
+  [
+    "OBJECT DETECTION | SINGLE SHOT MULTI BOX DETECTOR | ON VIDEO IMPLEMENTATION",
+    "Hello guys, this is a PyTorch implementation of Single Shot MultiBox Detector on sample video. Link to GitHub Repo: ..."
+  ],
+  [
+    "Yolo 3D Object Detection Matlab Projects | Object detection matlab code | Object Detection Tutorial",
+    "How to Perform Object Detection With YOLO 3D using Matlab? YOLOv3 is extremely fast and accurate. This Video project ..."
+  ],
+  [
+    "RCNN, FAST RCNN, FASTER RCNN : OBJECT DETECTION AND LOCALIZATION THROUGH DEEP NEURAL NETWORKS",
+    "This is a video I made for my college course. In this video I first explain the theory behind the modern approaches to object ..."
+  ],
+  [
+    "Abandoned Object Detection | Eocortex video analytics",
+    ""
+  ],
+  [
+    "Object Detection Full Project: What It Is, How It&#39;s Done, and Why It&#39;s Important",
+    "Complete implementation of Object detection | Learn What How and Why It's Important ..."
+  ],
+  [
+    "AR Genie Object Detection/ Image Recognition",
+    "argenie #objectdetection #imagerecognition #ar #argenieobjectdetectionimagerecognition."
+  ],
+  [
+    "Official YOLOv7 Object Detection | Object Cropping",
+    "Pyresearch #Official #YOLOv7 #ObjectDetection #ObjectCropping In this video, I will show you how to use Official YOLOv7 Object ..."
+  ],
+  [
+    "Grouping Rectangles into Click Points - OpenCV Object Detection in Games #3",
+    "Learn the trick to using OpenCV groupRectangles() for multiple object detection. This is part 3 in the OpenCV Python tutorial for ..."
+  ],
+  [
+    "How to train a self driving object detection model using Tensorflow 2",
+    "In this video we train efficientdet-d0 object detection model using udacity self driving car dataset. We then export the model and ..."
+  ],
+  [
+    "Real-time Object Detection with YOLO | Algoscale",
+    "This short video presents one of the fastest object detection algorithms that can be used for real-time systems that can classify ..."
+  ],
+  [
+    "13.8| MATLAB Code For Object Detection in a Cluttered Scene Based Point  Feature Matching",
+    "Get the Code: https://bit.ly/30Mfxtr 13 - Image Processing: See all the Codes in this Playlist: https://bit.ly/3iPKR0y 13.1- License ..."
+  ],
+  [
+    "Deep learning,Deep neural network based OBJECT DETECTION region convolutional network(RCNN)-OWN DATA",
+    "Deep learning deep neural network based OBJECT DETECTION own data matlab code whatsapp help +91 9994444414 ..."
+  ],
+  [
+    "How Computer Vision works: Object Detection and Segmentation with Mask R-CNN",
+    "Our latest computer vision demo video in the field of artificial intelligence is about object detection and image segmentation with ..."
+  ],
+  [
+    "Object detection in Android using TensorFlow Lite (2020)",
+    "In this video you will learn how to train object detection model on custom data and run the trained model on Android app using ..."
+  ],
+  [
+    "#shorts Yolov6 Object Detection",
+    "Why does YOLOv6 outperform most anchor-based object detectors? What are the improvements it brings in industrial applications ..."
+  ],
+  [
+    "Object Detection With Audio Feedback | Deep Learning Final Year Projects | Python Project Ideas",
+    "The main objective of this is object recognition is one of the challenging applications of computer vision. Download ..."
+  ],
+  [
+    "Object Detection with IoT sensors on Ramp",
+    "Take a look at how IoT sensors installed on a ramp in a typical manufacturing setup show the status of the ramp on a dashboard."
+  ],
+  [
+    "Detecto Object Detection",
+    "This demo shows the output video of a learning-based Multiple Scale Pedestrian Detector implemented in Xilinx FPGA working ..."
+  ],
+  [
+    "Vision Guided Robotics – Object Detection &amp; Localization",
+    "Robot applications without vision guidance depend on a very accurate object positioning. It takes a high effort in designing the ..."
+  ],
+  [
+    "Object Detection in Any Raspberry Pi using Google Vision API with Python",
+    "In this video I will show you, how to use object detection in any Raspberry Pi using Google vision API. You can find the code here: ..."
+  ],
+  [
+    "Real-time object detection using TensorFlow (Yolo Algorithm v2)",
+    "Live object detection from my phone camera using YoloV2 Implementation: https://github.com/leeyoshinari/YOLO_v2 Follow me ..."
+  ],
+  [
+    "Object Detection in Python using OpenCV",
+    "A python script using openCV to detect images of multiple types of fruits in a collection of fruit items. Check out my website at:- ..."
+  ],
+  [
+    "Object Detection with YOLOv2 + Tensorflow [UE4 Tech Demo]",
+    "Rendered with GTX970 Used darknet python wrapper \"darkflow\" Took 290 seconds(~5mins) to classify and label. darfklow ..."
+  ],
+  [
+    "SAS Tutorial | How to Build Customized Object Detection Models",
+    "Get ready to learn a ton about object detection in this 15-minute SAS How To Tutorial by SAS's Robert Blanchard. He explains ..."
+  ],
+  [
+    "Object detection on an RC car with W&amp;B and YOLOv5",
+    "In this video, W&B's Armand du Parc Locmaria shows how to make a self-driving RC car that stops at stop signs using the YOLOv5 ..."
+  ],
+  [
+    "Robot Arm with OpenCV Object Detection using MATLAB | Advanced Deep Learning Projects",
+    "The motion planning algorithm is developed using Robotics Systems Toolbox features, and ROS Toolbox functionalities."
+  ],
+  [
+    "C# - Real-time Object Detection From an Image | Yolo -  II | Draw Rectange and Text on the Image",
+    "Yolo Part 1 - https://youtu.be/G4tNSnIE_lY Yolo Part 2 - https://youtu.be/w93g6yAOuNE ..."
+  ],
+  [
+    "How can you try Object Detection?",
+    ""
+  ],
+  [
+    "#1 YOLOv7 Object Detection Model Algorithm Installation | Computer Vision | Data Science",
+    "In this Computer Vision Tutorial, I have explained each and every steps to install latest object detection algorithm YOLOv7 (You ..."
+  ],
+  [
+    "Object detection with on-camera AI",
+    "What is AI-based image processing capable of and in which ways does it differ from rule-based image processing? In this video ..."
+  ],
+  [
+    "Real Time Object Detection using YOLOv3 on Road Traffic on Nvidia RTX 2060",
+    "Real Time Object Detection using YOLOv3 on Road Traffic on Nvidia RTX 2060 #objectdetection #yolov3 #life2coding ..."
+  ],
+  [
+    "EfficientDet Implementation | Object Detection",
+    "Github: https://github.com/AarohiSingla/EfficientDet-Implementation What is EfficientDet and How EfficientDet is different from ..."
+  ],
+  [
+    "VIM3 - Realtime Object Detection Using Yolo v3",
+    "In this video, You Jun from Khadas Team demonstrates the VIM3's 5.0 TOPS (tera operations per second) NPU (neural ..."
+  ],
+  [
+    "YOLO Object Detection Explained for Beginners",
+    "Get a look at our course on data science and AI here: https://bit.ly/3thtoUJ ..."
+  ],
+  [
+    "CNN W3L03 : Object Detection",
+    "Convolutional Neural Networks(CNN) Week 3 Lecture 3 : Object Detection."
+  ],
+  [
+    "Object Detection and Mapping Using Depth Camera D455 for Indoor Localization &amp; Navigation of Robot",
+    ""
+  ],
+  [
+    "Real-time Object Detection on YoloV5 with Flask - Webcam/IP Camera",
+    "In this video, I have updated the previous YoloV5 code to integrate it with real-time object detection with your camera I hope you ..."
+  ],
+  [
+    "Object Detection through Computer AI | Alphonse Inba | TEDxIShouUniversity",
+    "Few years ago, researchers were struggling how to teach a computer to identify objects, but now our computer visual world done ..."
+  ],
+  [
+    "DAY - 22 Real-time Object detection using MATLAB | Pantech e learning",
+    "Image processing using MATLAB -తెలుగు 1 DAY - 01 Getting Started With MATLAB 2 DAY - 02 Image processing using ..."
+  ],
+  [
+    "DETECTRON2 TUTORIAL for Colab | Object Detection, Instance Segmentation on Google Colab",
+    "Detectron2 tutorial using Colab. Learn how to setup Detectron2 on Google colab with GPU support and run object detection and ..."
+  ],
+  [
+    "American Sign Language Detection using YOLO V5 Object Detection",
+    "A quick Python OpenCV Project using YOLOV5 Object Detection. With Code Colab Link: ..."
+  ],
+  [
+    "Object Detection video   | Trained model from tensorflow zoo | tkinter GUI",
+    "Here is the link some of the references ..."
+  ],
+  [
+    "RCNN, FAST RCNN, FASTER RCNN : OBJECT DETECTION AND LOCALIZATION THROUGH DEEP NEURAL NETWORKS",
+    "This is a video I made for my college course. In this video I first explain the theory behind the modern approaches to object ..."
+  ],
+  [
+    "Flutter Live Camera Tutorial - Android &amp; iOS Object Detection App - TfLite Mobile Machine Learning",
+    "This is tutorial#05 of Android + iOS Object Detection App using Flutter with Android Studio and TensorFlow lite. In this video we ..."
+  ],
+  [
+    "Object Detection and Recogition",
+    "http://www.willowgarage.com/blog/2010/09/20/scalable-object-recognition."
+  ],
+  [
+    "Object Detection and Image Segmentation in Python [Beginner]",
+    "Subscribe for More: https://www.youtube.com/c/AshadullahShawon?sub_confirmation=1 Code: ..."
+  ],
+  [
+    "Object detection and distance calculation based on stereo vision technique",
+    "Full source here: https://github.com/vanducng/stereo-vision-technique-in-Cpp How to run this? + It needs cvBlobsLib. For setup ..."
+  ],
+  [
+    "Object Detection Kivy App",
+    "Object Detection Kivy App using google vision API My Upwork Profile Link ..."
+  ],
+  [
+    "Object Detection using Ultrasonic sensor and Arduino | Ultrasonic Sensor Projects | Arduino Projects",
+    "This video explains to you - How to detect an object using an ultrasonic sensor, Arduino Uno, and buzzer?? The video starts by ..."
+  ],
+  [
+    "object detection using background subtraction",
+    "Background subtraction is a major preprocessing steps in many vision based applications. For example, consider the cases like ..."
+  ],
+  [
+    "Tensorflow Android: Real-time Object Detection in 6 steps",
+    "Please LIKE//Subscribe//Share Step 1: Install Android Studio https://developer.android.com/studio/index.html Step 2: Install python ..."
+  ],
+  [
+    "Object Detection Using Blob Analysis | Student Competition: Computer Vision Training",
+    "Learn to detect objects using blob analysis and in doing so, learn how to perform color space conversion, thresholding, ..."
+  ],
+  [
+    "YOLOv6 on Custom Dataset | Object Detection",
+    "In this video, I will show you a practical Implementation of Yolov6 model which was released 1 week ago by the research group at ..."
+  ],
+  [
+    "Realtime Object Detection  | Object Detection with TensorFlow | Edureka | Deep Learning Rewind - 5",
+    "Edureka Data Science Training: https://www.edureka.co/data-science-r-programming-certification-course This Edureka video on ..."
+  ],
+  [
+    "Object Detection using Visual Recognition in 5 mins | IBM Watson studio tutorial",
+    "Welcome to DWBIADDA's IBM Watson complete tutorial, as part of this lecture we will see, Object Detection using Visual ..."
+  ],
+  [
+    "How To Bot with OpenCV - OpenCV Object Detection in Games #9",
+    "Learn how to combine OpenCV object detection with PyAutoGUI and Threading to build a custom Python video game bot."
+  ],
+  [
+    "Raspberry Pi TensorFlow 2 installation and Yolo V3 object detection",
+    "This tutorial will provide step-by-step instructions for how to set up TensorFlow 2.* on the Raspberry Pi. By following this step by ..."
+  ],
+  [
+    "1241 - Class-agnostic Object Detection",
+    ""
+  ],
+  [
+    "Detection of household objects using TensorFlow Object Detection API",
+    "For this video, we trained a convolutional neural network (a MobileNet v1 from the TensorFlow Object Detection API, pretrained on ..."
+  ],
+  [
+    "Fast Window Capture - OpenCV Object Detection in Games #4",
+    "Learn how to capture window data in real-time as a video stream for processing with OpenCV. We try several different methods ..."
+  ],
+  [
+    "Easy Object Detection on Samsung Note 20 Ultra | OpenCV Python | Computer Vision |2021",
+    "So today we are going implement and benchmark Computer Vision object detection models on an Android Device like the ..."
+  ],
+  [
+    "Object detection in iOS with Swift and CoreML",
+    "Learn how it is implemented: https://www.neuralception.com/object-detection-app/ An iOS app which detects red and green traffic ..."
+  ],
+  [
+    "Object Detection With Audio Feedback | Deep Learning Final Year Projects | Python Project Ideas",
+    "The main objective of this is object recognition is one of the challenging applications of computer vision. Download ..."
+  ],
+  [
+    "Turi Create tutorial - Object Detection using One Shot Learning",
+    "Video contains tutorial on how to use Turi Create tool to train CoreML Object Detection Model using One Shot Learning technique ..."
+  ],
+  [
+    "ip webcam | opencv  object detection ip webcam |  tensorflow lite mobile cam object detection",
+    "code:- https://github.com/freedomwebtech/tensorflow-lite-ipcam keywords:- ip webcam, mobile to mobile, how to use, app, ..."
+  ],
+  [
+    "Real-time Object Detection and Tracking up to 500m Away",
+    "Real-time Long-range Object Detection and Tracking using Livox Horizon & Tele 15."
+  ],
+  [
+    "RTX 3090 for Machine Learning and Object Detection?",
+    "The NVIDIA RTX 3090 is a beast. We all know it can beat the benchmarks in gaming, but how about machine learning and neural ..."
+  ],
+  [
+    "Yolo V5 Object Detection using Pytorch | On Local &amp; Colab |",
+    "Python & Machine learning Career & Course Guideline PDF at just 50 INR Buy from here:- ..."
+  ],
+  [
+    "[DeepReader] MultiBox: Scalable Object Detection using Deep Neural Networks",
+    "machinelearning #deepleraning #artificialintelligence #AI #paperreview #objectdetection #multibox #deepmultibox Paper ..."
+  ],
+  [
+    "CAP5415 Lecture 20 [Object Detection - Part I] - Fall2021",
+    "CAP5415 Computer Vision Fall 2021 Course webpage: https://www.crcv.ucf.edu/courses/cap5415-fall-2021/ Instructor: Yogesh S ..."
+  ],
+  [
+    "FOS System: Foreign object detection for simple and challenging surfaces",
+    "Minimize risks during assembly processes – detect foreign objects on simple, but also complex surfaces such as high-voltage ..."
+  ],
+  [
+    "Specified any Custom Object Detection by using ImageAI YOLOV3 Model from COCO Dataset 80 categories",
+    "Specified any Custom Object Detection by using ImageAI YOLOV3 Model from COCO Dataset 80 categories with Colab Google ..."
+  ],
+  [
+    "#2 Jetson Nano | Intro Object Detection Faster R-CNN &amp; OpenCV DNN Inferencing + Flask + SocketIO",
+    "Resource Link: https://github.com/Muhammad-Yunus/Jetson-Nano-Object-Detection-Learn."
+  ],
+  [
+    "Object detection increased to 200%  | The Entropy Centre | #Gaming #theentropycentre #Vtuber #Shorts",
+    "Welcome to the Entropy Centre, a first person puzzle game dealing with time in the vein of Portal. The Entropy gun speaks to you ..."
+  ],
+  [
+    "Object Detection Tracking using Matlab Source Code",
+    "Subscribe to our channel to get this project directly on your email Download this full matlab project with Source Code from ..."
+  ],
+  [
+    "RZ/V2M AI Object Detection Demo - Cash Register",
+    "Watch how the Renesas' DRP-AI accelerator is able to detect single item and multiple items on a conveyor belt in real-time with ..."
+  ],
+  [
+    "Unity 3D OpenCV 3.4 Object Detection using Caffe Model",
+    "Another video on doing object detection in Unity 3D using Open CV 3.4 and custom pInvoke dll Code: ..."
+  ],
+  [
+    "Image Detection with YOLO-v2 (pt.6) Custom Object Detection (Draw Bounding Boxes)",
+    "In this series we will explore the capabilities of YOLO for image detection in python! This video will look at - how to display our ..."
+  ],
+  [
+    "Tensorflow Object Detection Course | Industrial Approach Development Course",
+    "Course Link: https://www.udemy.com/course/object-detection-with-tensorflow-fast-track-course/?"
+  ],
+  [
+    "Luxonis Demonstration of Real-time Object Detection",
+    "Erik Kokalj, Director of Applications Engineering at Luxonis, demonstrates the company's latest edge AI and vision technologies ..."
+  ],
+  [
+    "Object Detection using Tensorflow-2 API !! Part 1:- Creating virtual environment",
+    "1st part, this video:- Installing Prerequisites and Creating virtual environment. 2nd part,:- Configuration of Cuda with ..."
+  ],
+  [
+    "[Paper Review] You Only Look Once : Unified, Real-Time Object Detection",
+    "[1] 발표자: 이윤승 [2] 논문: You Only Look Once: Unified, Real-Time Object Detection (https://arxiv.org/abs/1506.02640) [3] 발표 ..."
+  ],
+  [
+    "PyTorch - Object Detection and Tracking",
+    "This session starts with the basics of object detection and tracking process. This session also provides the information about the ..."
+  ],
+  [
+    "Object Detection using Transformers and CNNs | Eduardo Dixo | Conf42 Machine Learning 2021",
+    "Eduardo Dixo Senior Data Scientist @ Continental Drones with mounted cameras provide significant advantages when compared ..."
+  ],
+  [
+    "Object Detection using Tensorflow-2 API !! Part 2:- Configuring Cuda and Cudnn with Tensorflow 2",
+    "1st part:- Installing Prerequisites and Creating virtual environment :- https://youtu.be/dhgPL6RP_tg 2nd part, this video:- ..."
+  ],
+  [
+    "YOLO V2 - Better, Faster &amp; Stronger || YOLO OBJECT DETECTION SERIES || YOLO9000",
+    "This is the second video of the series about YOLO object detection model family. This video digs deeper into YOLO-V2 paper ..."
+  ],
+  [
+    "Real-time Fruit Recognition  | Object Detection AI",
+    "Official site: https://www.alcherainc.com/ LikedIn: https://www.linkedin.com/company/alchera-inc/"
+  ],
+  [
+    "Object Detection with OpenCV, Tensorflow Hub &amp; Python | #pyguru",
+    "In this tutorial we will be learning how to implement a simple object detection tool in Google colab. For this we will be using the ..."
+  ],
+  [
+    "object detection python tutorial || 10 lines of Code",
+    "In this video i teach you how to use pretrained yolo and carry out object detection in less tan 10 lines of code. Link to Jupiter ..."
+  ],
+  [
+    "YOLO Algorithm of Object Detection | Beginners Level Tutorial in Urdu/Hindi | Theoretical Concepts",
+    "Dear Students and YouTube Family! In this video, you will get to know the YOLO v3 (You Only Look Once) algorithm which is used ..."
+  ],
+  [
+    "Basics of Computer Vision | Build an AI Object Detection Engine",
+    "In this bootcamp, we are going to build a fully-functional Object Detector. By the end of this bootcamp, you will have a working ..."
+  ],
+  [
+    "Training Haar cascade object detection - OpenCV with Python for Image and Video Analysis 20",
+    "In this tutorial, we cover how to train the Haar Cascade classifier, using our positive and negative images. This is used with ..."
+  ],
+  [
+    "Depth-assisted Real-time 3D Object Detection for Augmented Reality",
+    "This video demonstrates our work published in ICAT2011 conference. We combine RGB information with 3D depth information for ..."
+  ],
+  [
+    "OpenCV Python :: Multiple color object detection and tracking",
+    "Multiple color object tracking with OpenCV on Python Code: http://pastebin.com/WVhfmphS."
+  ],
+  [
+    "YOLOv4 custom object detection with TensorFlow 2",
+    "To be a state-of-the-art model, YOLOv4 needs to be at the leading-edge of deep learning. YOLOv4 authors have worked on ..."
+  ],
+  [
+    "Multiple Object Detection with Color Using OpenCV",
+    "The CODE http://akaifi.github.io/MultiObjectTrackingBasedOnColor/ A computer vision project. Track and detect multiple objects ..."
+  ],
+  [
+    "Object Detection, Barcode/QR Code Reader, OCR Jupyter Notebooks",
+    "Our Arena SDK now includes JupyterLab built-in to our ArenaView Viewer. This speeds up product qualification workflow without ..."
+  ],
+  [
+    "Real time object detection on a Pi Zero streaming over the web",
+    "Using WebRTC to stream the AIY Projects Vision Kit object detection output from a Raspberry Pi Zero to a web browser. See the ..."
+  ],
+  [
+    "Object Detection - Image Segmentation for Self Driving-Tutorial",
+    "Support me on Patreon https://www.patreon.com/misbahmohammed Object detection and Image Segmentation using ..."
+  ],
+  [
+    "Iron Dome | Computer Vision | Object Detection | Rajdeep Chatterjee",
+    "Computer Vision Application for Detecting Bright Objects in the Night Sky. A weekend assignment."
+  ],
+  [
+    "Face Mask Detection using Tensorflow Object Detection API [ Part-1 ]",
+    "Python & Machine learning cheat sheet at just 50 INR Buy from here:- ..."
+  ],
+  [
+    "Pedestrian Detection using TensorFlow Object Detection API and Nanonets",
+    "This video compares the performance of four Object Detection models for a pedestrian detection task. Checkout the links below for ..."
+  ],
+  [
+    "Object detection and sorting through Qualitas Machine vision &amp; Computer vision technology 🦾",
+    ""
+  ],
+  [
+    "NEWEST ONE TECH-Radar Object Detection System",
+    "NEWEST ONE TECH-Radar Object Detection System: Programmable radar sensor for Heavy Duty Vehicles (RODS-M) Radar ..."
+  ],
+  [
+    "Snake Game Using TensorFlow Object Detection API",
+    "Playing Snake Game Using TensorFlow Object Detection API To know the complete algorithm you can follow this blog: ..."
+  ],
+  [
+    "CS671_Online Lecture-3 (PART-D): Object Detection: Fast RCNN",
+    "The presentations and other course material can be found here: http://faculty.iitmandi.ac.in/~aditya/cs671/index.html slide credits: ..."
+  ],
+  [
+    "Android Tensorflow lite custom object detection",
+    "This is a custom object detector trained with Tensorflow lite for android...It has only 6 objects as the cards nine,ten,jack,queen,king ..."
+  ],
+  [
+    "MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships",
+    "CVPR 2020 accepted arxiv: https://arxiv.org/abs/2003.00504 Monocular 3D object detection is an essential component in ..."
+  ],
+  [
+    "Object detection tracking and counting using image processing",
+    "This video aims to show how moving objects can be detected, tracked and counted using image processing. This video is a real ..."
+  ],
+  [
+    "Deep Learning Tutorial - Part 2 | TensorFlow Object Detection | TensorFlow Tutorial | Simplilearn",
+    "This Deep Learning tutorial will take you through the TensorFlow code to perform object detection in an image. You will ..."
+  ],
+  [
+    "Lesson-10 Template Matching | Object Detection | Hands-on Tutorial Open CV  with Python | 2020",
+    "In this video, we are going to learn a few things like: what is Template matching? How can we detect faces using template ..."
+  ],
+  [
+    "Yolo v3 vs Yolo-tiny v3: Realtime Custom Object Detection with Darknet",
+    "Here I have trained a Kangaroo detector model using Yolov3 and Yolo-tinyv3 and compared both in terms of accuracy and speed."
+  ],
+  [
+    "Object detection with YOLO V3 and Realsense camera",
+    "This is a quick tutorial to doing object detection with YOLO V3 (keras version) and realsense camera. Project files are here ..."
+  ],
+  [
+    "Bangalore night traffic real time object detection by deep learning by YOLO , OpenCV, TensorFlow",
+    "The objects in video have been detected by YOLO V2 frarework. Used DarkFlow of YOLO V2 to detect video object. YOLO - You ..."
+  ],
+  [
+    "Depth Estimation and Object Detection for Mono Camera",
+    "Depth Estimation and Object Detection for Mono Camera Delivering up to 26 TOPS, the Hailo-8™ automotive-grade, low-power AI ..."
+  ],
+  [
+    "#13 ZSD: Synthesizing the Unseen for Zero-shot Object Detection",
+    "deeplearning #machinelearning #ml #research #ai #artificialintelligence #yannickilcher #ai Zero-shot learning involves training ..."
+  ],
+  [
+    "RealTime Object Detection with Machine Learning",
+    "Real-time Machine Learning Detection System. Hardware Notebook Computer Acer Aspire 5755G CPU : Intel Core i5 (2nd Gen) ..."
+  ],
+  [
+    "Lecture 19 - Object Detection In Live Video using Trackbars | Image Processing and OpenCV | Python |",
+    "Image Procession and Computer Vision with OpenCV python full tutorial in Hindi. In this video on OpenCV Python Tutorial For ..."
+  ],
+  [
+    "Obstacles Detector | IR Sensor | Object Detection #shorts #youtubeshorts #arduino #project #diycraft",
+    ""
+  ],
+  [
+    "Object Detection and Motion Tracking in OpenCV",
+    "In this video, we detect the presence of a green-colored object using computer vision techniques, by using the OpenCV library, ..."
+  ],
+  [
+    "DIY Custom Object Detection Model via Transfer Learning (Tensorflow Lite Edge TPU)",
+    "A tutorial on how to create your own Tensorflow Lite custom object detection model via transfer learning for Edge TPU devices like ..."
+  ],
+  [
+    "SURF feature descriptor based multiple object detection &amp; recognition",
+    "SURF feature descriptor based multiple object detection & recognition. Many images can be stored in the database. Different ..."
+  ],
+  [
+    "OYO ROOMS OBJECT DETECTION using Python and Computer Vision (DAY-02)",
+    "Is it possible to use object detection in OYO rooms? Let's find out in our 7-Days Bootcamp. ✓Join our Campus Ambassador ..."
+  ],
+  [
+    "Terminator-like Object Detection using Python and CNN - Day 06",
+    "We are cooking a new surprise for our CODING CHAMPS. DevTown is being upgraded to SOMETHING NEW, SOMETHING ..."
+  ],
+  [
+    "Nvidia Jetson Xavier inference object-detection with Detectnet (FP16)",
+    "more info https://microcontrollerkits.blogspot.com/2022/07/nvidia-jetson-inference-object-detection-detectnet.html สอบถาม เพิ่มเติม ..."
+  ],
+  [
+    "YOLO v3 Deep Learning Object Detection on  Christopher Nolan&#39;s Tenet",
+    "YOLO v3 Model: https://pjreddie.com/darknet/yolo/ Original Trailer: https://www.youtube.com/watch?v=LdOM0x0XDMo."
+  ],
+  [
+    "Active Learning for Deep Object Detection via Probabilistic Modeling (ICCV 2021)",
+    "Jiwoong Choi, Ismail Elezi, Hyuk-Jae Lee, Clement Farabet, Jose M Alvarez; Active Learning for Deep Object Detection via ..."
+  ],
+  [
+    "Object Detection and Recognition Using Deep Learning in OpenCV: Pbm Def Dataset|packtpub.com",
+    "This video tutorial has been taken from Object Detection and Recognition Using Deep Learning in OpenCV. You can learn more ..."
+  ],
+  [
+    "Object Detection and Recognition Using Deep Learning in OpenCV: Working with Obj Recogn|packtpub.com",
+    "This video tutorial has been taken from Object Detection and Recognition Using Deep Learning in OpenCV. You can learn more ..."
+  ],
+  [
+    "Object detection and 3D pose estimation from Point cloud using Realsense depth camera | ROS | PCL",
+    "In this project I will use find_object_2d package for object detection and 3D pose estimation. In this project, Intel Realsense D415 ..."
+  ],
+  [
+    "Object Detection using Tensorflow-2 API !! Part 1:- Creating virtual environment",
+    "1st part, this video:- Installing Prerequisites and Creating virtual environment. 2nd part,:- Configuration of Cuda with ..."
+  ],
+  [
+    "Lesson-10 Template Matching | Object Detection | Hands-on Tutorial Open CV  with Python | 2020",
+    "In this video, we are going to learn a few things like: what is Template matching? How can we detect faces using template ..."
+  ],
+  [
+    "Joynext 均联智行: Live Streaming Object Detection by Leveraging GPU with AVA Platform on EWAOL",
+    "Live Streaming Object Detection by Leveraging GPU with AVA Platform on EWAOL Shuang Hu Joynext 均联智行 00:00 Live ..."
+  ],
+  [
+    "How to Create Object Detection With OpenCV - Bottle Detection",
+    "See full article: https://maker.pro/raspberry-pi/tutorial/how-to-create-object-detection-with-opencv Object Detection: ..."
+  ],
+  [
+    "COCO and ILSVRC object detection and segmentation overview",
+    ""
+  ],
+  [
+    "How to Build a Image Classifier/Object Detection without Writing Code | Microsoft Lobe",
+    "Content Description ⭐️ In this video, I have explained on how to a build a image classifier (or) object detection model with the ..."
+  ],
+  [
+    "Pedestrian Detection using TensorFlow Object Detection API and Nanonets",
+    "This video compares the performance of four Object Detection models for a pedestrian detection task. Checkout the links below for ..."
+  ],
+  [
+    "#Shorts ROS Simulation - Object Recognition - Gazebo - Object Detection",
+    ""
+  ],
+  [
+    "How to Achieve the Fastest CPU Inference Performance for Object Detection YOLO Models",
+    "Topics covered: 1. Object detection background, inluding history and current solutions 2. Easy ways to optimize/sparsify YOLOv5 ..."
+  ],
+  [
+    "Pointpillars  Fast encoders for object detection from point clouds",
+    "Pointpillars Fast encoders for object detection from point clouds."
+  ],
+  [
+    "ETFA2022 Tiny Object Detection for Robotic PnP Tasks",
+    "Paper title Visual Detection of Tiny and Transparent Objects for Autonomous Robotic Pick-and-Place Operations Authors Timo ..."
+  ],
+  [
+    "객체 검출(Object Detection) 딥러닝 기술: R-CNN, Fast R-CNN, Faster R-CNN 발전 과정 핵심 요약",
+    "객체 검출(Object Detection) 딥러닝 기술: R-CNN, Fast R-CNN, Faster R-CNN 발전 과정 핵심 요약."
+  ],
+  [
+    "【VUE JS ML5 JS 】video real time object detection with bounding box javascript",
+    "Source Code: ..."
+  ],
+  [
+    "Introduction to YOLOX | Object Detection | Deep Learning",
+    "Hello, Neurons!! YOLOX is the latest version of YOLO models, pushing the limit in terms of speed and accuracy. YOLOX most ..."
+  ],
+  [
+    "#6 Image labeling/Object detection using Firebase ML Kit | Image Recognition App Java #firebaseml",
+    "With ML Kit's image labeling APIs you can detect and extract information about entities in an image across a broad group of ..."
+  ],
+  [
+    "Obstacles Detector | IR Sensor | Object Detection #shorts #youtubeshorts #arduino #project #diycraft",
+    ""
+  ],
+  [
+    "Terminator-like Object Detection using Python and CNN - Day 07",
+    "We are cooking a new surprise for our CODING CHAMPS. DevTown is being upgraded to SOMETHING NEW, SOMETHING ..."
+  ],
+  [
+    "Raspberry Pi based Object Detection using TensorFlow and OpenCV",
+    "In this tutorial, we are going to build an Object Detection System using TensorFlow and Raspberry Pi. Learn more about this ..."
+  ],
+  [
+    "STONKAM 1080P HD AI Moving Object Detection Camera",
+    "STONKAM 1080P AI Moving Object Detection Camera is a high-end product based, which is designed to solve the blind spots of ..."
+  ],
+  [
+    "Depth Estimation and Object Detection for Mono Camera",
+    "Depth Estimation and Object Detection for Mono Camera Delivering up to 26 TOPS, the Hailo-8™ automotive-grade, low-power AI ..."
+  ],
+  [
+    "07 | Fast-RCNN Detector | Faster-RCNN | Object Detection | Part 3",
+    "FasterRCNN, #ObjectDetection, #Detector In this video I describe in detail the Fast-RCNN Detector which is one of the component ..."
+  ],
+  [
+    "Object Detection and Tracking Using ML",
+    "AI with object detection & tracking is helpful in to fetch data for important data points. We have designed and developed AI ..."
+  ],
+  [
+    "ADASKY Automotive Camera multi class object detection and classification",
+    "ADASKY Automotive Camera, a LWIR based perception solution, is demonstrating multi-class objects detection that ..."
+  ],
+  [
+    "TensorFlow Lite Object Detection on Raspberry Pi",
+    "TensorFlow Lite Object Detection on Raspberry Pi ⏰ Timestamps/Chapters 00:00 Start 00:17 Project - Introduction 00:51 ..."
+  ],
+  [
+    "YOLO | 2D Object Detection | Perception for Self Driving Cars",
+    "Using 2D Object Detection model YOLO to detect Cars, Trucks and Pedestrians around a Self Driving Car. Feel free to leave a ..."
+  ],
+  [
+    "Visible surface detection | Computer graphics | Lec-50| Bhanu priya",
+    "visible surface detection in computer graphics."
+  ],
+  [
+    "Object Detection and Classification using Edge Impulse : Electronics For You DIY Project",
+    "Want to develop your own object detector? Yes, it's possible. And not too difficult. Watch this video to see the proof-of-concept."
+  ],
+  [
+    "IoT based Object detection &amp; Counting using ESP32+CAM &amp; Displaying it in Telegram App Chat BoT",
+    ""
+  ],
+  [
+    "1. Introduction To YOLO v6 | Object Detection | Computer Vision",
+    "Check out my other playlists: ▻ Complete Python Programming: ..."
+  ],
+  [
+    "Iron Dome | Computer Vision | Object Detection | Rajdeep Chatterjee",
+    "Computer Vision Application for Detecting Bright Objects in the Night Sky. A weekend assignment."
+  ],
+  [
+    "Real-Time Fruit Detection using YOLOv4 | Introduction to Object Detection | Deep Learning Project",
+    "In images containing one or more objects, an object detection algorithm is used to identify and classify multiple objects. YOLO is a ..."
+  ],
+  [
+    "Object detection using YOLOv3, OpenCV and Python | Basics of object detection | Computer vision",
+    "A simple approach to detecting objects in the image using YOLOv3 with OpenCV. No need to install or train anything, just use ..."
+  ],
+  [
+    "Team Cuatro | Smart Traffic Management System using Opencv &amp; Object Detection.",
+    "https://github.com/darkar18/Traffic_light.git p."
+  ],
+  [
+    "Object Detection Using PIR Sensor with TI launchpad",
+    "Motion detection of living objects using PIR sensor with MSP-EXP430G2 TI Launchpad. PIR sensors can be used for various ..."
+  ],
+  [
+    "YOLOv5 Object Detection",
+    "YOLOv5 Object Detection Official website: https://github.com/ultralytics/yolov5 YOLOv5 is a family of object detection architectures ..."
+  ],
+  [
+    "Quick and Easy Object Detection ! #Shorts",
+    "Object Detection using Detectron 2 Image Segmentation Support me on Patreon https://www.patreon.com/misbahmohammed ..."
+  ],
+  [
+    "Object Detection and Motion Tracking in OpenCV",
+    "In this video, we detect the presence of a green-colored object using computer vision techniques, by using the OpenCV library, ..."
+  ],
+  [
+    "3D Object Detection for Autonomous Vehicles Using Multimodal Temporal Data",
+    "PhD transfer talk from Venkatesh Gurram Munirathnam 22 June 2020 @ 2pm via Zoom."
+  ],
+  [
+    "Real time object detection using tensorflow by webcam on windows 10",
+    "My Number 7 || قناة رقم سبعة ------------------------------------- Object detection using Tensorflow with ms coco database over 200 ..."
+  ],
+  [
+    "Object detection along Singapore Park Connector Network using Mask R-CNN",
+    "Object detection along Singapore's Park Connector Network using Mask R-CNN. The software used is Facebook's Detectron ..."
+  ],
+  [
+    "Lecture 32 - Object Detection using Contours by webcam | OpenCV | Computer Vision | Hand Detection",
+    "Image Procession and Computer Vision with OpenCV python full tutorial in Hindi. In this video, we discuss how to detect any ..."
+  ],
+  [
+    "YOLO object detection | Easy explanation of YOLO 9000 | real-time object detection algorithm",
+    "we are going to summarize the YOLO9000 research paper, a real-time object detection algorithm that is a faster, stronger and ..."
+  ],
+  [
+    "#13 ZSD: Synthesizing the Unseen for Zero-shot Object Detection",
+    "deeplearning #machinelearning #ml #research #ai #artificialintelligence #yannickilcher #ai Zero-shot learning involves training ..."
+  ],
+  [
+    "RICOH THETA DetectNet Object Detection on Jetson Nano",
+    "RICOH THETA connected to Jetson Nano with USB cable. Objects are detected in real-time using DetectNet, deep neural network ..."
+  ],
+  [
+    "Object Detection By Thresholding HSV Image Using Trackbars | OpenCV Tutorial in Python",
+    "Learn the fundamental concept of Object Detection. {{ LINK: https://youtu.be/ax7Be65IcoA }} Code available at- ..."
+  ],
+  [
+    "Frustratingly Simple Few-Shot Object Detection",
+    "Carlos ST 25.6.20."
+  ],
+  [
+    "[Deep learning cơ bản] Giới thiệu khoá học Object Detection",
+    "Deeplearningcơbản #ObjectDetection ➡️Source code https://github.com/huutrinh68/dl-pytorch ➡️Join Slack channel ..."
+  ],
+  [
+    "Teachable Machine Demo // Quick and &quot;Easy&quot; Object Detection For Everyone | www.demohub.dev",
+    "TechWithFru #FruInspire #DataArchitect #CareerAdvice ..."
+  ],
+  [
+    "YOLO | 2D Object Detection | Perception for Self Driving Cars",
+    "Using 2D Object Detection model YOLO to detect Cars, Trucks and Pedestrians around a Self Driving Car. Feel free to leave a ..."
+  ],
+  [
+    "OYO ROOMS OBJECT DETECTION using Python and Computer Vision (DAY-01)",
+    "Is it possible to use object detection in OYO rooms? Let's find out in our 7-Days Bootcamp. ✓Join our Campus Ambassador ..."
+  ],
+  [
+    "IEEE07  OBJECT DETECTION FOR AUTONOMOUS VEHICLES WITH SENSOR BASED TECHNOLOGY USING YOLO ALGORITHMS",
+    "Autonomous Vehicle (AV) is a promising technology, and one of the critical aspects of Autonomous Navigation is Object Detection ..."
+  ],
+  [
+    "CS671_Online Lecture-3 (PART-B): Object Detection: Region Proposals",
+    "The presentations and other course material can be found here: http://faculty.iitmandi.ac.in/~aditya/cs671/index.html slide credits: ..."
+  ],
+  [
+    "07 | Fast-RCNN Detector | Faster-RCNN | Object Detection | Part 3",
+    "FasterRCNN, #ObjectDetection, #Detector In this video I describe in detail the Fast-RCNN Detector which is one of the component ..."
+  ],
+  [
+    "Object Detection with SSD Using MATLAB | MATLAB Projects | Image Processing Projects Using MATLAB",
+    "Pedestrian and vehicle detection with Single Shot MultiBox Detector (SSD). Download project abstract ..."
+  ],
+  [
+    "Object detection along Singapore Park Connector Network using Mask R-CNN",
+    "Object detection along Singapore's Park Connector Network using Mask R-CNN. The software used is Facebook's Detectron ..."
+  ],
+  [
+    "3D Object Detection for Autonomous Vehicles Using Multimodal Temporal Data",
+    "PhD transfer talk from Venkatesh Gurram Munirathnam 22 June 2020 @ 2pm via Zoom."
+  ],
+  [
+    "Object Detection using Raspberry Pi and Opencv || Real Time Object Detection",
+    "Don't forget to Subscribe: https://www.youtube.com/channel/UCGYW... In this video tutorial, I have shown the demo of the ..."
+  ],
+  [
+    "Object Detection using python programming and Opencv.",
+    "Object Detection using python programming and opencv: 1. It detect yellow coloured object. 2. Masked the background except ..."
+  ],
+  [
+    "Abandoned Object Detection",
+    "This is to detect any suspicious object left abandoned. This is part of Video Analytics offered on Surveillance board by ..."
+  ],
+  [
+    "Custom Object Detection Setting Up the Environment Part 1 (English+Hindi)",
+    "This is First Video in Custom Object Detection Series. In this series, we discuss about how to setup environment for Linux and ..."
+  ],
+  [
+    "Deploying an Object Detection Model with Nvidia Triton Inference Server",
+    "This tutorial will show how to deploy Object Detection Model using NVIDIA Inference Server end to end in a few easy steps."
+  ],
+  [
+    "Object detection using YOLOv3, OpenCV and Python | Basics of object detection | Computer vision",
+    "A simple approach to detecting objects in the image using YOLOv3 with OpenCV. No need to install or train anything, just use ..."
+  ],
+  [
+    "Lecture 32 - Object Detection using Contours by webcam | OpenCV | Computer Vision | Hand Detection",
+    "Image Procession and Computer Vision with OpenCV python full tutorial in Hindi. In this video, we discuss how to detect any ..."
+  ],
+  [
+    "Object Detection &amp; Instance Segmentation using Mask R-CNN [ Testing ]",
+    "Python & Machine learning cheat sheet at just 50 INR Buy from here:- ..."
+  ],
+  [
+    "Garbage Detection using Advanced Object Detection Techniques #python #ieee #project #ieee2022 #2023",
+    "We are providing a Final year IEEE project solution & Implementation with in short time. If anyone need a Details Please Contact ..."
+  ],
+  [
+    "YOLOV5 Custom Object Detection-Mask Detection",
+    "Mask Detection using Yolo v5 Custom Object detection training your own machine learning project to perform face mask detection ..."
+  ],
+  [
+    "Faster RCNN NasNet COCO - Object detection #2",
+    "https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md Input 4K video: ..."
+  ],
+  [
+    "Object Detection YOLOv4 Predictor",
+    "Object Detection YOLOv4 Predictor."
+  ],
+  [
+    "PR-166: NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection",
+    "Title: NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection - Paper: https://arxiv.org/pdf/1904.07392.pdf ..."
+  ],
+  [
+    "Training Object Detection YOLOv4",
+    "Training Object Detection YOLOv4."
+  ],
+  [
+    "Color Object Detection Demo using Aforge",
+    "This is Color Object Detection Demo using Aforge... contact me Code Repo ..."
+  ],
+  [
+    "coimbatore deep learning tutorial tamil tensorflow custom object detection colab tamil data science",
+    "https://github.com/tensorflow/models https://github.com/protocolbuffers/protobuf/releases ..."
+  ],
+  [
+    "[Part I] Real Time Object Detection using NVIDIA Jetson Nano",
+    "Real Time Object Detection using NVIDIA Jetson Nano - I ⏰ Timestamps 00:00 Start 00:58 Hardware Components - Block ..."
+  ],
+  [
+    "Object detection with tiny-YOLO v3 using Jetson Nano and RealSense camera",
+    "This is a tutorial how to do object recognition with tiny-YOLO v3 using Jetson Nano and RealSense camera. Here are the project ..."
+  ],
+  [
+    "YOLO Algorithm of Object Detection | Beginners Level Tutorial in Urdu/Hindi | Python Implementation",
+    "In this video, you will get to know the practical implementation of YOLO algorithm following all the concepts discussed in the ..."
+  ],
+  [
+    "YOLOX Object detection Model Deployed on Cloud for building Visual Search Engine - What You&#39;ll Learn",
+    "Deep Learning Practice today has come a long way. Today it becomes inevitable apply Machine Learning without taking into ..."
+  ],
+  [
+    "Object Detection YOLO v3 with Fixes Easy Method OpenCv python 2021 | OpenCv Python | Techno Kidzo",
+    "Today we learn how to implement realtime CPU object detection in Python, using YOLO v3 and OpenCV. Dont Click On This Link: ..."
+  ],
+  [
+    "객체 탐지 Object Detection  - YOLO의 모든것 / 포트홀 탐지, 연기 탐지, 안전모 탐지, 주차공간 탐지",
+    "객체 탐지 (Object Detection) - YOLO의 모든것 YOLOv3, YOLOv5 모델을 이용해 직접 만들고 학습하기 포트홀 탐지, 연기 탐지, ..."
+  ],
+  [
+    "Terminator-like Object Detection using Python and CNN - PROJECT MAKING",
+    "We are cooking a new surprise for our CODING CHAMPS. DevTown is being upgraded to SOMETHING NEW, SOMETHING ..."
+  ],
+  [
+    "DIY | Human detect Automatic Door Bell circuit , Automatic doorbell circuit. #RC Invention",
+    "Purchase components used in this project from here : https://quartzcomponents.com?sca_ref=755728.OxtZFquprp Buy All Types ..."
+  ],
+  [
+    "【NTUCSIE Robotics】HW4 demo - stack up blocks by object detection",
+    "manipulator #objectdetection."
+  ],
+  [
+    "Object detection decreased to 150%  | The Entropy Centre | #Gaming #theentropycentre #Vtuber #Shorts",
+    "Welcome to the Entropy Centre, a first person puzzle game dealing with time in the vein of Portal. The Entropy gun speaks to you ..."
+  ],
+  [
+    "Detecting and Recognizing Objects In Natural Images",
+    "Google Tech Talks March 9, 2007 ABSTRACT This talk describes recent work of the UCLA Center for Image and Vision Science ..."
+  ],
+  [
+    "Realtime object detection python project #python #pythonprogramming #ai #opencv #shorts",
+    "Please Subscribe to the Channel for more interesting and Programming tutorials video❤️ 1 like =10❤ 1 share =100❤️ ..."
+  ],
+  [
+    "Elbow Pose Detector | Computer Vision with Arduino | CVZone",
+    "Computer Vision with Arduino Full Course coming soon with many more projects. Pre-Order today at 60% OFF: ..."
+  ],
+  [
+    "Football Players Tracking | YOLOv5 + ByteTRACK | Google Colab | step-by-step Tutorial",
+    "In this object tracking step-by-step tutorial, we show you how to combine power of YOLOv5 and ByteTRACK to track players on ..."
+  ],
+  [
+    "Suspicious Object Found In Delhi&#39;s Paschim Vihar; Bomb Detection Squad Present On Spot",
+    "Delhi Police has received information about a suspicious object found in Paschim Vihar. The bomb Detection Team is on the spot."
+  ],
+  [
+    "POZVÁNKA NA JARNÍ TOUR 2023 🎄",
+    ""
+  ],
+  [
+    "What Did The Aliens Detect? Mysterious Interstellar Visitor Is Escaping Our Solar System",
+    "What Did The Aliens Detect? Mysterious Interstellar Visitor Is Escaping Our Solar System. Where exactly is Oumuamua right now, ..."
+  ],
+  [
+    "Day 26 Object tracking based on color in OpenCV",
+    "Attendance link for day 26 - https://forms.gle/XBfJCh9B6Gmp4gYo8 APSSDC Certified 1 Month Internship on Artificial Intelligence ..."
+  ],
+  [
+    "Day - 24 Face and Eye detection in OpenCV.",
+    "APSSDC Certified 1 Month Internship on Artificial Intelligence Reg Fee : Rs.599 COUPON: WELCOMEAI Reg Link ..."
+  ],
+  [
+    "BIG MISTAKE: Snake Lay Eggs foreign object tracking and detection",
+    "foreign object tracking and detection."
+  ],
+  [
+    "Tesla Self Driving Simulator",
+    "How does Tesla's Full Self Driving Software work? In this video, we'll learn the entire pipeline by building a javascript demo in a ..."
+  ]
+]

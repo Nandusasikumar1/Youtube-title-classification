@@ -1,0 +1,2202 @@
+[
+  [
+    "GridSearchCV | Hyperparameter Tuning | Machine Learning with Scikit-Learn Python",
+    "In this Scikit-Learn learn tutorial I've talked about hyperparameter tuning with grid search. You'll be able to find the optimal set of ..."
+  ],
+  [
+    "GridSearchCV- Select the best hyperparameter for any Classification Model",
+    "Here is a detailed explanation of how to implement GridSearchCV and how to select the hyperparameter for any Classification ..."
+  ],
+  [
+    "Machine Learning Tutorial Python - 16: Hyper parameter Tuning (GridSearchCV)",
+    "In this python machine learning tutorial for beginners we will look into, 1) how to hyper tune machine learning model paramers 2) ..."
+  ],
+  [
+    "Hyperparameter Tuning in Python with GridSearchCV",
+    "Today we learn how to tune or optimize hyperparameters in Python using gird search and cross validation."
+  ],
+  [
+    "GridSearchCV vs RandomizedSeachCV|Difference between Grid GridSearchCV and RandomizedSeachCV",
+    "GridSearchCV vs RandomizedSeachCV|Difference between Grid GridSearchCV and RandomizedSeachCV ..."
+  ],
+  [
+    "Hyperparameter Tuning Random Forest using GridSearchCV and RandomizedSearchCV | Code Example",
+    "Code used: https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day65-random-forest About CampusX: ..."
+  ],
+  [
+    "8.3. Hyperparameter Tuning - GridSearchCV and RandomizedSearchCV",
+    "This video is about Hyperparameter Tuning. I also explained the two types of Hyperparameter Tuning such as, GridSearchCV and ..."
+  ],
+  [
+    "Using sklearn&#39;s GridSearchCV with Pipeline for Hyperparameter Tuning in Machine Learning",
+    "In this video, we discuss how to perform hyperparameter tuning for machine learning and deep learning problems in a simple and ..."
+  ],
+  [
+    "185 - Hyperparameter tuning using GridSearchCV",
+    "Code generated in the video can be downloaded from here: https://github.com/bnsreenu/python_for_microscopists."
+  ],
+  [
+    "Use cross_val_score and GridSearchCV on a Pipeline",
+    "You can cross-validate and grid search an entire pipeline! Preprocessing steps will automatically occur AFTER each ..."
+  ],
+  [
+    "Random Forest Hyperparameter Tuning using GridSearchCV | Machine Learning Tutorial",
+    "Getting 100% Train Accuracy when using sklearn Randon Forest model? You are most likely prey of overfitting! In this video, you ..."
+  ],
+  [
+    "Performing Hyper Parameter Tuning Using Pipeline In Sklearn- Machine Learning",
+    "github url :https://github.com/krishnaik06/Pipelines-Using-Sklearn Part1 video: https://youtu.be/w9IGkBfOoic Please join as a ..."
+  ],
+  [
+    "How to tune hyper parameters using Grid Search CV | With and without a Pipeline | Machine Learning",
+    "grisdearch #machine #learning #python In this tutorial, we'll look at Grid Search CV, a technique by which we can find the optimal ..."
+  ],
+  [
+    "Tune multiple models simultaneously with GridSearchCV",
+    "You can tune 2+ models using the same grid search! Here's how: 1. Create multiple parameter dictionaries 2. Specify the model ..."
+  ],
+  [
+    "Hyper-parameter Tuning using GridSearchCV | Decision Trees Part 8",
+    "In this video, we will use a popular technique called GridSeacrhCV to do Hyper-parameter tuning in Decision Tree About ..."
+  ],
+  [
+    "Display GridSearchCV or RandomizedSearchCV results in a DataFrame",
+    "Hyperparameter search results (from GridSearchCV or RandomizedSearchCV) can be converted into a pandas DataFrame."
+  ],
+  [
+    "Training SVM model in Python| Hyper-parameter Tuning|GridSearch CV |Support Vector Machines #3|",
+    "In this video i cover how to train an svm model in python using sklearn library on the popular sklearn wine dataset. Following ..."
+  ],
+  [
+    "Live-Discussing All Hyperparameter Tuning Techniques Data Science Machine Learning",
+    "github link: https://github.com/krishnaik06/All-Hyperparamter-Optimization Please donate if you want to support the channel ..."
+  ],
+  [
+    "Try RandomizedSearchCV if GridSearchCV is taking too long",
+    "GridSearchCV taking too long? Try RandomizedSearchCV with a small number of iterations. Make sure to specify a distribution ..."
+  ],
+  [
+    "Build Sklearn Grid Search CV with Random Forest Model",
+    "How to build grid search cv using a rando forest model. And discuss grid search vs random search cv."
+  ],
+  [
+    "Hyperparameter tuning for Xgboost using RandomsearchCV and GridSearchCV | jupyter notebook",
+    "Step by step explaination of hyperparameter tuning using for gradient boosting classifier with RandomsearchCV and ..."
+  ],
+  [
+    "Difference between Grid Search CV and Randomized Search CV - Class 19 - Urdu/Hindi",
+    "Hey Everyone! In todays video I am discussing the difference between Grid Search CV and Randomized Search CV through an ..."
+  ],
+  [
+    "Grid vs Random Search Hyperparameter Tuning using Python",
+    "In this video, I will focus on two methods for hyperparameter tuning - Grid v/s Random Search and determine which one is better."
+  ],
+  [
+    "Hyperparameter Optimization Using Grid Search CV Method in Jupyter Notebook",
+    ""
+  ],
+  [
+    "Grid Search  |  Tutorial 18 | Machine Learning in Hindi",
+    "Hello All, In this video, we will be understanding Grid Search in machine learning with example."
+  ],
+  [
+    "Grid Search CV | Hyperparameter Tuning | Getting Started with ML | Part 36",
+    "This is 36th tutorial in \"Getting Started with Machine Learning\" playlist. Learn Cross Validation Prerequisites ..."
+  ],
+  [
+    "Grid search CV in Tamil",
+    "Grid Search CV in Tamil."
+  ],
+  [
+    "8.4. GridSearchCV and RandomizedSearchCV - Python implementation | Hyperparameter Tuning",
+    "This video is about the python implementation of GridSearchCV and RandomizedSearchCV. These are the two important ..."
+  ],
+  [
+    "Speed up GridSearchCV using parallel processing",
+    "Want your grid search to run faster? Set n_jobs=-1 to use parallel processing with all CPUs! New tips every TUESDAY and ..."
+  ],
+  [
+    "Búsqueda exhaustiva de hiperparametros usando GridSearchCV",
+    "La función GridSearchCV realiza la búsqueda exhaustiva de la mejor combinación de hiperparámetros para un modelo de ..."
+  ],
+  [
+    "K Nearest Neighbors (KNN) hyperparameter tuning with gridsearch (no talking)",
+    "python file: https://github.com/oguzhankir/Hyperparameter_Tuning/tree/main/Knn_tuning."
+  ],
+  [
+    "Random Search CV vs Grid Search CV for Hyper-parameter Optimization in Machine Learning",
+    "Pros and Cons of Randomized search cv VS Grid search cv. Machine learning Random search for hyperparameter optimization ..."
+  ],
+  [
+    "34. Hyper Parameter Tuning with Grid Search CV Using Python",
+    "In this video, we will learn - 1) how to hyper tune machine learning model parameters 2) choose best model for given machine ..."
+  ],
+  [
+    "Auto Tuning Machine Algorithms with Grid Search CV sklearn #python #sklearn  #ML",
+    ""
+  ],
+  [
+    "186 - A note about parallelization during hyperparameter search using GridSearchCV",
+    "Code generated in the video can be downloaded from here: https://github.com/bnsreenu/python_for_microscopists."
+  ],
+  [
+    "Machine learning tutorial (2022) part 3 | Gridsearch CV",
+    "Hi all, this video is regarding the Grid search CV topic in machine learning in which we are able to select the best parameters ..."
+  ],
+  [
+    "sklearn Logistic Regression hyperparameter optimization",
+    "sklearn Logistic Regression has many hyperparameters we could tune to obtain. Some of the most important ones are penalty, C, ..."
+  ],
+  [
+    "Hyperparameter tuning using GridSearchCV Python",
+    "A simple approach to model hyperparameter tuning. This video demonstrates the use of scikit's GridSearchCV class for tuning ..."
+  ],
+  [
+    "187 - Hyperparameter tuning for learning rate and momentum",
+    "Code generated in the video can be downloaded from here: https://github.com/bnsreenu/python_for_microscopists."
+  ],
+  [
+    "How to find the best model parameters in scikit-learn",
+    "In this video, you'll learn how to efficiently search for the optimal tuning parameters (or \"hyperparameters\") for your machine ..."
+  ],
+  [
+    "what is Grid search CV",
+    "Grid Search CV purpose."
+  ],
+  [
+    "Hyperparameter Optimization for Xgboost",
+    "In machine learning, hyperparameter optimization or tuning is the problem of choosing a set of optimal hyperparameters for a ..."
+  ],
+  [
+    "SVM and Parameter Optimization with GridSearchCV",
+    "Note that data in the Cancer Research file has similarly scaled attributes due to the measurement systems. Hence, I did not run a ..."
+  ],
+  [
+    "Grid search CV - Hyper parameter tuning",
+    "find the optimum combination of the parameters."
+  ],
+  [
+    "Tutorial 54: Grid Search in python | Grid Search with K Fold CV | Parameter VS Hyperparameter",
+    "For Code, Slides and Notes https://fahadhussaincs.blogspot.com/ Do Subscribe, likes and Shares to others... Hi, Well come to ..."
+  ],
+  [
+    "Hyperparameter optimization of KNN algorithm in python | jupyter notebook",
+    "Hyperparameter optimization ok KNN machine learning algorithm for obtaining best value of K using two different methods in ..."
+  ],
+  [
+    "11.5 Nested CV for Algorithm Selection (L11 Model Eval. Part 4)",
+    "This video introduces the main concept behind nested cross-validation for algorithm selection. More details in my article \"Model ..."
+  ],
+  [
+    "HYPER-PARAMETER TUNING| GRIDSEARCHCV|SVM",
+    "In this video I have explained the concepts of Hyperparameter Tuning of an SVM model( Model on Prediction of Corona using ..."
+  ],
+  [
+    "Como usar GridSearchCV com Pipeline?",
+    "Sempre é possível se usar um Pipeline dentro de um GridSearchCV: GridSearchCV(Pipeline). Entretanto, dependendo do ..."
+  ],
+  [
+    "Keras Tuner| Hyperparameter Tuning for Neural Networks in Minutes|",
+    "Keras Tuner allows you to automate hyper parameter tuning for your networks. It allows you to select the number of hidden layers, ..."
+  ],
+  [
+    "Hyperparameter Tuning | Optuna | HyperOpt | GridSearchCV | RandomSearchCV | Amar Mandal",
+    "In this video, we will Hyperparameter tune the model in order to increase the accuracy and find the most stable model. Notebook ..."
+  ],
+  [
+    "Neural network tuning in Python|Hyper parameter tuning of neural network in python",
+    "Neural network tuning in Python|Hyper parameter tuning of neural network in python #NeuralNetworkTuningPython ..."
+  ],
+  [
+    "189 - Hyperparameter tuning for dropout, # neurons, batch size, # epochs, and weight constraint",
+    "Code generated in the video can be downloaded from here: https://github.com/bnsreenu/python_for_microscopists."
+  ],
+  [
+    "2-12 | Tuning dan Cross Validation menggunakan GridSearchCV",
+    "Seri belajar Machine Learning menggunakan Python Dibuat untuk pemula dengan bahasa Indonesia Course 1: ..."
+  ],
+  [
+    "PYTHON SKLEARN -  MODEL SELECTION : Train_test_split, Cross Validation, GridSearchCV (21/30)",
+    "Ce tutoriel python français vous présente SKLEARN, le meilleur package pour faire du machine learning avec Python."
+  ],
+  [
+    "Model grid search CV in scikit learn (Part-1/2)",
+    "datascience #pythonkachilla #python #machinelearning #datascience #pythonkachilla #python #dataanalytics ..."
+  ],
+  [
+    "Linear Regression ,GridSearchCV with Ridge regression implementation",
+    "GRIP Internship task @the Spark Foundation github link ..."
+  ],
+  [
+    "187 - Hyperparameter tuning for learning rate and momentum",
+    "Code generated in the video can be downloaded from here: https://github.com/bnsreenu/python_for_microscopists."
+  ],
+  [
+    "Tutorial: Cómo usar GridSearch con Cross Validation",
+    "GridSearch es excelente para ayudar a seleccionar los mejores hiper-parámetros de un modelo. ¿Pero si lo que queremos es ..."
+  ],
+  [
+    "Pipeline and Grid Search in sklearn",
+    "We'll use pipeline to simplify the usage of our model and also use grid search to find best model parameters."
+  ],
+  [
+    "Chapter 54 | Hyperparameter tuning using Grid Search CV | Siolabs ML &amp; AI Course Hindi",
+    "How to do hyperparameter tuning using Grid Search CV in sklearn. We also discuss how value of C will do underfitting and ..."
+  ],
+  [
+    "how to do a gridsearch with sklearn gridsearchcv randomforest metrics",
+    "use sklearn to complete a gridsearch gridsearchcv to find the best hyperparameter with any sklearn model. we use a randomforest ..."
+  ],
+  [
+    "Model grid search CV in scikit learn (Part-2/2)",
+    "datascience #pythonkachilla #python #machinelearning #datascience #pythonkachilla #python #dataanalytics ..."
+  ],
+  [
+    "gridsearchcv tutorial in Telugu | hyperparameter tuning in logistic regression Telugu",
+    "Hey guys, Jp Here! Learn the industry most wanted skillset for free. Don't worry i will teach you in Telugu. gridsearchcv tutorial in ..."
+  ],
+  [
+    "AdaBoost Hyperparameters | GridSearchCV in Adaboost",
+    "Code used - https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day66-adaboost About CampusX: ..."
+  ],
+  [
+    "شرح عربيGrid SearchCV and Randomized SearchCV",
+    "Nootbook https://github.com/justmarkham/scikit-learn-videos/blob/master/08_grid_search.ipynb ..."
+  ],
+  [
+    "Important tuning parameters for LogisticRegression",
+    "Some important tuning parameters for LogisticRegression: C: inverse of regularization strength penalty: type of regularization ..."
+  ],
+  [
+    "Data Science [Machine Learning Python] : GridSearchCV dan RandomizedSearchCV",
+    "Series Video Bootcamp Data Science."
+  ],
+  [
+    "24|ML Jan&amp;Mar|Grid search CV,K means|12-7-22| Prejisha",
+    "Luminar Technolab - ISO 9001:2015 Certified Institution - Software Training Institute. Providing advanced level Gen 4.0 software ..."
+  ],
+  [
+    "Tutorial Hyperparameter Tuning menggunakan Gridsearch",
+    "Tutorial Hyperparameter Tuning menggunakan Gridsearch Supaya kami terus semangat dan membuat konten edukasi yang baik, ..."
+  ],
+  [
+    "Hyperparameter tuning of SVM using GridSearchCV in python | jupyter notebook",
+    "Step by step explaination of applying hyperparameter tuning using grid search CV using support vector machines classifier in ..."
+  ],
+  [
+    "How to Implement Grid Search &amp; Stratified Cross-Validation with Python | Hyperparameter Tuning",
+    "This series is about Hyperparameter Tuning in Machine Learning. This video is a quick manual implementation of Grid Search ..."
+  ],
+  [
+    "IML18: Tuning a neural net in Jupyter using GridSearchCV and RandomizedSearchCV",
+    "After a few videos discussing intuitive and theoretical aspects of tuning machine learning models using randomized or grid search ..."
+  ],
+  [
+    "Hyperparameter Tuning Using Machine Learning Pipelines",
+    "github: https://github.com/krishnaik06/Pipeline-MAchine-Learning In this video we are going to see we can perform ..."
+  ],
+  [
+    "Random Forest Hyperparameter Tuning using RandomisedSearchCv | Machine Learning Tutorial",
+    "Getting 100% Train Accuracy when using sklearn Randon Forest model? We will be using RandomisedSearchCv for tuning the ..."
+  ],
+  [
+    "Hyperparameter Tuning in Machine Learning | Grid Search | How it Works and Sklearn Implementation",
+    "This series is going to focus on one important aspect of ML, hyperparameter tuning. In this video we are going to talk about grid ..."
+  ],
+  [
+    "Hyper-parameter tuning for Decision Trees using Grid Search Cross validation",
+    "In this video, we will try to understand Hyper-parameter tuning for Decision Trees using Grid Search Cross-validation. Thanks ..."
+  ],
+  [
+    "20-GridSearchCV from Scratch without using Sckit-Learn | Machine Learning | Python | Data Science",
+    "Also Checkout my 2nd Channel ( on Trading, Crypto & Investments ) ..."
+  ],
+  [
+    "Analysis of DNA Sequence Classification using SVM and Hyperparamters Grid Search CV",
+    "Analysis of DNA Sequence Classification using SVM and Hyperparamters Grid Search CV - IEEE CYBERNETICSCOM 2022."
+  ],
+  [
+    "Machine Learning. Building Multiple Models with Different Parameter Values. GridSearchCv.",
+    "When we are building a model, we need to set certain parameeter values which cna influence the model's performance."
+  ],
+  [
+    "Grid Search | Machine Learning with Python | Hyperparameter Tuning | GridSearchCV | Machine Learning",
+    "Grid Search grid search cv grid search in machine learning grid search cross validation grid search vs random search grid search ..."
+  ],
+  [
+    "Optimize CatBoost using GridSearchCV for Regression",
+    "To view more free Data Science code recipes, visit us at: https://bit.ly/32P6SuG Categorical Boosting, also known as CatBoost, is a ..."
+  ],
+  [
+    "Dask learn gridsearch",
+    "Dask and Scikit-learn for model parallelism Dask-learn: https://github.com/dask/dask-learn Notebook: ..."
+  ],
+  [
+    "Sklearn Random Search CV Example using Random Forest Model",
+    "How to build random search cv from scratch using python and Sklearn. Discuss random search vs grid search cv."
+  ],
+  [
+    "Cross Validation | Hyperparameter Tuning | Cross Validation | GridSearchCV and RandomizeSearchCV",
+    ""
+  ],
+  [
+    "Predict the tips (Kaggle Dataset) using Scikit learn (GridsearchCV, Lasso and Random Forest)",
+    "In this video, we investigate the tips dataset and develop a machine learning regression model to predict the amount of tips that ..."
+  ],
+  [
+    "09 - MLPClassifier Grid Search, course Neural Networks for AAL",
+    ""
+  ],
+  [
+    "Chapter 3.3 | Hyperparameter Tuning | GridSearchCV Vs Random Search   | Machine Learning in Hindi |",
+    "Follow me on LinkedIn - https://www.linkedin.com/in/rahul-dogra-854244213/ Download Full Curriculum of Machine Learning and ..."
+  ],
+  [
+    "Turing hyperparameters using  gridsearchCV (scikit Learn) Tutorial Support vector Machine (SVM)",
+    "Learning and teaching is always fun. I started learning about machine learning, trying to explain how to tune different parameters ..."
+  ],
+  [
+    "RandomizedSearchCV- Select the best hyperparameter for any Classification Model",
+    "Here we are going to have a detailed explanation of RandomizedSearchCV and how we can use it to select the best ..."
+  ],
+  [
+    "GridSearchCV - Tune Hyperparameters in Classification on MNIST Dataset – Python | Part 02",
+    "pythonprogramming #LearnProgramming #DeepLearning In this video, you will learn how we can use GridSeachCV function to ..."
+  ],
+  [
+    "Decision Tree Hyperparameter Tuning | Grid Search | Cross Validation | Decision Tree| Classification",
+    "Hyperparameter tuning decision tree hyperparameter tuning decision tree pyspark hyper-parameter tuning of a decision tree ..."
+  ],
+  [
+    "21-RandomizedSearchCV From Scratch without scikit-learn | Machine Learning | Python | Data Science",
+    "Also Checkout my 2nd Channel ( on Trading, Crypto & Investments ) ..."
+  ],
+  [
+    "SVM Hyperparameter Tuning using GridSearchCV",
+    ""
+  ],
+  [
+    "Random Forest, Grid Search and Cross Validation",
+    "Random Forest, Grid Search and Cross Validation."
+  ],
+  [
+    "Logistic Regression Hyperparameters || Logistic Regression Part 8",
+    "Code used : https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day60-logistic-regression-contd Links: ..."
+  ],
+  [
+    "Grid Search | Analyzing Data with Python",
+    "Module 5 - Model Evaluation Video: Grid Search."
+  ],
+  [
+    "XGBOOST in Python (Hyper parameter tuning)",
+    "Trainer: Mr. Ashok Veda - https://in.linkedin.com/in/ashokveda XGBoost is one of algorithms that has recently been dominating ..."
+  ],
+  [
+    "Hyperparameters Optimization Strategies: GridSearch, Bayesian, &amp; Random Search (Beginner Friendly!)",
+    "In this video, we will cover key hyperparameters optimization strategies such as: Grid search, Bayesian, and Random Search."
+  ],
+  [
+    "Python Implementation of Support Vector Machines, GridSearchCV",
+    "Python Implementation of Support Vector Machines, GridSearchCV."
+  ],
+  [
+    "Random Forest, Grid Search and Cross Validation",
+    "Random Forest, Grid Search and Cross Validation."
+  ],
+  [
+    "Grid Search | Analyzing Data with Python",
+    "Module 5 - Model Evaluation Video: Grid Search."
+  ],
+  [
+    "XGBOOST in Python (Hyper parameter tuning)",
+    "Trainer: Mr. Ashok Veda - https://in.linkedin.com/in/ashokveda XGBoost is one of algorithms that has recently been dominating ..."
+  ],
+  [
+    "Hyperparameters Optimization Strategies: GridSearch, Bayesian, &amp; Random Search (Beginner Friendly!)",
+    "In this video, we will cover key hyperparameters optimization strategies such as: Grid search, Bayesian, and Random Search."
+  ],
+  [
+    "Python Implementation of Support Vector Machines, GridSearchCV",
+    "Python Implementation of Support Vector Machines, GridSearchCV."
+  ],
+  [
+    "Hyperparameters C &amp; Gamma in Support Vector Machine (SVM)",
+    "In this video, I'll try to explain the hyperparameters C & Gamma in Support Vector Machine (SVM) in the simplest possible way."
+  ],
+  [
+    "SciKit-Learn | Selecting dimensionality reduction with Pipeline and GridSearchCV",
+    "This example constructs a pipeline that does dimensionality reduction followed by prediction with a support vector classifier."
+  ],
+  [
+    "Hyperparameter Optimisation with GridSearchCV",
+    ""
+  ],
+  [
+    "#126: Scikit-learn 120: Model Selection 8: Tuning hyperparameters of an estimator",
+    "The video is an overview of options to tune hyperparameters in Scikit-learn in Python. Timeline (Python 3.8) 00:00 - Outline of ..."
+  ],
+  [
+    "Sergey Feldman: You Should Probably Be Doing Nested Cross-Validation | PyData Miami 2019",
+    "It is common to perform model selection while also attempting to estimate accuracy on a held-out set. The traditional solution is to ..."
+  ],
+  [
+    "Optimize CatBoost using GridSearchCV for Classification",
+    "To view more free Data Science code recipes, visit us at: https://bit.ly/34hTqQd Categorical Boosting, also known as CatBoost, is a ..."
+  ],
+  [
+    "Tuning Hyperparameters Using Grid Search and Random Search with DVC",
+    "Milecia McGregor shows us how to do a hyperparameter grid search and random search with DVC. *Blog article* for this video: ..."
+  ],
+  [
+    "Deep Learning Hyperparameter Tuning in Python, TensorFlow &amp; Keras",
+    "Looking to Become a Data Scientist FASTER?? SUBSCRIBE with NOTIFICATIONS ON ! Colab Notebook: ..."
+  ],
+  [
+    "Python GridSearchCV İle En İyi Parametreyi Bulma - MAKİNE ÖĞRENMESİ DERSLERİ",
+    "Bir önceki videomuz da algoritmamızın önemli parametrelerinde herhangi bir değişiklik yapmadan kullanmıştık. Bu videomuz da ..."
+  ],
+  [
+    "Using GridSearchCV improve the adaboost model by hypertuning the parameters",
+    "machinelearning #GridSeachCV #bestparameters #parameters #evaluation #ml #datascience #adaboost #neuralnetwork ..."
+  ],
+  [
+    "J - 40 -GridSearch Tool- اداة البحث الجدولي",
+    "الملفات https://github.com/HeshamAsem/Sklearn/tree/master/3.2_Grid_Search هذه المحاضرة هي جزء من سلسلة محاضرات علم تعليم الآلة ..."
+  ],
+  [
+    "LightGBM in Python | Grid Search CV | Mushroom Dataset | Data Science for Beginners | Applied ML",
+    "datascience #machinelearning #dataanalyst Coding is our strength. Download End-to-End Coding script in Python and R for ..."
+  ],
+  [
+    "Hyper-parameters tuning for SVM model | C, gamma, epsilon, kernel, GridsearchCV, RandomizedSearchCV",
+    "Please subscribe to my channel: https://www.youtube.com/channel/UC2tWXxCZDTKG50MIkFw3Wtg?sub_confirmation=1 ..."
+  ],
+  [
+    "Tutorial 18: Hyperparameter tuning in Hindi/Urdu | Parameter Vs Hyperparameter | GridSearchCV in DL",
+    "For Code, Slides and Notes https://fahadhussaincs.blogspot.com/ Artificial Intelligence, Machine Learning and Deep learning are ..."
+  ],
+  [
+    "Hyper Parameter Tuning for Random Forest in Python | Tutorial (Part 2/3)",
+    "How to tune hyperparameters of a Random Forest Model in Python using Scikit Learn. The tutorial will provide a step-by-step ..."
+  ],
+  [
+    "Hyperparameter Tuning of Machine Learning Model in Python",
+    "In this video, I will be showing you how to tune the hyperparameters of machine learning model in Python using the scikit-learn ..."
+  ],
+  [
+    "204 Grid Search in Python step 1",
+    "مترو القادة: أكبر موسوعة عربية في العالم العربي لإعداد القادة العلماء الأثرياء www.leadersmetro.com مترو القادة."
+  ],
+  [
+    "Space Science with Python - AI 1-6: SVM Grid Search",
+    "GitHub Link of today's session: ..."
+  ],
+  [
+    "Logistic Regression model with Pipeline &amp; GridSearch implementation for classifying fake Banknotes.",
+    "Hi Viewer's check out this project, hope it help's you in learning through your ML journey Github Link ..."
+  ],
+  [
+    "Section 30 (Part 2): Ensemble Methods - Boosting + GridSearchCV",
+    ""
+  ],
+  [
+    "Live Day 3- Discussing KNN And Naive Baye&#39;s Machine Learning Algorithms",
+    "Join the community session https://ineuron.ai/course/Mega-Community . Here All the materials will be uploaded. Playlist: ..."
+  ],
+  [
+    "Random Forest Parameter Optimization using all features | [Kaggle] Titanic Solution using Python #20",
+    "Yet another video on Titanic Solution. This time we use Random forest with all the features we created from the feature ..."
+  ],
+  [
+    "How to optimise hyper parameters of a Logistic Regression Model using GridSearchCV in Python",
+    "How to optimise hyper-parameters of a Logistic Regression Model using GridSearchCV in Python Download Link: ..."
+  ],
+  [
+    "Python Machine Learning with Scikit Learn - Regression || Python Machine Learning PT.3",
+    "The modelling phase of the data science lifecycle is without a doubt the most fun part, it's where you get to select a bunch of ..."
+  ],
+  [
+    "Hyperparameters - Introduction &amp; Search",
+    "We cover: 1. What are Hyperparameters and their difference from model parameters. 2. Why Hyperparameter tuning is important ..."
+  ],
+  [
+    "Optimize the hyperparameters of a decision tree model using Grid Search in Python",
+    "To view more free Data Science code recipes, visit us at: https://bit.ly/3o6urGA When you evaluate your model's performance, ..."
+  ],
+  [
+    "Maitriser Machine Learning :sklearn.model_selection, train_test_split, cross_val_score, GridSearchCV",
+    "dans 9:40 c'est y_test à la place de t_test le lien pour le fichier ..."
+  ],
+  [
+    "How to find optimal parameters using GridSearchCV in Python",
+    "How to find optimal parameters using GridSearchCV in Python Download Link: ..."
+  ],
+  [
+    "11.6 Nested CV for Algorithm Selection Code Example (L11 Model Eval. Part 4)",
+    "Picking up where the previous video left off, this video goes over nested cross-validation by looking at a scikit-learn code example."
+  ],
+  [
+    "AI Class: Grid Search, Model Evaluation",
+    ""
+  ],
+  [
+    "Machine Learning | Nested Cross Validation",
+    "Nested cross-validation (CV) is often used to train a model in which hyperparameters also need to be optimized."
+  ],
+  [
+    "Random Forest Hyper  Parameter Tunning by GridSearchCV Machine Learning Model Testing",
+    ""
+  ],
+  [
+    "Day-20 21DaysOfML | Cross Validation and Grid Search | Code Warriors",
+    "Watch out!! Day 20 of the 21 days of ML is live! Eliezer Yudkowsky, American AI researcher and writer, has put into words, ..."
+  ],
+  [
+    "GridSearchCV Nedir? Ne işe Yarar? Nasıl Kullanılır? UYGULAMALI",
+    "Bu videoda, geçen ki videoda en yüksek predict değerini veren regresyonun predict değerini daha da yukarılara çekmek için ..."
+  ],
+  [
+    "How to tune hyper parameters using GridSearchCV in Python",
+    "How to tune hyper-parameters using GridSearchCV in Python Download Link: ..."
+  ],
+  [
+    "ODSC WEST 2015 | Katie Malone - &quot;Workflows in Python: Pipeline &amp; GridSearchCV&quot;",
+    "Abstract: This workshop will motivate and demonstrate pipelines and grid search cross-validation in sklearn as tools for building a ..."
+  ],
+  [
+    "K-foldCrossValidation و Grid Search CV پیاده سازی",
+    "در این ویدئو، اعتبار سنجی متقابل و گرید سرچ را با زبان برنامه نویسی پایتون پیاده سازی می کنیم Youtube Channel URL: ..."
+  ],
+  [
+    "Hyperparameter Tuning in Sklearn (Scikit-learn)",
+    "In this video, we compare GridSearchCV with RandomizedSearchCV in sklearn, and go over the steps to do hyperparameter ..."
+  ],
+  [
+    "How to optimise multiple parameters in XGBoost using GridSearchCV in Python",
+    "How to optimise multiple parameters in XGBoost using GridSearchCV in Python Download Link: ..."
+  ],
+  [
+    "How to find optimal parameters using GridSearchCV in Regression in Python",
+    "How to find optimal parameters using GridSearchCV in Regression in Python Download Link: ..."
+  ],
+  [
+    "Twitter Sentiment Analysis - how I increased my accuracy by 2% with GridSearchCV",
+    "Donations by PayPal - misstracy71@hotmail.com."
+  ],
+  [
+    "Hyperparameter Tuning using Gridsearch - Coursera Advanced Machine Learning",
+    "https://www.coursera.org/launch/advanced-applied-data-science-ibm."
+  ],
+  [
+    "Hyperparameter tuning for Ensemble of ML models (Simple Python Example)",
+    "If you have created an ensemble of ML models in scikit-learn, and you want to improve its performance even further, you can tune ..."
+  ],
+  [
+    "Machine Learning - M15",
+    "1. Decision Tree for Classification 1. Idea & Process 2. First feature selection a. Entropy b. Information Gain 3. Threshold selection ..."
+  ],
+  [
+    "10.5 K-fold CV for Model Selection (L10: Model Evaluation 3)",
+    "After talking about k-fold cross-validation for model *evaluation* in the last two videos, we are now going to talk about k-fold ..."
+  ],
+  [
+    "How to optimise multiple parameters in XGBoost using GridSearchCV in Python",
+    "How to optimise multiple parameters in XGBoost using GridSearchCV in Python Download Link: ..."
+  ],
+  [
+    "Hypertune the parameters of catboost classifier using GridsearchCV and trained on pulsar star data.",
+    "machinelearning #GridSeachCV #bestparameters #parameters #evaluation #ml #datascience #naivebayes #nestimators ..."
+  ],
+  [
+    "Machine Learning | Nested Cross Validation",
+    "Nested cross-validation (CV) is often used to train a model in which hyperparameters also need to be optimized."
+  ],
+  [
+    "Day-20 21DaysOfML | Cross Validation and Grid Search | Code Warriors",
+    "Watch out!! Day 20 of the 21 days of ML is live! Eliezer Yudkowsky, American AI researcher and writer, has put into words, ..."
+  ],
+  [
+    "What is Cross Validation and How to implement it in python",
+    "In this data science tutorial video we'll look at what is cross validation in machine learning and how to implement it in python."
+  ],
+  [
+    "Лекция 7. Деревья решений.  Подбор параметров с помощью процедуры GridSearchCV",
+    "Лекция №7 в курсе \"Анализ данных на Python в примерах и задачах\" (весна 2021). Деревья решений. Деревья ..."
+  ],
+  [
+    "Machine Learning Tutorial : SVM Classification Hyperparameter Optimization",
+    "SVM #SVC #machinelearning SVM Classification Hyperparameter optimisation is easy to perform as it has 3 most important ..."
+  ],
+  [
+    "65 05 Hyperparameter Tuning Random Forest using GridSearchCV and RandomizedSearchCV   Code Example10",
+    ""
+  ],
+  [
+    "Scikit Learn Tutorial 5  - Hyperparameter Tuning | How to tune Hyperparameters with scikit-learn",
+    "Welcome to this video tutorial on Scikit-Learn. this video explains How We use the MinMaxScaler and linear Logistic Regression ..."
+  ],
+  [
+    "Regresion XGBoost Ajuste de hiperparametros GridSearchCV | Análisis de datos Aprendizaje supervisado",
+    "Como el ajuste de hiperparametros o hyperparameter tunning mejora el desempeño de nuestros modelos? Quieres aprender las ..."
+  ],
+  [
+    "Hyperparameter Tuning and Cross Validation to Decision Tree classifier (Machine learning by Python)",
+    "In machine learning, hyperparameter optimization or tuning is the problem of choosing a set of optimal hyperparameters for a ..."
+  ],
+  [
+    "Hyperparameter Tuning &amp; Cross Validation using Scikit Learn",
+    "Hyperparameters are the magic numbers of machine learning. We're going to learn how to find them in a more intelligent way ..."
+  ],
+  [
+    "#50 - Practical - Grid Search | What is Grid Search | Free Machine Learning Course | Coding Classes",
+    "At Skillari, We believe that Learning is not Limited to Only Certificates this is the reason why we have released all of the courses ..."
+  ],
+  [
+    "What is Hyperparameter Tuning ? #hyperparameter",
+    ""
+  ],
+  [
+    "Hands on Machine Learning with sklearn (Cross Validation-Learning Curves-Grid Search) Lotfi Ncib 2/2",
+    ""
+  ],
+  [
+    "How I used GridSearchCV to solve an automobile problem - blog post",
+    "Link to medium blog post:- ..."
+  ],
+  [
+    "千锋Python教程：116 GridSearchCV",
+    "数据分析和人工智能教程全套【2019千锋Python】（源码+笔记+资料） 播放 ..."
+  ],
+  [
+    "Hyper Parameter Tuning in Machine Learning Hindi | GridSearchCV | RandomizedSearchCV | Ranjan Das |",
+    "In this video you will learn about hyperparameter tuning in machine learning. You will learn about GridSearchCV and ..."
+  ],
+  [
+    "Day 4 of 100 days of ML/DL Code: I implement GridSearchCV",
+    "Thank you for watching! Let me know what you thought of the video in the comments down below. Links: Github repo (updated ..."
+  ],
+  [
+    "What is Cross Validation and its types?",
+    "In this video we will be discussing about what is cross validation and what are its different types 1. Leave P out cross validation 2."
+  ],
+  [
+    "Support Vector Machine hyper parameter tuning with gridsearch",
+    "python file: https://github.com/oguzhankir/Hyperparameter_Tuning/tree/main/svm_tuning."
+  ],
+  [
+    "12.15  Randomized Search CV",
+    "This is the Section 12 which is going to describe Project 2 - Supervised Learning (Time Series Data - Regression) in details."
+  ],
+  [
+    "K-foldCrossValidation و Grid Search CV پیاده سازی",
+    "در این ویدئو، اعتبار سنجی متقابل و گرید سرچ را با زبان برنامه نویسی پایتون پیاده سازی می کنیم Youtube Channel URL: ..."
+  ],
+  [
+    "[4] Hyper Parameter Tuning: Mengoptimasi Parameter Algoritma KNN dengan GridSearchCV",
+    "Pada video ini saya ingin berbagi sedikit pengalaman saya tentang bagaimana melakukan optimasi parameter algoritma ..."
+  ],
+  [
+    "HPO",
+    ""
+  ],
+  [
+    "Data Science Coding | SKLEARN XGBoost Classifier with Grid Search Cross Validation | WACAMLDS",
+    "predictiveanalytics #codingbootcamp #learntocode #Python #datascience #machinelearning #crossvalidation #gridsearch ..."
+  ],
+  [
+    "5.6 Scikit-learn Pipelines (L05: Machine Learning with Scikit-Learn)",
+    "I aleady mentioned that scikit-learn is a well-designed Python library, right?! In this video, I will show you another reason why ..."
+  ],
+  [
+    "10.5 K-fold CV for Model Selection (L10: Model Evaluation 3)",
+    "After talking about k-fold cross-validation for model *evaluation* in the last two videos, we are now going to talk about k-fold ..."
+  ],
+  [
+    "5 1 Decision Tree max depth grid search review",
+    "Colab Notebook: https://colab.research.google.com/drive/1YJR0ZG6JWgLtgpBFLjFsSm-Gt6dzoY6e?usp=sharing Independent ..."
+  ],
+  [
+    "MACHINE LEARNING WITH DECISION TREE &amp; NEURAL NETWORK MODEL AND HYPER PARAMETER TUNING(GridSearchCV)",
+    "Machine learning tutorial using Decision Tree & neural network model."
+  ],
+  [
+    "190 - Finding the best model between Random Forest &amp; SVM via hyperparameter tuning",
+    "Code generated in the video can be downloaded from here: https://github.com/bnsreenu/python_for_microscopists."
+  ],
+  [
+    "The SVM Model With Python and Scikit-Learn",
+    "In this video, we will show you how to use Python's Scikit-Learn package to implement the Support Vector Machines (SVM) ..."
+  ],
+  [
+    "머신러닝 2019/07/31 GridSearchCV from DataSchool",
+    "code: ..."
+  ],
+  [
+    "K-Means Implementation and Parameter Tuning",
+    "Implementing of the K Means algorithm in Python including an explanation of the elbow method for choosing the number of ..."
+  ],
+  [
+    "RandomizedSearchCV for hyperparameter tuning",
+    "RandomizedSearchCV draws a limited number of random samples from a predefined distribution of hyperparameters and ..."
+  ],
+  [
+    "IML17:  Grid vs random search for hyperparameter tuning?",
+    "In this video I review the benefits of random search over grid search when tuning the hyperparameters of a machine learning ..."
+  ],
+  [
+    "Michi T - Train (LightGBM X Cardi B parody) [MUSIC VIDEO]",
+    "A tribute to Cardi B's \"Ring (ft. Kehlani)\" about machine learning. Lyrics: Train train train train My GBM ain't light no more Oh ohhhh ..."
+  ],
+  [
+    "IP1 [11] - GridSearchCV (2/2)",
+    ""
+  ],
+  [
+    "How to find optimal parameters for CatBoost using GridSearchCV for Regression in Python",
+    "How to find optimal parameters for CatBoost using GridSearchCV for Regression in Python Download Link: ..."
+  ],
+  [
+    "SVM advance ML",
+    ""
+  ],
+  [
+    "Tune the parameters of a VotingClassifer or VotingRegressor",
+    "Want to improve the accuracy of your VotingClassifier? Try tuning the 'voting' and 'weights' parameters to change how predictions ..."
+  ],
+  [
+    "Support Vector Machine (SVM) Hyperparameter Tuning In Python | Machine Learning",
+    "Support Vector Machine (SVM) is a supervised machine learning model for classifications and regressions. Since SVM is ..."
+  ],
+  [
+    "66 04 AdaBoost Hyperparameters   GridSearchCV in Adaboost1080P HD",
+    ""
+  ],
+  [
+    "Demonstration: SVC on MNIST dataset",
+    "SVC with pipeline, classification report, SVC with RBF kernel, GridSearch for gamma and C."
+  ],
+  [
+    "How to find optimal parameters for CatBoost using GridSearchCV for Classification in Python",
+    "How to find optimal parameters for CatBoost using GridSearchCV for Classification in Python Download Link: ..."
+  ],
+  [
+    "(Code) K-Fold, Stratified, Leave One Out, Repeated K-Fold Cross Validation Python | Machine Learning",
+    "cross #validation #techniques In this tutorial, we're going to implement various types of Cross Validation techniques in Python."
+  ],
+  [
+    "Ridge Regression | Machine Learning | Python",
+    "In this video, you will learn about Ridge Regression in Python Other important playlists TensorFlow ..."
+  ],
+  [
+    "Example: Grid Search",
+    "Searching through a grid of possible hyper-parameters."
+  ],
+  [
+    "Data Science &amp; Machine Learning Project - Part 5 Training a Model | Image Classification",
+    "Once we have X and y after applying feature engineering techniques, we can now create simple SVM model to get a feel of how it ..."
+  ],
+  [
+    "Get stuck in to gridsearchcv to predict on the survivors of the Titanic  - blog post",
+    "Link to medium blog post:- ..."
+  ],
+  [
+    "imp",
+    ""
+  ],
+  [
+    "Train Xgboost Classifier and Finetune hyperparameters - Tips &amp; shortcuts. LIVE CODING.",
+    "This is a beginners short tutorial for Xgboost Classifier. We will cover: - Quick data explioration - Crossvalidation - Scikit-learn ..."
+  ],
+  [
+    "Hyperparameter Tuning and Cross Validation to Decision Tree classifier (Machine learning by Python)",
+    "In machine learning, hyperparameter optimization or tuning is the problem of choosing a set of optimal hyperparameters for a ..."
+  ],
+  [
+    "[Kaggle] Titanic Problem using Excel #16 : Decision Trees with SelectKBest to select best Features",
+    "In the previous video, we have used Decision Trees with all the features. In this video, we explore SelectKBest form the ..."
+  ],
+  [
+    "[4] Hyper Parameter Tuning: Mengoptimasi Parameter Algoritma KNN dengan GridSearchCV",
+    "Pada video ini saya ingin berbagi sedikit pengalaman saya tentang bagaimana melakukan optimasi parameter algoritma ..."
+  ],
+  [
+    "머신러닝 2019/07/31 GridSearchCV from DataSchool",
+    "code: ..."
+  ],
+  [
+    "Regresion XGBoost Ajuste de hiperparametros GridSearchCV | Análisis de datos Aprendizaje supervisado",
+    "Como el ajuste de hiperparametros o hyperparameter tunning mejora el desempeño de nuestros modelos? Quieres aprender las ..."
+  ],
+  [
+    "Scikit Learn Tutorial 5  - Hyperparameter Tuning | How to tune Hyperparameters with scikit-learn",
+    "Welcome to this video tutorial on Scikit-Learn. this video explains How We use the MinMaxScaler and linear Logistic Regression ..."
+  ],
+  [
+    "8.1 Hyperparameter Optimization Motivation  [Applied Machine Learning || Varada Kolhatkar || UBC]",
+    "Motivation for hyperparameter optimization Corresponding notebook: TBD Course Github page: ..."
+  ],
+  [
+    "#50 - Practical - Grid Search | What is Grid Search | Free Machine Learning Course | Coding Classes",
+    "At Skillari, We believe that Learning is not Limited to Only Certificates this is the reason why we have released all of the courses ..."
+  ],
+  [
+    "Airbnb Data Analytics Case Study and Exercises for Data Science Project - Part 3",
+    "This is a data analysis case study for airbnb data which includes 20 exercises for beginners which you can solve with python or R ..."
+  ],
+  [
+    "GridSearchCV Nedir? Ne işe Yarar? Nasıl Kullanılır? UYGULAMALI",
+    "Bu videoda, geçen ki videoda en yüksek predict değerini veren regresyonun predict değerini daha da yukarılara çekmek için ..."
+  ],
+  [
+    "Tune the parameters of a VotingClassifer or VotingRegressor",
+    "Want to improve the accuracy of your VotingClassifier? Try tuning the 'voting' and 'weights' parameters to change how predictions ..."
+  ],
+  [
+    "190 - Finding the best model between Random Forest &amp; SVM via hyperparameter tuning",
+    "Code generated in the video can be downloaded from here: https://github.com/bnsreenu/python_for_microscopists."
+  ],
+  [
+    "(Ep 4/6) Machine Learning algorithms used",
+    "In this episode we will cover the supervised machine learning algorithms used: Support Vector Classification (SVC), Naïve Bayes ..."
+  ],
+  [
+    "Tuning Hyperparameters on unbalanced data using Support Vector Machine and Online and Active SVM",
+    ""
+  ],
+  [
+    "XGBoost Model in Python | Tutorial | Machine Learning",
+    "How to create a classification model using XGBoost in Python? The tutorial will provide a step-by-step guide for this. Problem ..."
+  ],
+  [
+    "GridSearchCV",
+    "O GridSearchCV é uma ferramenta usada para automatizar o processo de ajuste dos parâmetros de um algoritmo, pois ele fará ..."
+  ],
+  [
+    "Hyperparameter Tuning with PyTorch for Neural Networks &amp; Computer Vision: the bias variance tradeoff",
+    "An introduction to conceptual tools you'll need to produce the best possible machine learning model you can using ..."
+  ],
+  [
+    "8.6. Model Selection in Machine Learning with Python | Choosing the right Machine Learning model",
+    "This video is about Model Selection in Machine Learning with Python. Model Selection is about choosing the best suitable model ..."
+  ],
+  [
+    "K-Means Implementation and Parameter Tuning",
+    "Implementing of the K Means algorithm in Python including an explanation of the elbow method for choosing the number of ..."
+  ],
+  [
+    "Simple Linear Regression | Sklearn",
+    "Python program for simple linear regression to predict employee salary based on the employee experience."
+  ],
+  [
+    "41 hyper parameter tuning using GridSeachCV",
+    "login."
+  ],
+  [
+    "Linear Regression and Wirleine Logging",
+    "A quick look at using Linear Regression to Predict Missing Log information."
+  ],
+  [
+    "35 معايرة معاملات خوارزميات تعليم الآلة RandomForestباستخدام GridSearchCV",
+    "wac."
+  ],
+  [
+    "Hyperparameter optimization: Lecure-49",
+    "Subject: Computer Science Course: Machine Learning for Engineering & Science Application."
+  ],
+  [
+    "Data Science &amp; Machine Learning Project - Part 5 Training a Model | Image Classification",
+    "Once we have X and y after applying feature engineering techniques, we can now create simple SVM model to get a feel of how it ..."
+  ],
+  [
+    "Advanced Machine Learning and Deep Learning - Lecture12: Support Vector Machine (SVM)",
+    "Advanced Machine Learning and Deep Learning Lecture12: Support Vector Machine (SVM), Review of Matrix and Vector for ..."
+  ],
+  [
+    "PROMISE&#39;20 - Evaluating Hyper-parameter Tuning using Random Search in SVR for SEE",
+    ""
+  ],
+  [
+    "Python code for regularization L1 L2 | lasso and ridge regression in python",
+    "Python code for regularization L1 L2 | lasso and ridge regression in python #UnfoldDataScience #LassoRidgeInPython Hello , My ..."
+  ],
+  [
+    "(Code) K-Fold, Stratified, Leave One Out, Repeated K-Fold Cross Validation Python | Machine Learning",
+    "cross #validation #techniques In this tutorial, we're going to implement various types of Cross Validation techniques in Python."
+  ],
+  [
+    "Mike Heilman | Implementing distributed grid search for deep learning using scikit learn and joblib",
+    "PyData Chicago 2016 Slides: https://mheilman.github.io/pydata_chicago_2016/#/ Grid search over hyperparameters is an ..."
+  ],
+  [
+    "The SVM Model With Python and Scikit-Learn",
+    "In this video, we will show you how to use Python's Scikit-Learn package to implement the Support Vector Machines (SVM) ..."
+  ],
+  [
+    "Getting started with Scikit Learn Machine Learning API - read documentation like a pro",
+    "Scikit Learn hello world patterns in 15 minutes. Getting started with the sklearn documentation, pattern to import model, initiate ..."
+  ],
+  [
+    "IML17:  Grid vs random search for hyperparameter tuning?",
+    "In this video I review the benefits of random search over grid search when tuning the hyperparameters of a machine learning ..."
+  ],
+  [
+    "Implementation on Grid Search Hyperparameter Tuning| SVM| Python|  +91-9872993883 for query|",
+    "hello guys, This video is all about the Grid search hyperparameter tuning in SVM here you will find how to work with classification ..."
+  ],
+  [
+    "Cross-Validation ll K-Fold Cross-Validation ll Explained with Example in Hindi",
+    "Myself Shridhar Mankar a Engineer l YouTuber l Educational Blogger l Educator l Podcaster. My Aim- To Make Engineering ..."
+  ],
+  [
+    "Introdução à Machine Learning - 13 Otimização de hiperparâmetros (grid search)",
+    "Notebooks: https://github.com/abelsiqueira/intro-a-ml."
+  ],
+  [
+    "CPSC 392 || Lecture 14 KNN in Python",
+    "https://github.com/cmparlettpelleriti/CPSC392ParlettPelleriti/tree/master/Lectures/LectureNotebooks ..."
+  ],
+  [
+    "Hyperparameter Tuning",
+    "We go over one of my favorite parts of scikit learn, hyper parameter tuning. We explore two methods: grid search and random ..."
+  ],
+  [
+    "Machine Learning Tutorial Python 12 - K Fold Cross Validation",
+    "Many times we get in a dilemma of which machine learning model should we use for a given problem. KFold cross validation ..."
+  ],
+  [
+    "SVM Model Tuning in R (Hindi) | R in Hindi Ep 4 | Hyperparameter Tuning",
+    "Hello, SVM Model Tuning par meri is video ko dekhne ke liye shukriya :) Agar aapke koi sawaal ho, toh yahan likh daalo -- main ..."
+  ],
+  [
+    "Support Vector Machine in Python",
+    "In machine learning, support-vector machines (SVMs) are supervised learning models with associated learning algorithms that ..."
+  ],
+  [
+    "SVM - Overfitting SVM C Parameter with Train Data (Advanced)",
+    "This is one way to overfit with SVMs! Setting up a very high value for C."
+  ],
+  [
+    "[빅데이터 분석기사 실기 - ML 09] sklearn의 사용법  - GridSearchCV 4/4",
+    "sklearn 의 GridSearchCV 사용법을 알아봅니다. 사용 파일 ..."
+  ],
+  [
+    "Hyperparameter tuning in SVM",
+    ""
+  ],
+  [
+    "188 - Hyperparameter tuning for activation function, optimizer and weight initialization",
+    "Code generated in the video can be downloaded from here: https://github.com/bnsreenu/python_for_microscopists."
+  ],
+  [
+    "Lecture_86: 3 (SVM Additional Project) Heart Disease Cleveland Optional Project",
+    ""
+  ],
+  [
+    "Demonstration: SVC on MNIST dataset",
+    "SVC with pipeline, classification report, SVC with RBF kernel, GridSearch for gamma and C."
+  ],
+  [
+    "Support Vector Regression in Python | Explain | Machine Learning | Data Science",
+    "This is the Full Course on DATA SCIENCE Topics Discussed : (1)Support Vector Regression (2)Svr in Python."
+  ],
+  [
+    "Training Machine Learning Algorithms In GPU Using Nvidia Rapids cuML Library",
+    "Google colab: https://colab.research.google.com/drive/1ddEnBj4jh0G05UR0FuAtWLfnCQ97nwWP?usp=sharing ..."
+  ],
+  [
+    "35 معايرة معاملات خوارزميات تعليم الآلة RandomForestباستخدام GridSearchCV",
+    "wac."
+  ],
+  [
+    "Hyperparameter Tuning Machine Learning | Intellipaat",
+    "Intellipaat Python for Data Science Course: https://intellipaat.com/python-for-data-science-training/ In this hyperparameter tuning ..."
+  ],
+  [
+    "8.1 Hyperparameter Optimization Motivation  [Applied Machine Learning || Varada Kolhatkar || UBC]",
+    "Motivation for hyperparameter optimization Corresponding notebook: TBD Course Github page: ..."
+  ],
+  [
+    "Logistic Regression Tutorial Python Sklearn",
+    "Tutorial on Logistic Regression in Python with Sklearn package ➖➖➖➖➖➖➖➖➖➖ I really request you to like ..."
+  ],
+  [
+    "Shuffle your dataset when using cross_val_score",
+    "If you use cross-validation and your samples are NOT in an arbitrary order, shuffling may be required to get meaningful results."
+  ],
+  [
+    "Tuning Hyperparameters on unbalanced data using Support Vector Machine and Online and Active SVM",
+    ""
+  ],
+  [
+    "Principle Component Analysis (PCA) using sklearn and python",
+    "Here is a detailed explanation of PCA technique which is used for dimesnionality reduction using sklearn and python Reference ..."
+  ],
+  [
+    "Simple Linear Regression | Sklearn",
+    "Python program for simple linear regression to predict employee salary based on the employee experience."
+  ],
+  [
+    "Support Vector Machine #1| SVM Intuition made fun |",
+    "Support Vector Machines is one of the most popular machine learning algorithms used for classification and regression. I cover ..."
+  ],
+  [
+    "41 hyper parameter tuning using GridSeachCV",
+    "login."
+  ],
+  [
+    "K Fold Cross Validation Understanding with an Example || Lesson 43 || Machine Learning",
+    "machinelearning#learningmonkey In this class, we discuss K Fold Cross Validation Understanding with an Example. How K fold ..."
+  ],
+  [
+    "Linear Regression and Wirleine Logging",
+    "A quick look at using Linear Regression to Predict Missing Log information."
+  ],
+  [
+    "Machine Learning Vs Deep Learning",
+    "Online Five day Webinar Series on Computational Intelligence Day #5 - 05.06.2020 - Machine Learning Vs Deep Learning by Dr."
+  ],
+  [
+    "Class 14 SVM classification (theory)",
+    "You can find the slides and notebook on my GitHub repository for the course: https://github.com/PJalgotrader/ML-USU-SP21 ..."
+  ],
+  [
+    "Regression Tree Hyperparameter Tuning and Code Example",
+    "Code used : https://github.com/campusx-official/decision-trees/blob/master/regression_tree_example.ipynb."
+  ],
+  [
+    "Hyperparameter optimization: Lecure-49",
+    "Subject: Computer Science Course: Machine Learning for Engineering & Science Application."
+  ],
+  [
+    "Artificialearning",
+    "The Channel is about the Python Programming including the basic to advanced level and also covers the Machine Learning ..."
+  ],
+  [
+    "Implementation on Grid Search Hyperparameter Tuning| SVM| Python|  +91-9872993883 for query|",
+    "hello guys, This video is all about the Grid search hyperparameter tuning in SVM here you will find how to work with classification ..."
+  ],
+  [
+    "More Data Mining with Weka (5.4: Meta-learners for performance optimization)",
+    "More Data Mining with Weka: online course from the University of Waikato Class 5 - Lesson 4: Meta-learners for performance ..."
+  ],
+  [
+    "Advanced Machine Learning and Deep Learning - Lecture12: Support Vector Machine (SVM)",
+    "Advanced Machine Learning and Deep Learning Lecture12: Support Vector Machine (SVM), Review of Matrix and Vector for ..."
+  ],
+  [
+    "Logistic Regression Loss Function – Hyper Parameter Tuning &amp; Evaluation Metrics – Part 3 (2020)",
+    "In this video, we will go over a Logistic Regression example in Python using Machine Learning and the SKLearn library."
+  ],
+  [
+    "CERT Rodeo - GRID SEARCH",
+    ""
+  ],
+  [
+    "PROMISE&#39;20 - Evaluating Hyper-parameter Tuning using Random Search in SVR for SEE",
+    ""
+  ],
+  [
+    "YOW! Data 2017 Juliet Hougland - Apache Spark for Machine Learning on Large Data Sets #YOWData",
+    "Apache Spark is a general purpose distributed computing framework for distributed data processing. With MLlib, Spark's machine ..."
+  ],
+  [
+    "Building A Machine Learning Model Hands On",
+    "Learn from Edvancer's experts how to build a machine learning model from scratch."
+  ],
+  [
+    "Machine Learning with Scikit-Learn Python | K-fold Cross-validation",
+    "normalizednerd #python #scikitlearn In this video, I've explained the concept of k-fold cross-validation and how to implement it in ..."
+  ],
+  [
+    "CPSC 330: Lecture 5 supplement: Bayesian hyperparameter optimization",
+    "CPSC 330: Applied Machine Learning at the University of British Columbia, as taught in Sep-Dec 2020. For course materials, see ..."
+  ],
+  [
+    "Hyperparameter Bias Variance Tradeoff in Logistic Regression || Lesson 73 || Machine Learning ||",
+    "machinelearning#learningmonkey In this class, we discuss Hyperparameter Bias Variance Tradeoff in Logistic Regression."
+  ],
+  [
+    "Nested Cross Validation",
+    "Slides: https://users.cs.duke.edu/~cynthia/CourseNotes/CrossVal2020.pdf."
+  ],
+  [
+    "How do I encode categorical features using scikit-learn?",
+    "In order to include categorical features in your Machine Learning model, you have to encode them numerically using \"dummy\" or ..."
+  ],
+  [
+    "[Kaggle] Titanic Problem using Excel #15 - Decision Trees grid search",
+    "Graduating to Decision Tree Models is the next step in Solving the Titanic Problem by tuning Hyperparameters. Decision Trees ..."
+  ],
+  [
+    "Machine Learning Fundamentals: Cross Validation",
+    "One of the fundamental concepts in machine learning is Cross Validation. It's how we decide which machine learning method ..."
+  ],
+  [
+    "Deep network hyperparamerters grid search",
+    "Deep network hyperparamerters grid search."
+  ],
+  [
+    "Random Search for Hyper-parameter Optimization",
+    "In this video, I'll show you how random search performs about as well as grid search with less number of iterations. Random ..."
+  ],
+  [
+    "H2O: Random Forest hyperparameter tuning with H2O in R - R for Data Science",
+    "This video shows how to conduct hyperparameter tuning in the regression setting with Random Forest using the H2O platform in ..."
+  ],
+  [
+    "Search for CV and Resumes in Google - Find candidates for free",
+    "This method is not the greatest way to find candidates however it is free and absolutely powerful. If it can help you find a candidate ..."
+  ],
+  [
+    "Applied Machine Learning 2019 - Lecture 13 - Parameter Selection and Automatic Machine Learning",
+    "Grid Search, Randomized Search Bayesian Optimization, SMBO Successive halving, hyperband auto-sklearn Freely borrowed ..."
+  ],
+  [
+    "The Simplest Hyperparameter Optimization Pipeline with GitLab",
+    "This time, we explore how to create a very simple pipeline to perform Hyperparameter Optimization, using SKLearn's ..."
+  ],
+  [
+    "Train Test Split vs K Fold vs Stratified K fold Cross Validation",
+    "In this video we will be discussing how to implement 1. K fold Cross Validation 2. Stratified K fold Cross Validation 3. Train Test ..."
+  ],
+  [
+    "Getting started with Scikit Learn Machine Learning API - read documentation like a pro",
+    "Scikit Learn hello world patterns in 15 minutes. Getting started with the sklearn documentation, pattern to import model, initiate ..."
+  ],
+  [
+    "Machine Learning - All about Support Vector Machine(SVC,SVR) and Hyper parameter Tuning{Grid Search}",
+    "Feel free to ask doubts in the comment section and do like comment on the video and subscribe to this channel."
+  ],
+  [
+    "Data Science Portfolio Project: Regression #2 | Data Science with Marco",
+    "Part 1: https://www.youtube.com/watch?v=YnGf8G2JJyg Dataset: http://archive.ics.uci.edu/ml/dataset... Full project notebook: ..."
+  ],
+  [
+    "Support Vector Machine Python Example",
+    "In this video, we take a look at an example of how to classify data using the linear support vector machine algorithm in python."
+  ],
+  [
+    "GridSearch + GradientBoostingMachine H2O no R",
+    "Nesse vídeo, você vai aprender: - Como utilizar o pacote H20 do R. - Como achar Scores de alto risco vs baixo risco do cliente."
+  ],
+  [
+    "Hyperparameter Tuning (7) - Infrastructure and Tooling - Full Stack Deep Learning",
+    "How to tune your model hyper-parameters? More videos at https://course.fullstackdeeplearning.com Summary - Deep learning ..."
+  ],
+  [
+    "How to increase the model accuracy | Scikit scenarios videos",
+    "Welcome to DWBIADDA's Scikit Learn scenarios and questions and answers tutorial, as part of this lecture we will see,How to ..."
+  ],
+  [
+    "SVR - TECHNICAL SESSION (TS4)",
+    ""
+  ],
+  [
+    "Uygulamalı Makine Öğrenmesi - 13 - Hyperparameter Optimization Nedir?",
+    ""
+  ],
+  [
+    "Support Vector Machine in Python",
+    "In machine learning, support-vector machines (SVMs) are supervised learning models with associated learning algorithms that ..."
+  ],
+  [
+    "Machine Learning   GridSearch, Projects By Zekelabs",
+    ""
+  ],
+  [
+    "All Type Of Cross Validation With Python All In 1 Video",
+    "https://github.com/krishnaik06/Types-Of-Cross-Validation Building machine learning models is an important element of predictive ..."
+  ],
+  [
+    "Support Vector Machine Python Example",
+    "In this video, we take a look at an example of how to classify data using the linear support vector machine algorithm in python."
+  ],
+  [
+    "Random Search for Hyper-parameter Optimization",
+    "In this video, I'll show you how random search performs about as well as grid search with less number of iterations. Random ..."
+  ],
+  [
+    "How to use K-Fold Cross-Validation for Imbalanced Dataset #Shorts",
+    "How to use K Fold Cross-Validation for Imbalanced Dataset is a short video to discuss cross-validation for Imbalanced Dataset."
+  ],
+  [
+    "H2O: Random Forest hyperparameter tuning with H2O in R - R for Data Science",
+    "This video shows how to conduct hyperparameter tuning in the regression setting with Random Forest using the H2O platform in ..."
+  ],
+  [
+    "Search for CV and Resumes in Google - Find candidates for free",
+    "This method is not the greatest way to find candidates however it is free and absolutely powerful. If it can help you find a candidate ..."
+  ],
+  [
+    "Train Test Split vs K Fold vs Stratified K fold Cross Validation",
+    "In this video we will be discussing how to implement 1. K fold Cross Validation 2. Stratified K fold Cross Validation 3. Train Test ..."
+  ],
+  [
+    "Applied Machine Learning 2019 - Lecture 13 - Parameter Selection and Automatic Machine Learning",
+    "Grid Search, Randomized Search Bayesian Optimization, SMBO Successive halving, hyperband auto-sklearn Freely borrowed ..."
+  ],
+  [
+    "Getting started with Scikit Learn Machine Learning API - read documentation like a pro",
+    "Scikit Learn hello world patterns in 15 minutes. Getting started with the sklearn documentation, pattern to import model, initiate ..."
+  ],
+  [
+    "Machine Learning - All about Support Vector Machine(SVC,SVR) and Hyper parameter Tuning{Grid Search}",
+    "Feel free to ask doubts in the comment section and do like comment on the video and subscribe to this channel."
+  ],
+  [
+    "Auto-Tuning Hyperparameters with Optuna and PyTorch",
+    "Crissman Loomis, an Engineer at Preferred Networks, explains how Optuna helps simplify and optimize the process of tuning ..."
+  ],
+  [
+    "Tuning XGBoost in Python|Running XGBoost in Python|How to run XGBoost in python",
+    "Tuning XGBoost in Python|Running XGBoost in Python|How to run XGBoost in python #XGBoostInPython #UnfoldDataScience ..."
+  ],
+  [
+    "Cutting Edge Hyperparameter Tuning Made Simple With Ray Tune - Antoni Baum | PyData Global 2021",
+    "Cutting Edge Hyperparameter Tuning Made Simple With Ray Tune Speaker: Antoni Baum Summary Hyperparameter tuning is a ..."
+  ],
+  [
+    "How to increase the model accuracy | Scikit scenarios videos",
+    "Welcome to DWBIADDA's Scikit Learn scenarios and questions and answers tutorial, as part of this lecture we will see,How to ..."
+  ],
+  [
+    "Support Vector Machine in Python",
+    "In machine learning, support-vector machines (SVMs) are supervised learning models with associated learning algorithms that ..."
+  ],
+  [
+    "Uygulamalı Makine Öğrenmesi - 13 - Hyperparameter Optimization Nedir?",
+    ""
+  ],
+  [
+    "K-Fold Cross Validation - Intro to Machine Learning",
+    "This video is part of an online course, Intro to Machine Learning. Check out the course here: ..."
+  ],
+  [
+    "SVM - Overfitting SVM C Parameter with Train Data (Advanced)",
+    "This is one way to overfit with SVMs! Setting up a very high value for C."
+  ],
+  [
+    "Four reasons to use scikit-learn (not pandas) for ML preprocessing",
+    "Reasons to use scikit-learn (not pandas) for ML preprocessing: 1. You can cross-validate the entire workflow 2. You can grid ..."
+  ],
+  [
+    "Regression Example with XGBRegressor in Python",
+    "How to build the XGB regressor model and predict regression data in Python. You can find the full source code and explanation of ..."
+  ],
+  [
+    "COMPLETE SOLUTION OF KAGGLE- PIMA INDIAN DIABETES DATASET 92% ACCURACY (2 of 3)",
+    "If we use rule based approach (i.e. if-then) to split feature space then non-parametric methods will outperform all other methods."
+  ],
+  [
+    "K-Fold Cross Validation | Hands-on Machine learning with python",
+    "In this video we will be understanding K-Fold Cross Validation and using it to estimate how well our Machine learning model ..."
+  ],
+  [
+    "Resume Roasts With Striver | Ultimate Tips 🔥",
+    "Free Gifts from Crio.do : https://www.crio.do/redeem/d8212ab/ Resume Roasts With Striver | Ultimate Tips SHARE and ..."
+  ],
+  [
+    "Lecture_86: 3 (SVM Additional Project) Heart Disease Cleveland Optional Project",
+    ""
+  ],
+  [
+    "Ray Tune: Distributed Hyperparameter Optimization Made Simple - Xiaowei Jiang",
+    "This talk was presented at PyBay2021 Food Truck Edition - 6th annual Bay Area Regional Python conference. See pybay.com for ..."
+  ],
+  [
+    "Support Vector Regression in Python | Explain | Machine Learning | Data Science",
+    "This is the Full Course on DATA SCIENCE Topics Discussed : (1)Support Vector Regression (2)Svr in Python."
+  ],
+  [
+    "Topic 30: Ensemble Methods (Bagging)",
+    ""
+  ],
+  [
+    "Cross Validation in Machine Learning | K-Fold | Stratified K-Fold",
+    "datascience #kfold #crossvalidation Telegram Channel- https://t.me/akshitmadan Instagram- ..."
+  ],
+  [
+    "Hyperparameter Tuning on Diabetes Classification model | Data Science | Python | Machine Learning",
+    "In this tutorial, we are going to tune the diabetes classification model using the Hyperparameter Tuning. Hyperparameter Tuning is ..."
+  ],
+  [
+    "EASILY code Machine Learning: SVM, Random Forests, Regression in Pandas, Sklearn in Python",
+    "Part 2 is up: https://www.youtube.com/watch?v=25BF06Yqn6g Straight to coding: 1:39 (I worked hard on the intro fyi...) Code and ..."
+  ],
+  [
+    "DATA 640 - SVMs in Python",
+    "In this video we show you how to create and train an SVM for classification in Python. We'll also introduce how you can use ..."
+  ],
+  [
+    "Selecting the best model in scikit-learn using cross-validation",
+    "In this video, we'll learn about K-fold cross-validation and how it can be used for selecting optimal tuning parameters, choosing ..."
+  ],
+  [
+    "Tuning SVM!",
+    "Provided to YouTube by Believe SAS Tuning SVM! · Synths Versus Me · Nico Cabañas Rodriguez · Nico Cabañas Rodriguez Sex ..."
+  ],
+  [
+    "Visão geral sobre o GridSearchCV (Busca em Matriz + Validação Cruzada)",
+    "Código: https://github.com/WittmannF/gridsearchcv-resumo."
+  ],
+  [
+    "Bayesian Optimization - Math and Algorithm Explained",
+    "Learn the algorithmic behind Bayesian optimization, Surrogate Function calculations and Acquisition Function (Upper Confidence ..."
+  ],
+  [
+    "Efficient Distributed Hyperparameter Tuning with Apache Spark",
+    "Hyperparameter tuning is a key step in achieving and maintaining optimal performance from Machine Learning (ML) models."
+  ],
+  [
+    "Large Scale Learning with Twin Support Vector Machine By Dr.  Reshma Rastogi",
+    "In this video, Dr. Reshma Rastogi, South Asian University, New Delhi talks about the large scale learning using twin support ..."
+  ],
+  [
+    "Optimization Hyperparameter of the Multi Layer Perceptron",
+    "Grid Search stages to obtain optimal parameters on the MLP algorithm for the purpose of improving engine performance or ..."
+  ],
+  [
+    "K-Fold Cross Validation Example Using Sklearn Python",
+    "In this video, we cover k-fold cross validation, hyperparameters and ridge regression. CONNECT Site: https://coryjmaklin.com/ ..."
+  ],
+  [
+    "Pipeline and scikit-learn library for machine learning (Part-1/2)",
+    "datascience #pythonkachilla #python #machinelearning #datascience #pythonkachilla #python #dataanalytics ..."
+  ],
+  [
+    "Bank Customer Churn Model | Real World Example | Project | Hands-On | Machine Learning | Python",
+    "In this Real world Problem on Bank Customer Churn Model you will learn the Data Encoding, Feature Scaling, Handling ..."
+  ],
+  [
+    "7.5 One class classifiers (Data Mining and Machine Learning)",
+    "Learn Data Mining and Machine Learning from 0 to Deep Learning in an intuitive manner! For more details, visit the module page: ..."
+  ],
+  [
+    "Mean Squared Error",
+    "Recorded with https://screencast-o-matic.com."
+  ],
+  [
+    "Data Visualization, Support vector machine Python Implementation",
+    ""
+  ],
+  [
+    "Dask ML | Scale Machine Learning Code with Dask | Dask Summit 2021",
+    "Speakers - Andrew Mshar, Ryan Soley Do you use the Scikit-learn library to build machine learning models? In this tutorial, we'll ..."
+  ],
+  [
+    "Membersihkan DATA -[Tutorial Python Data Science bahasa Indonesia untuk pemula] #INDOSOAI",
+    "Bagaimana pentingnya membersihkan data. Saya akan mencontohkan bagaimana mengganti Nan (NULL values) agar data ..."
+  ],
+  [
+    "Cómo Optimizar Modelos de Machine Learning con GridSearchCV en scikit-learn",
+    "Optimiza modelos de machine learning sin esfuerzo. Lee más aquí ..."
+  ],
+  [
+    "One Vs All Approach with Grid Search in Support Vector Machines |AI Sangam",
+    "Hello Friends. Hope you are fine. Please go to link as discussed here to train the data having multiclass classification using ..."
+  ],
+  [
+    "Demonstration: KNN with California Housing Dataset",
+    "Regression with KNN, Model building, Model selection, Model Evaluation, HPT with CV, Polynomial Features."
+  ],
+  [
+    "Machine Learning Tutorial with sklearn SVM Classification (SVC)",
+    "SVM #SVC #machinelearning Machine Learning basic tutorial for sklearn SVM (SVC). In this video, we cover the basics of getting ..."
+  ],
+  [
+    "Linear SVC (SVM) Prediction | Data Science Tutorial",
+    "Data pre-processing in Python Beginners with Examples | Data Science Tutorial In this video, 00:16 -Linear SCV Model 00:30 ..."
+  ],
+  [
+    "Support Vector Machine",
+    "Ejemplos en Python: https://github.com/rafaelchp/Tareas-Statistical-Learning-I/blob/master/SVM/EjemploSVMLineal.ipynb Teoría: ..."
+  ],
+  [
+    "머신러닝 2019/07/28 GridSearchCV",
+    ""
+  ],
+  [
+    "Support Vector Machine | Different Kernels | Machine Learning | Lecture#3",
+    "1) SVM Theory: ..."
+  ],
+  [
+    "SVM on binary classification Sonar dataset",
+    "Support Vector Machine model - binary classification high accuracy achieved so far, compared to naive-bayes, logistic regression ..."
+  ],
+  [
+    "Weka add Packages and Quick Start with Grid Search",
+    "DM Assignment - 1."
+  ],
+  [
+    "Support Vector Machine: Tutorial 8",
+    "In this tutorial of python for machine learning and data science; you will study about: 1. Introduction to Support Vector Machine 2."
+  ],
+  [
+    "Data Science Project Quick Start in Tamil - Cross Validation, Hyperparameter Tuning, Kaggle Titanic",
+    "Quick start example for cross validation and hyperparameter tuning in datascience. Data is from ..."
+  ],
+  [
+    "Prediction using Decision Tree Algorithm - Jupyter Notebook",
+    "Create the Decision Tree classifier and visualize it graphically."
+  ],
+  [
+    "Pridiction of peatland water table using KNN",
+    ""
+  ],
+  [
+    "GridSearch: como encontrar os melhores parâmetros do seu modelo | ML do Básico ao Aplicado #4",
+    "Mesmo sem perceber, estamos o tempo todo generalizando situações, para que caso no futuro uma situação semelhante ocorra, ..."
+  ],
+  [
+    "support vector machine programming",
+    "AIDreamer how to use support vector machine in python tutorial subscribe to my channel subscribe to my second channel ..."
+  ],
+  [
+    "SVM ML Algorithm Direct Method Using Python",
+    ""
+  ],
+  [
+    "Day 15 of 100 Days to ML |  Support Vector Regressor",
+    "Here is a video to demonstrate why Support Vector doesn't work so good for Regression model."
+  ],
+  [
+    "Combinatorial Purged Cross-Validation Explained",
+    "Blog: https://quantoisseur.com/ LinkedIn: https://www.linkedin.com/in/coltonfsmith/ Figures: ..."
+  ],
+  [
+    "96  Kernel SVM   Python 2",
+    "This course is designed to cover maximum concepts of machine learning a-z. Anyone can opt for this course. No prior ..."
+  ],
+  [
+    "SVM(support vector machine) -2- Python code",
+    "We use the same data point used in SVM-1 and check if the the SVM package in python gives the same result. We also look at ..."
+  ],
+  [
+    "Why we need Gradient Boosting in Machine Learning ? - Behind Math Explained - Class 14 - Urdu/Hindi",
+    "Hey Everyone! In todays video I am discussing in-depth intuition and behind math of Gradient Boosting technique. Gradient ..."
+  ],
+  [
+    "Ensemble Techniques Continuation | Part 8",
+    "In this session, firstly we will introduce what are Ensemble models and how a decision tree is important for the same. In this, we ..."
+  ],
+  [
+    "Support Vector Machine (SVM) Using Scikit-Learn | Machine Learning | Python | Code Warriors",
+    "We are welcoming all of you on this tutorial. In this video we will discuss about basics of SVM(Support Vector Machine) Using ..."
+  ],
+  [
+    "19.DecisionTree, RandomForest, SVM using python",
+    "19.DecisionTree, RandomForest, SVM using python."
+  ],
+  [
+    "19. Support Vector Machine (SVM) Implementation Using Python",
+    "This videos tutorials helps to understand practical implementation of Support Vector Machine (SVM) using python code In this ..."
+  ],
+  [
+    "Smile Recognition Trial",
+    ""
+  ],
+  [
+    "Support Vector Machine | Kernel Trick | SVC &amp; SVR Theory | Amar Mandal",
+    "This video will give you a detailed idea how SVM (Support Vector Machine) Algorithm works. It contains both SVC and SVR ..."
+  ],
+  [
+    "How to create a two moon dataset and make predictions on it  - blog post",
+    "Link to medium blog post:- ..."
+  ],
+  [
+    "Video 2892 - Vector projection, Unit vector, explained - Part 1/3",
+    "Vector projection, Unit vector, explained."
+  ],
+  [
+    "Assignment 3 Bhavya ipynb   Colaboratory   Google Chrome 2019 11 03 23 56 11",
+    "Datamining- Classification & Logistic regression."
+  ],
+  [
+    "Optimization problem of The Support Vector Machine (SVM)",
+    "Learn Complete Machine Learning & Data Science using MATLAB: ..."
+  ],
+  [
+    "Demonstration: MNIST Digits Classification using Logistic Regression",
+    "MNIST data set, Logistic Regression, Binary Classification, Data Visualization, GridSearchCV, PR Curve."
+  ],
+  [
+    "Movie Recommendation System Explanation",
+    "Finance Class video/presentation."
+  ],
+  [
+    "Support Vector Regression Example in Python",
+    "How to fit regression data with the SVR method in Python. You can find full source code and explanation of this tutorial in this link."
+  ],
+  [
+    "11. Machine Learning - Classification - SVM Model Building (Step by Step)",
+    "Here, In this session we shall understand the difference between Classification and Regression. Also, we understand SVM."
+  ],
+  [
+    "How to build Random Forest Classifier Model from Scratch",
+    "In this video, I have explained the Random Forest classifier and built a Python model from scratch. Link for Dataset: ..."
+  ],
+  [
+    "92  Support Vector Machines   Python 1",
+    "This course is designed to cover maximum concepts of machine learning a-z. Anyone can opt for this course. No prior ..."
+  ],
+  [
+    "Pedestrian detection using HOG+ linear SVM",
+    ""
+  ],
+  [
+    "#Python | Optimal K-value for KNN using CV | #KNN #CrossValidation #KNeighborsClassifier",
+    "RJ Studio's 75th video searches for the optimal k value in K-Nearest Neighbors (KNN) algorithm using Cross Validation ..."
+  ],
+  [
+    "Hyper-parameter Tuning in SVM",
+    "Support vector machine is another simple algorithm that every machine learning expert should have in his/her arsenal. Support ..."
+  ],
+  [
+    "Hyperparameter Tuning Basics| +91-9872993883 for query| Types of Hyperparameter Tuning Explained",
+    "Hello guys, This video cover up the basic part of Hyperparameter Tuning . here,you will get to know about grid serach and random ..."
+  ],
+  [
+    "Hand Gesture Recognition",
+    "Hand Gesture Recognition Using Computer Vision."
+  ],
+  [
+    "Implementation of support vector regression in python",
+    "In this video i'm going to explain the implementation of support vector regression in machine learning. GitHub Link: ..."
+  ],
+  [
+    "F-beta score easily explained | Confusion Matrix Metrics Part 4 | Machine Learning",
+    "f1score #fbeta #precision #recall #confusion_matrix #metrics #explained #data_science #classification #machine_learning In this ..."
+  ],
+  [
+    "logistic regression and SVM | Linear Classifiers in Python",
+    "This video is related to logistic regression and SVM (Linear Classifiers) in Python The tasks are done in this video using python ..."
+  ],
+  [
+    "Python Machine Learning Tips, Tricks, and Techniques: Support Vector Machines|packtpub.com",
+    "This video tutorial has been taken from Python Machine Learning Tips, Tricks, and Techniques. You can learn more and buy the ..."
+  ],
+  [
+    "MODÈLE DE MACHINE LEARNING - Covid19 (29/30)",
+    "Ce tutoriel vous montre une démarche efficace pour développer de bons modeles de machine learning : 1) Entrainer et évaluer ..."
+  ],
+  [
+    "Philipp Thomann - PlotVR - walk through your data",
+    "\"PlotVR - walk through your data [EuroPython 2019 - Talk - 2019-07-11 - Osaka / Samarkand [PyData track] [Basel, CH] By Philipp ..."
+  ],
+  [
+    "SVM CLASSIFIER FOR PYTHON",
+    "IN THIS WE KNOW A PROJECT DECIRPTIONS OF CODE OF SVM MACHINE LEARNING FOR CANCER PATIENT. WE LEARN ..."
+  ],
+  [
+    "How to build a Chatbot in R with SVM model --- a basic introduction",
+    "Chatbot for answering summer intern recruitment questions # Methdology # 1. Convert training questions into document term ..."
+  ],
+  [
+    "k-Nearest Neighbors In Python [Cross-Validation]",
+    "In this video you will learn how to implement k-nearest neighbors in python implementation. This channel includes machine ..."
+  ],
+  [
+    "XGBoost in R Part 4 - Regression tuning with Caret - Machine Learning",
+    "In this #machinelearning #tutorial we are building on what we have learned in the last video. This time, we want to establish a ..."
+  ],
+  [
+    "XGBoost in R Part 4 - Regression tuning with Caret - Machine Learning",
+    "In this #machinelearning #tutorial we are building on what we have learned in the last video. This time, we want to establish a ..."
+  ],
+  [
+    "Support Vector Machine Implementation In Python || Advance Python Programming || Urdu || Hindi",
+    "What is Support Vector Machine Implementation In Python? *****How Does SVM Work? *****SVM Kernels *****SVM Use Cases ..."
+  ],
+  [
+    "7.8  SVR in Python   Step 5",
+    ""
+  ],
+  [
+    "Support Vector Machine (SVM) using python",
+    "This video is related to Logistic Regression using python programming language Github: ..."
+  ],
+  [
+    "Support Vector Machines Classifier: Breast Cancer Data",
+    "In this video we cover the basics of support vector machines classifiers using the Breast Cancer Dataset."
+  ],
+  [
+    "XGBoost in Python from Start to Finish",
+    "NOTE: You can support StatQuest by purchasing the Jupyter Notebook and Python code seen in this video here: ..."
+  ],
+  [
+    "Tutorial 18- Hyper parameter Tuning To Decide Number of Hidden Layers in Neural Network",
+    "Hyperamater Tuning To Decide Number of Hidden Layers Git hub url : https://github.com/krishnaik06/Hidden-Layers-Neurons ..."
+  ],
+  [
+    "Nested vs Non-nested Cross-Validation in Machine Learning",
+    "Nested vs Non-nested Cross-Validation in Machine Learning is a short video to discuss the difference between the ..."
+  ],
+  [
+    "Implementation of SVM classifier in Python",
+    "In this video I have covered :- 1.How to implement SVM in python 2.How to select best hyperparameters for it In next video I will ..."
+  ],
+  [
+    "Lecture 10: Learning Curves Part 2 (K fold cross validation , Boosting,  Regularization)",
+    "This lecture sets up the foundation for understanding K fold cross-validation , Boosting and Regularization #crossvalidation ..."
+  ],
+  [
+    "Grid Search - Buscando os melhores hyper-parâmetros para o modelo",
+    "Como encontrar os melhores hyper-parâmetros para um determinado modelo. Código e dataset: ..."
+  ],
+  [
+    "Accelerated Natural Language Processing 2.5 - Hyperparameter Tuning",
+    "We learn how to find a good combination of hyperparameters using different approaches in this video. We cover grid search, ..."
+  ],
+  [
+    "Linear Regression with Regularization in Python",
+    "In this video, we learn to code linear regression with regularization in python. The github link is below: ..."
+  ],
+  [
+    "C36 | SVM example | Support Vector Machine | Computer Vision | Machine Learning | EvODN",
+    "Lets see an example of SVM for classifying a toy dataset. Also, lets understand how SVM calculations are done in practice."
+  ],
+  [
+    "ML L15 02 How SVM avoids Overfitting",
+    ""
+  ],
+  [
+    "MATLAB SVM tutorial (fitcsvm)",
+    "I am sorry for everyone that I did not actually write code in the description. -- clear; close all; clc; %% preparing dataset load ..."
+  ],
+  [
+    "Feature Selection for Scikit Learn",
+    "We learn about several feature selection techniques in scikit learn including: removing low variance features, score based ..."
+  ],
+  [
+    "【06 案例：SVM实践】1 sklearn求解支持向量机",
+    ""
+  ],
+  [
+    "Random Forest in R with hyper parameter tuning – Saisha&#39;s Tech",
+    "Hello everyone, in last video we understood in depth concepts of types of ensemble models and in today's video we will learn ..."
+  ],
+  [
+    "Applied Machine Learning 2019 - Lecture 06 - Linear Models for Regression",
+    "Imputation, polynomial features Ordinary Least Squares, Ridge Regression, Lasso, Elastic Net Slides and materials on the course ..."
+  ],
+  [
+    "Vehicle / non-vehicle binary classification with HOG-SVM in python",
+    "Binary Classification of images into Vehicle / non-vehicle imageswith HOG-SVM (with linear kernel) in python with car detection ..."
+  ],
+  [
+    "13 Python DS CV part1 Screencast 2019 08 17 09:31:06",
+    "workonline."
+  ],
+  [
+    "Support Vector Machine (SVM) | Machine Learning Algorithm | Learnbay",
+    "You are watching \"Support Vector Machine (SVM)\" now ! SVM(Support vector machine) used for both regression and ..."
+  ],
+  [
+    "LeetCode Algorithm Patterns - SLIDING WINDOW",
+    "Patterns to solve problems - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed."
+  ],
+  [
+    "TUTORIAL ON SVM, SVC + PROJECT USING SVM AND SVC ON SAMPLE DATASET - 1",
+    "Online Machine Learning project by 6Benches: --------------------------------------------------------------------- In this video lecture, you will ..."
+  ],
+  [
+    "Hyperparameter tuning with sklearn crash course [2022]",
+    "This video will show you how to perform hyperparameter tuning with sklearn. This is the final part of the Artificial Intelligence for ..."
+  ],
+  [
+    "Data Science Project 5 - Time Series Forecasting Hyperparameters Tuning by Abhishek Agarrwal",
+    "In this hyperparameters tuning time series related python data science complete project tutorial I have shown the end to end time ..."
+  ],
+  [
+    "Data Science Resume Review #2 (Grad Student)",
+    "Welcome to my very first resume critique! I'm excited to share my process with you all and I hope my tips help you land your dream ..."
+  ],
+  [
+    "How to classify credit card rating data using machine learning with Matlab | MATLABSolutions .",
+    "Implementation of machine learning in finance for classification of binary rating of finance credit card companies using MATLAB ..."
+  ],
+  [
+    "Tuning Model Hyper-Parameters for XGBoost and Kaggle",
+    "Properly setting the parameters for XGBoost can give increased model accuracy/performance. This is a very important technique ..."
+  ],
+  [
+    "How to Apply SVM Algorithm Dataset in Python",
+    "How to Apply SVM Algorithm Dataset in Python."
+  ],
+  [
+    "Support Vector Machine (SVM) Implementation in Python | Machine Learning Model | Classification",
+    "Support Vector Machine (SVM) Implementation in Python | Machine Learning Model | Classification | svm sklearn | svm kernel ..."
+  ],
+  [
+    "SVM Time Series Classification of Selected Gait Abnormalities",
+    "SVM Time Series Classification of Selected Gait Abnormalities --- Authors: Rostovski, Jakob (Tallinn University of Technology); ..."
+  ],
+  [
+    "Diagnosa Penyakit Jantung Menggunakan Algoritma SVM dengan Optimasi Grid Search",
+    ""
+  ],
+  [
+    "AMP Camp 6 - Intergrating Spark with PyData and R - Joseph Bradley",
+    ""
+  ],
+  [
+    "tamil hyperparameters tune deep replay jacobians விளக்கம் hyperparameters tune சரியாக செய்கிறோமா",
+    "Join this channel to get access to perks: https://www.youtube.com/channel/UCS71lXSeU3CVYa6I_2KK0EA/join ..."
+  ],
+  [
+    "〜 Scikit-Learn 重要モジュール 【GridSearchCVとcross_val_score】〜",
+    "Scikit-learnの中でも難易度が高くかつ重要なモジュールです。 モデルの最適パラメータの選択とデータのサンプリングを同時に ..."
+  ],
+  [
+    "Support Vector Machines Implementation Python | Hyperplane | SVM Kernels | Linear | Polynomial | RBF",
+    "SVM is one of the most popular and widely used supervised machine learning algorithms. SVM offers very high accuracy ..."
+  ],
+  [
+    "3DfindIT.com - The visual search engine: Grid Search",
+    "A simple CAD or BIM model with a similar shape can also be used to find the appropriate component. Using the grid search, the ..."
+  ],
+  [
+    "Kaggle Titanic - Live Coding - #4 - Add Information of SVM Kernel and Train Models",
+    "Live coding session, doing data analysis and data science for the Kaggle Titanic competition. You can join me in this project, ..."
+  ],
+  [
+    "C# - Real-time Object Detection From an Image | Yolo -  I | Detect Object",
+    "Yolo Part 1 - https://youtu.be/G4tNSnIE_lY Yolo Part 2 - https://youtu.be/w93g6yAOuNE ..."
+  ],
+  [
+    "python machine learning OCR system",
+    "Optical Character Recognition system for classifying hand-written runes, built using python. Algorithms used: K-nearest neighbor ..."
+  ],
+  [
+    "DataRobot AI for Good Program: Using AI for a Better World",
+    "AI has the potential to help us solve the greatest challenges facing society. That's why we've opened up the DataRobot platform to ..."
+  ],
+  [
+    "Hyperparameter Underfitting and Overfitting in Naive Bayes || Lesson 51 || Machine Learning ||",
+    "machinelearning#learningmonkey In this class, we discuss Hyperparameter Underfitting and Overfitting in Naive Bayes."
+  ],
+  [
+    "【PYTHON】sklearn feature importances",
+    "Source Code: https://edwardize.blogspot.com edwardize.blogspot.com with ❤ by Edward Lance Lorilla google play, Apache CXF ..."
+  ],
+  [
+    "Build Train and Evaluate Support Vector Machine Model | Train &amp; Evaluate SVM model using python",
+    "This video explains the steps to Build, Train and Evaluate Support Vector Machine Model using Python code. We are utilizing ..."
+  ],
+  [
+    "【PYTHON】Choosing the optimal threshold",
+    "Source Code: https://edwardize.blogspot.com edwardize.blogspot.com with ❤ by Edward Lance Lorilla google play, Apache CXF ..."
+  ],
+  [
+    "Machine Learning - GridSearchCV, RandomSearchCV ou BayesianSearch. Qual funciona melhor",
+    "Nesse vídeo de hoje eu quero explicar pra vocês a diferença GridSearchCV e RandomSearchCV e o BayesianSearch que são ..."
+  ],
+  [
+    "Implementation on Random Search Hyperparameter Tuning|  +91-9872993883 for query| SVM | Python |",
+    "Hey Guys In this video you will learn about how to perform Random search Hyperparameter tuning Using SVM. By viewing this ..."
+  ],
+  [
+    "파이썬 머신러닝 강의 06-5 - Scikit-Learn활용 그리드 서치 실습",
+    "Scikit-Learn을 활용한 그리드 서치(Grid Search) 기반 학습 최적화를 해보는 실습강의입니다. 강의자료 다운받기 ..."
+  ],
+  [
+    "【PYTHON】Choosing the optimal threshold",
+    "Source Code: https://edwardize.blogspot.com edwardize.blogspot.com with ❤ by Edward Lance Lorilla google play, Apache CXF ..."
+  ],
+  [
+    "Machine Learning - GridSearchCV, RandomSearchCV ou BayesianSearch. Qual funciona melhor",
+    "Nesse vídeo de hoje eu quero explicar pra vocês a diferença GridSearchCV e RandomSearchCV e o BayesianSearch que são ..."
+  ],
+  [
+    "Implementation on Random Search Hyperparameter Tuning|  +91-9872993883 for query| SVM | Python |",
+    "Hey Guys In this video you will learn about how to perform Random search Hyperparameter tuning Using SVM. By viewing this ..."
+  ],
+  [
+    "파이썬 머신러닝 강의 06-5 - Scikit-Learn활용 그리드 서치 실습",
+    "Scikit-Learn을 활용한 그리드 서치(Grid Search) 기반 학습 최적화를 해보는 실습강의입니다. 강의자료 다운받기 ..."
+  ],
+  [
+    "Mar25_Lecture_4 SVM KNN AUC Python Implementation",
+    "Support Vector Machines, K-Nearest Neighbor, Area Under Curve Python Implementation."
+  ],
+  [
+    "Optimizing Neural Network Structures with Keras-Tuner",
+    "Tuning and optimizing neural networks with the Keras-Tuner package: https://keras-team.github.io/keras-tuner/ Kite AI ..."
+  ],
+  [
+    "یادگیری ماشین machine learningیادگیری نظارت شده GridSearchCV روشی برای پیدا کردن هایپر پارامترها",
+    "توی این ویدیو درباره اینکه چگونه هایپر پارامتر های خوب پیدا کنیم باهم صحبت می کنیم همون طور که می دونید هایپر پارامتر ها نقش ..."
+  ],
+  [
+    "K Fold Cross validation using scikit learn in Jupyter Notebook",
+    ""
+  ],
+  [
+    "Kevin Goetsch | Deploying Machine Learning using sklearn pipelines",
+    "PyData Chicago 2016 Sklearn pipeline objects provide an framework that simplifies the lifecycle of data science models. This talk ..."
+  ],
+  [
+    "Tuning random forest hyperparameters with tidymodels",
+    "Follow along to see how to tune hyperparameters and then use the final best model, using #TidyTuesday data on trees around ..."
+  ],
+  [
+    "How to Plot 8 Digit Grid Coordinates",
+    "In this video, I'll walk you through how to plot an eight-digit grid coordinate on a topographical map. I'll be using a military map, ..."
+  ],
+  [
+    "Best Practices for Hyperparameter Tuning with MLflowJoseph Bradley Databricks",
+    "Hyperparameter tuning and optimization is a powerful tool in the area of AutoML, for both traditional statistical learning models as ..."
+  ],
+  [
+    "PYTHON SOURCE CODE FOR Bankruptcy Prediction Using Python",
+    "PYTHON SOURCE CODE FOR Bankruptcy Prediction Using Python Download source code @ WWW.MICANSINFOTECH."
+  ],
+  [
+    "Introduction to Data Science with R - Cross Validation",
+    "Part 5 in a in-depth hands-on tutorial introducing the viewer to Data Science with R programming. The video provides end-to-end ..."
+  ],
+  [
+    "Multi-Class Classification With XGBoost Classifier using Python in Machine Learning - Multi-Label",
+    "Itronix Solutions Free Certified Courses: https://bit.ly/31nzuHa ▻Machine Learning & AI Certification: https://bit.ly/3lVJErZ ▻Join ..."
+  ],
+  [
+    "Machine Learning Part 2 | SciPy 2016 Tutorial | Andreas Mueller &amp; Sebastian Raschka",
+    "Materials to follow along with the tutorial are available at: https://github.com/amueller/scipy-2016-sklearn This tutorial aims to ..."
+  ],
+  [
+    "CURRICULUM: Full Stack Data Scientist A-Z™ BootCamp",
+    "NEW COURSE!! Full Stack Data Scientist A-Z™ BootCamp: https://bit.ly/the-full-stack-data-scientist The long awaiting Data ..."
+  ],
+  [
+    "Что такое GridSearch и кросс-валидация. Интенсив по Python, нейросетям и биткоину",
+    "Распродажа программ с гарантией трудоустройства. Получи доступ к самым мощным программам с огромной скидкой ..."
+  ],
+  [
+    "Hatem Jasim",
+    ""
+  ],
+  [
+    "RESEARCH PAPER DOWNLOAD USING SCI-HUB.",
+    "RESEARCH PAPER DOWNLOAD USING SCI-HUB. Sci-Hub is a shadow library website that provides free access to millions of ..."
+  ],
+  [
+    "Hyperparameter Tuning with Amazon SageMaker&#39;s Automatic Model Tuning - AWS Online Tech Talks",
+    "Learn how to use Automatic Model Tuning with Amazon SageMaker to get the best machine learning model for your dataset."
+  ],
+  [
+    "Multilayer Perceptrons - Tuning the Network Size",
+    ""
+  ],
+  [
+    "How To Train Deep Learning Models In Google Colab- Must For Everyone",
+    "Download the dataset and upload in google drive before the session starts https://www.kaggle.com/noulam/tomato github: ..."
+  ],
+  [
+    "Object Detection using Open CV and Deep Learning by Dr D Doreen Robin | 26-06-2020 @ 6 pm",
+    "FDP on Computer Vision using Deep Learning Organised by Department of Information Technology Panimalar Engineering ..."
+  ],
+  [
+    "Что такое GridSearch и кросс-валидация? Интенсив по Data Science",
+    "Распродажа программ с гарантией трудоустройства. Получи доступ к самым мощным программам с огромной скидкой ..."
+  ],
+  [
+    "Hyperparameter Tuning in Practice (C2W3L03)",
+    "Take the Deep Learning Specialization: http://bit.ly/2VF2f00 Check out all our courses: https://www.deeplearning.ai Subscribe to ..."
+  ],
+  [
+    "Lecture 19A: Line search methods for unconstrained optimization",
+    "Week 10: Lecture 19A: Line search methods for unconstrained optimization."
+  ],
+  [
+    "Data science tutorial for beginners using python in Tamil - Machine Learning -Part 1- Ep#8",
+    "Introduction to Python for Data Science, Machine Learning, Logistic Regression. Download dataset from here: ..."
+  ],
+  [
+    "Support Vector Machine Menggunakan Google Colab",
+    "Tugas UTS Data Mining Kelompok 03."
+  ],
+  [
+    "Tutorial 27- Ridge and Lasso Regression Indepth Intuition- Data Science",
+    "Please join as a member in my channel to get additional benefits like materials in Data Science, live streaming for Members and ..."
+  ],
+  [
+    "Membuat Model Klasifikasi|Parameter Tuning|Bahasa Python|Library SKlearn|www.nayavadaacademic.com",
+    "owner nayavada academic, dosen bersertifikasi di PTS Lamongan. cek di playlist sesuai kebutuhan, dan disimak dari awal ..."
+  ],
+  [
+    "Add feature selection to a Pipeline",
+    "It's simple to add feature selection to a Pipeline: 1. Use SelectPercentile to keep the highest scoring features 2. Add feature ..."
+  ],
+  [
+    "SKLEARN IMPUTER : NETTOYAGE DE DONNÉES",
+    "Dans ce tutoriel francais de machine learning avec python, je vous présente le module Impute de Sklearn (scikit-learn)."
+  ],
+  [
+    "Support Vector Machine in R | SVM Algorithm Explained with Example | Data Science in R | Simplilearn",
+    "This Support Vector Machine in R tutorial video will help you understand what Support Vector Machines are, and the basics of the ..."
+  ],
+  [
+    "XGBoost Hyperparamters",
+    "In this video, you will learn about hyperparameters in xgboost Other important playlists TensorFlow ..."
+  ],
+  [
+    "Demonstration: Multi class Image Classification with Perceptron",
+    "Multiclass classification, One vs all, confusion matrix, pipeline, learning curve, grid search, weight vector visualization."
+  ],
+  [
+    "CS 320 Apr 24 (Part 1) - Confusion Matrices",
+    ""
+  ],
+  [
+    "Mejora contra Overfitting en XGBoost y Clasificacion Multi Clases Python GridSearch Seleccion RFECV",
+    "Ovefitting? Multiclasificacion? Hiperparametros? tecnicas para mejorar mi modelo? machine learning y XGB?? Gradient Boosting ..."
+  ],
+  [
+    "Ajuste automático de hiperparâmetros de estimadores e sua importância.",
+    "Os hiperparâmetros de estimadores devem ser ajustados automaticamente ou usando uma base de teste que não é acessada ..."
+  ],
+  [
+    "Scikit-Learn Model Pipeline Tutorial",
+    "SUBSCRIBE with NOTIFICATIONS ON if you enjoyed the video! Roadmap to Become a Data Scientist / Machine Learning ..."
+  ],
+  [
+    "Intuitive &amp; Scalable Hyperparameter Tuning with Apache Spark + Fugue",
+    "Hyperparameter tuning is critical in model development. And its general form: parameter tuning with an objective function is also ..."
+  ],
+  [
+    "[6] Hyperparameter Tuning: Cara Melakukan Optimasi Algoritma Decision Tree pada Python 3",
+    "Entah kenapa pengaturan audio saya mengalami kesalahan sehingga suara saya terdengar sangat pelan, namun tetap izinkan ..."
+  ],
+  [
+    "2-8 | Improvement melalui model | Parameter Tuning",
+    "Seri belajar Machine Learning menggunakan Python Dibuat untuk pemula dengan bahasa Indonesia Course 1: ..."
+  ],
+  [
+    "Performance Metrics and Evaluation",
+    ""
+  ],
+  [
+    "Hyperparameter Tuning and Visualization in Deep Learning - Lukas Biewald, Weights &amp; Biases",
+    "Hyperparameter Tuning and Visualization in Deep Learning - Lukas Biewald, Weights & Biases Deep learning models are ..."
+  ],
+  [
+    "Otimização de hiperparâmetros: tunando seus modelos de Machine Learning",
+    "Pimp my model!! Como não sabemos nada de mecânica, o jeito é tunar o seu modelo! Otimizar os hiperparâmetros de modelos ..."
+  ],
+  [
+    "Automatic Machine Learning? | SciPy 2016 | Andreas Mueller",
+    "Recent years have seen a widespread adoption of machine learning in industry and academia, impacting diverse areas from ..."
+  ],
+  [
+    "Searching in paging enabled Asp.Net (C#) GridView control",
+    "Example Searching in paging enabled Asp.Net GridView control This Example By Ameer Sameer Hamood Ok Now Lets go ."
+  ],
+  [
+    "[Penting ! ] Implementasi Menangani Model Overfitting dengan tuning hyper parameter Part3",
+    "Pada tutorial kali ini part3, saya akan melanjutkan video sebelumnya tentang cara menangani model yang overfitting atau ..."
+  ],
+  [
+    "Stacked Ensembles in H2O &amp; Deep Water - Accessible Deep Learning",
+    "Talk #1: Ensemble machine learning methods are often used when the true prediction function is not easily approximated by a ..."
+  ],
+  [
+    "Tutorial 27- Create CNN Model and Optimize using Keras Tuner- Deep Learning",
+    "Please join as a member in my channel to get additional benefits like materials in Data Science, live streaming for Members and ..."
+  ],
+  [
+    "The Hitchhiker Guide to Hyperparameter Optimization",
+    "Long before machine learning ventured outside of academia, hyperparameters had a different name. “Magic Numbers”."
+  ],
+  [
+    "Decision Tree Hyperparameters  : max_depth, min_samples_split, min_samples_leaf, max_features",
+    "In this video we will explore the most important hyper-parameters of Decision tree model and how they impact our model in term of ..."
+  ],
+  [
+    "Keras Tuner Hyperparameter Tuning-How To Select Hidden Layers And Number of Hidden Neurons In ANN",
+    "In this video we will understand how we can use keras tuner to select hidden layers and number of neurons in ANN. github: ..."
+  ],
+  [
+    "StatQuest: Random Forests Part 1 - Building, Using and Evaluating",
+    "Random Forests make a simple, yet effective, machine learning method. They are made out of decision trees, but don't have the ..."
+  ],
+  [
+    "Bosques Aleatorios - Random Forest. Cómo funcionan y código en Python",
+    "En Machine Learning uno de los métodos más robustos utilizados para clasificación y regresión es el de Bosques Aleatorios o ..."
+  ],
+  [
+    "Decision Trees - Hyperparameters | Overfitting and Underfitting in Decision Trees",
+    "Visualization Tool used: https://dt-visualise.herokuapp.com/ About CampusX: CampusX is an online mentorship program for ..."
+  ],
+  [
+    "2023 aa Programming Languages Nerchukovali? | which programming languages can i learn in 2023",
+    "Click Here for Python Course in Telugu https://pythonlife.in/python-course-in-telugu.html GitHub link: ..."
+  ],
+  [
+    "Kurz strojového učenia | Lekcia 15 | Grid Search",
+    "Zdrojový kód k lekcií: https://github.com/misohu/kurz-strojoveho-ucenia/blob/main/010_hyperparameter_tunning.ipynb Dataset ..."
+  ],
+  [
+    "Machine Learning Tutorial Python - 17: L1 and L2 Regularization | Lasso, Ridge Regression",
+    "In this python machine learning tutorial for beginners we will look into, 1) What is overfitting, underfitting 2) How to address ..."
+  ],
+  [
+    "Chemical Reactions and Equations - ep01 - BKP | Class 10 Science Chapter 1 explanation in Hindi",
+    "Hey guys I think igdi bigdi buu boo. Chemical Reactions and Equations Chemical Reactions and Equations in hindi Chemical ..."
+  ],
+  [
+    "How to choose number of hidden layers and nodes in Neural Network",
+    "In this video we will understand how we can perform hyperparameter optimization on an Artificial Neural Network. Data Science ..."
+  ],
+  [
+    "Creating Pipelines Using SKlearn- Machine Learning Tutorial",
+    "github url :https://github.com/krishnaik06/Pipelines-Using-Sklearn Please join as a member in my channel to get additional ..."
+  ],
+  [
+    "Hyperparameter Tuning Techniques Genetic Algorithms And Optuna Data Science Machine Learning- Part 2",
+    "github link: https://github.com/krishnaik06/All-Hyperparamter-Optimization Please donate if you want to support the channel ..."
+  ],
+  [
+    "Random Forest Hyper-parameters",
+    "Official Documentation: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html Video on ..."
+  ],
+  [
+    "Նախագահ Վահագն Խաչատուրյանն ընդունել է Վրաստանի խորհրդարանի նախագահի գլխավորած պատվիրակությանը",
+    "Հանրապետության նախագահ Վահագն Խաչատուրյանն ընդունել է Վրաստանի ..."
+  ],
+  [
+    "Class Weights for Handling Imbalanced Datasets",
+    "In scikit-learn, a lot of classifiers comes with a built-in method of handling imbalanced classes. If we have highly imbalanced ..."
+  ],
+  [
+    "Machine Learning Tutorial Python - 10  Support Vector Machine (SVM)",
+    "Support vector machine (SVM) is a popular classification algorithm. This tutorial covers some theory first and then goes over ..."
+  ],
+  [
+    "Scoring in Gridsearch CV",
+    "Become part of the top 3% of the developers by applying to Toptal https://topt.al/25cXVn -- Track title: CC M Beethoven - Piano ..."
+  ],
+  [
+    "AdaBoost Regression with Python",
+    "AdaBoost Regression with Python more content at https://educationalresearchtechniques.com/"
+  ],
+  [
+    "🧹 Tune Hyperparameters Easily with W&amp;B Sweeps",
+    "In this video, Weights & Biases Deep Learning Educator Charles Frye demonstrates how to instrument an ML pipeline with ..."
+  ],
+  [
+    "CatBoost Vs XGBoost Vs LightGBM | Catboost Vs XGBoost | Lightgbm vs XGBoost vs CatBoost",
+    "CatBoost Vs XGBoost Vs LightGBM | Catboost Vs XGBoost | Lightgbm vs XGBoost vs CatBoost #CatBoostVsXGBoost ..."
+  ],
+  [
+    "Gridview - Find controls in Grid Part-1 | Asp.net Tutorial with C#.net (हिन्दी)",
+    "Find controls in Grid Part-1 | Asp.net Tutorial with C# Tutorial in Hindi. यह ट्यूटोरियल हिन्दी भाषा मे ..."
+  ],
+  [
+    "R/Pharma 2020 Day 1.  Max Kuhn.  Stack&#39;Em High! Ensembles Using tidymodels",
+    "R/Pharma 2020 Day 1 Max Kuhn (RStudio) Stack'Em High! Ensembles Using tidymodels."
+  ],
+  [
+    "Hyperparameter Tuning Techniques - lecture 50/ machine learning",
+    "Hyper parameters tuning techniques."
+  ],
+  [
+    "Ridge Regression with Python",
+    "Ridge Regression with Python more content at https://educationalresearchtechniques.com/"
+  ],
+  [
+    "Parameters vs Hyperparameters (C1W4L07)",
+    "Take the Deep Learning Specialization: http://bit.ly/3cn54J7 Check out all our courses: https://www.deeplearning.ai Subscribe to ..."
+  ],
+  [
+    "How to use RandomizedSearchCV in Deep Leaning using Keras",
+    "keras #deeplearning #tensorflow In this Applied Machine Learning & Data Science Recipe (Jupyter Notebook), the reader will find ..."
+  ],
+  [
+    "Parameters vs hyperparameters in machine learning",
+    "In this short video we will discuss the difference between parameters vs hyperparameters in machine learning. Parameters is ..."
+  ],
+  [
+    "XGBoost: How it works, with an example.",
+    "In this excerpt, we cover perhaps the most powerful machine learning algorithm today: XGBoost (eXtreme Gradient Boosted trees) ..."
+  ],
+  [
+    "Hyperparameter tuning using tidymodels",
+    "Learn how to tune hyperparameters for a random forest model, using #TidyTuesday data on food consumption around the world."
+  ],
+  [
+    "K Nearest Neighbors Part 9 - Hyper-parameters",
+    "In this video, we will learn the various hyperparameters that are present for the KNN algorithm in the Sklearn library About ..."
+  ],
+  [
+    "184 - Scheduling learning rate in keras",
+    "Code generated in the video can be downloaded from here: https://github.com/bnsreenu/python_for_microscopists."
+  ],
+  [
+    "Machine Learning - Ridge, Lasso - Optimisation des hyperparamètres",
+    "Modélisation (apprentissage) et évaluation (test) des classifieurs. Stratégie pour l'optimisation des hyperparamètres dans un ..."
+  ],
+  [
+    "CSS Grid Project | Create Website Layout Only Using CSS GRID in Hindi",
+    "Welcome, all we will see How to Create Complete Website Layout Only Using CSS GRID in Hindi. DONATION FOR SUPPORT: ..."
+  ],
+  [
+    "Use FunctionTransformer to convert functions into transformers",
+    "Want to do feature engineering within a ColumnTransformer or Pipeline? 1. Select an existing function (or write your own) 2."
+  ],
+  [
+    "How To Train Machine Learning Model Using  CPU Multi Cores",
+    "github: https://github.com/krishnaik06/CPU-Multi-Cores In this video we will see how we can train ML models using CPU ..."
+  ],
+  [
+    "Time Series Model Selection (AIC &amp; BIC) : Time Series Talk",
+    "How do we pick between several possible time series models? Code used in this video: ..."
+  ],
+  [
+    "למידת מכונה Mnist with SVM חלק ב (הכנה של בסיסי הנתונים לעבודה)",
+    "לינק לבלוג שלי: http://blog.csit.org.il/MyBlog.aspx?BlogID=46."
+  ],
+  [
+    "My top 25 pandas tricks",
+    "You're about to learn 25 tricks that will help you to work faster, write better pandas code, and impress your friends. These are the ..."
+  ],
+  [
+    "Bayesian Optimization (Bayes Opt): Easy explanation of popular hyperparameter tuning method",
+    "Bayesian Optimization is one of the most popular approaches to tune hyperparameters in machine learning. Still, it can be applied ..."
+  ],
+  [
+    "SVM Parameters - Practical Machine Learning Tutorial with Python p.33",
+    "In this concluding Support Vector Machine (SVM) tutorial, we cover one last topic, which is how to separate more than 2 classes ..."
+  ],
+  [
+    "Machine Learning Script for Beginners in 3 Lines",
+    "Simple way to write ML Script in 3 Lines for Beginners. Don't Miss it!! To speak with our Mentor Mr Kanth, Message him on ..."
+  ],
+  [
+    "Hypertuning Parameters XGBoost - Google Colab - DIY-9",
+    "Hypertuning Parameters XGBoost - Google Colab - DIY-9 What is XGBoost? - DIY-8 Can XGBoost be used on Google Colab?"
+  ],
+  [
+    "MARS (Multivariate Adaptive Regression Splines): Overview and Tutorial in R (earth + caret packages)",
+    "In this video, we go over a brief introduction to Multivariate Adaptive Regression Splines (MARS). Then, we use MARS to predict a ..."
+  ],
+  [
+    "Hyperparameter Tuning with R | Deep Learning and Artificial Intelligence Applications",
+    "Provides steps for hyperparameter tuning when developing deep learning models. R files: ..."
+  ],
+  [
+    "STAT 115 Screencast: LASSO regression in R",
+    "Using the glmnet package to perform a logistic regression."
+  ],
+  [
+    "Let’s Write a Pipeline - Machine Learning Recipes #4",
+    "In this episode, we'll write a basic pipeline for supervised learning with just 12 lines of code. Along the way, we'll talk about ..."
+  ],
+  [
+    "RANDOM SEARCH Algorithm : Step by Step with Example",
+    "Random Search Step by step Algorithm and Example ARTIFICIAL INTELLEGINCE Random Search Example with full details."
+  ],
+  [
+    "SKLearn 14 | Support Vector Machine Classification | SVM | Belajar Machine Learning Dasar",
+    "Salam Indonesia Belajar!!! Classification dengan Support Vector Machine atau biasa disingkat sebagai SVM. Video ini adalah ..."
+  ]
+]

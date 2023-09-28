@@ -1,0 +1,2202 @@
+[
+  [
+    "What are Tensors | Tensor In-depth Explanation | Tensor in Machine Learning",
+    "What are Tensors | Tensor In-depth Explanation | Tensor in Machine Learning Hi, my name is Nitish Singh and you are welcome ..."
+  ],
+  [
+    "Tensors for Neural Networks, Clearly Explained!!!",
+    "Tensors are super important for neural networks, but can be confusing because different people use the word \"Tensor\" differently."
+  ],
+  [
+    "Tensors — Topic 3 of Machine Learning Foundations",
+    "In this video from my Machine Learning Foundations series, I describe tensors, the fundamental building block of linear algebra ..."
+  ],
+  [
+    "What is Tensor in Deep learning",
+    "Explain what is tensor in deep learning with NLP (natural language processing), image, video example."
+  ],
+  [
+    "TensorFlow In 10 Minutes | TensorFlow Tutorial For Beginners | Deep Learning &amp; TensorFlow | Edureka",
+    "AI and Deep-Learning with TensorFlow (Use Code \"YOUTUBE20\"): ..."
+  ],
+  [
+    "Tensors Explained - Data Structures of Deep Learning",
+    "Part 1: Introducing tensors for deep learning and neural network programming. Jeremy's Ted talk: ..."
+  ],
+  [
+    "L4.1 Tensors in Deep Learning",
+    "What is a Tensor? In this lecture, we will go over the concept of a tensor and discuss scalars, vectors, matrices, and higher-rank ..."
+  ],
+  [
+    "TensorFlow in 100 Seconds",
+    "TensorFlow is a tool for machine learning capable of building deep neural networks with high-level Python code. It provides ..."
+  ],
+  [
+    "TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial",
+    "Learn how to use TensorFlow 2.0 in this full tutorial course for beginners. This course is designed for Python programmers looking ..."
+  ],
+  [
+    "Deep Learning With Tensorflow 2.0, Keras and Python",
+    "This playlist is a complete course on deep learning designed for beginners. All you need to know is a bit about python, pandas, ..."
+  ],
+  [
+    "July 2019 - Practical Machine Learning with Tensorflow",
+    ""
+  ],
+  [
+    "Intro to Machine Learning (ML Zero to Hero - Part 1)",
+    "Machine Learning represents a new paradigm in programming, where instead of programming explicit rules in a language such ..."
+  ],
+  [
+    "Learn TensorFlow and Deep Learning fundamentals with Python (code-first introduction) Part 1/2",
+    "Ready to learn the fundamentals of TensorFlow and deep learning with Python? Well, you've come to the right place. After this ..."
+  ],
+  [
+    "Vector, Matrix, Tensor | Math of Machine Learning",
+    "0:00 — Intro 0:23 — Why linear algebra 1:59 — Scalars, Vectors 3:15 — Operations with scalars and vectors 3:45 — Vector ..."
+  ],
+  [
+    "TensorFlow: Open source machine learning",
+    "TensorFlow is an open source software library for numerical computation using data flow graphs. Originally developed by ..."
+  ],
+  [
+    "What is a Tensor in Deep Learning?",
+    "The term \"tensor\" is often misunderstood. Let's figure out what they are through vector examples like velocity, angular momentum, ..."
+  ],
+  [
+    "Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial",
+    "This course will give you an introduction to machine learning concepts and neural network implementation using Python and ..."
+  ],
+  [
+    "tensor (hindi)",
+    "tensor in hindi tensors introduction to tensors what is tensor? tensor analysis tensor physical significance tensors in hindi physical ..."
+  ],
+  [
+    "Tensor Processing Units: History and hardware",
+    "In this episode of AI Adventures, Yufeng Guo goes through the logistics and history of TPU's (Tensor Processing Units) and how ..."
+  ],
+  [
+    "Why Linear Algebra ? Scalars, Vectors, Tensors",
+    "Why Linear Algebra? Scalars, Vectors, Tensors Lecture - 03."
+  ],
+  [
+    "Miles Stoudenmire: &quot;Tensor Networks for Machine Learning and Applications&quot;",
+    "Tensor Methods and Emerging Applications to the Physical and Data Sciences 2021 Workshop I: Tensor Methods and their ..."
+  ],
+  [
+    "Create Constant Tensor using TensorFlow 2.0 Python Tutorial | Deep Learning | Machine Learning",
+    "In TensorFlow 2.0 Python Tutorial in Hindi, We will Learn about TensorFlow Programming element to build Constant Tensor using ..."
+  ],
+  [
+    "Powered by TensorFlow: Helping doctors detect respiratory diseases using machine learning",
+    "Machine learning is helping to solve challenging, real-world problems around the world. See how Tambua Health ..."
+  ],
+  [
+    "Machine Learning demo using Tensor Flow",
+    "I challenged myself to build a video detection program for some of my toy cars. I increased the challenge by only using red cars ..."
+  ],
+  [
+    "Photonic Tensor Cores for Machine Learning",
+    "Paper: https://aip.scitation.org/doi/10.1063/5.0001942 PR The Independent: ..."
+  ],
+  [
+    "Multi-Dimensional Data (as used in Tensors) - Computerphile",
+    "How do computers represent multi-dimensional data? Dr Mike Pound explains the mapping."
+  ],
+  [
+    "Flatten, Reshape, and Squeeze Explained - Tensors for Deep Learning with PyTorch",
+    "Tensors for neural network programming and deep learning with PyTorch. A deeper look into the tensor reshaping options like ..."
+  ],
+  [
+    "Matrix Basics | Deep Learning Tutorial 10 (Tensorflow Tutorial, Keras &amp; Python)",
+    "Matrix fundamentals are essential to understand how deep learning works. In this video we will go over what is matrix, matrix ..."
+  ],
+  [
+    "Tensors for Deep Learning - Broadcasting and Element-wise Operations with PyTorch",
+    "Learn about tensor broadcasting for artificial neural network programming and element-wise operations using Python, PyTorch, ..."
+  ],
+  [
+    "TensorFlow: Machine Learning for Everyone",
+    "The TensorFlow community is thriving. We're thrilled to see the adoption and the pace of machine learning development by ..."
+  ],
+  [
+    "Powered by TensorFlow: Air Cognizer predicts air quality with machine learning",
+    "Machine Learning is helping to solve challenging, real-world problems around the world. Poor air quality is a major obstacle that ..."
+  ],
+  [
+    "M1 Max VS RTX3070 (Tensorflow Performance Tests)",
+    "ML with Tensorflow battle on M1 MacBook Air, M1 MacBook Pro, and M1 Max MacBook Pro. Get TG Pro: ..."
+  ],
+  [
+    "Machine learning with tensor flow_Feedback_Avadi",
+    ""
+  ],
+  [
+    "What Is Quantum Machine Learning? |  TensorFlow Quantum",
+    "Getting back into the AI 101 videos this month, with quantum machine learning! We'll be talking about what exactly quantum ..."
+  ],
+  [
+    "Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial",
+    "This course will teach you how to use Keras, a neural network API written in Python and integrated with TensorFlow. We will learn ..."
+  ],
+  [
+    "Code for Deep Learning - ArgMax and Reduction Tensor Ops",
+    "Learn about tensor reduction operations and the ArgMax operation for artificial neural network programming and deep learning ..."
+  ],
+  [
+    "Keras vs TensorFlow vs Pytorch | Deep Learning Frameworks Comparison 2021 | Simplilearn",
+    "With the Deep Learning scene being dominated by three main frameworks, it is very easy to get confused on which one to use?"
+  ],
+  [
+    "Tensorboard Introduction | Deep Learning Tutorial 16 (Tensorflow2.0, Keras &amp; Python)",
+    "Often it becomes necessary to see what's going on inside your neural network. Tensorboard is a tool that comes with tensorflow ..."
+  ],
+  [
+    "Build a machine learning node for Node-RED using TensorFlow.js",
+    "This is the third video in our four-part \"AI in Node.js\" learning path series. Check out the full tutorial here: https://ibm.biz/BdqaPu In ..."
+  ],
+  [
+    "TensorFlow.js Quick Start",
+    "Get started with TensorFlow.js by building a digit recognizer from scratch in this quick start tutorial ..."
+  ],
+  [
+    "What is BERT? | Deep Learning Tutorial 46 (Tensorflow, Keras &amp; Python)",
+    "What is BERT (Bidirectional Encoder Representations From Transformers) and how it is used to solve NLP tasks? This video ..."
+  ],
+  [
+    "Keras vs Tensorflow | Deep Learning Frameworks Comparison | Intellipaat",
+    "Intellipaat Artificial Intelligence Master's Course: https://intellipaat.com/artificial-intelligence-masters-training-course/ In this video ..."
+  ],
+  [
+    "Prepare your dataset for machine learning (Coding TensorFlow)",
+    "Interested in learning how to use JavaScript in the browser? In the last episode of Coding TensorFlow, we showed you a very ..."
+  ],
+  [
+    "Machine Learning with R and TensorFlow",
+    "J.J. Allaire's keynote at rstudio::conf 2018 on the R interface to TensorFlow (https://tensorflow.rstudio.com), a suite of packages ..."
+  ],
+  [
+    "OSDI &#39;20 - Ansor: Generating High-Performance Tensor Programs for Deep Learning",
+    "Ansor: Generating High-Performance Tensor Programs for Deep Learning Lianmin Zheng, UC Berkeley; Chengfan Jia, Minmin ..."
+  ],
+  [
+    "Creating PyTorch Tensors for Deep Learning - Best Options",
+    "Neural network programming and deep learning with PyTorch. A deeper look into the tensor creation options. Ted talk: ..."
+  ],
+  [
+    "TensorFlow 2.0 Tutorial For Beginners | TensorFlow Demo | Deep Learning &amp; TensorFlow | Simplilearn",
+    "Enroll for FREE Artificial Intelligence Course & Get your Completion Certificate: ..."
+  ],
+  [
+    "OSDI &#39;22 - ROLLER: Fast and Efficient Tensor Compilation for Deep Learning",
+    "OSDI '22 - ROLLER: Fast and Efficient Tensor Compilation for Deep Learning Hongyu Zhu, University of Toronto and Microsoft ..."
+  ],
+  [
+    "NVidia TensorRT: high-performance deep learning inference accelerator (TensorFlow Meets)",
+    "In this episode of TensorFlow Meets, we are joined by Chris Gottbrath from NVidia and X.Q. from the Google Brain team to talk ..."
+  ],
+  [
+    "134 - What are Optimizers in deep learning? (Keras &amp; TensorFlow)",
+    ""
+  ],
+  [
+    "Marianne Hoogeveen: The physics of deep learning using tensor networks | PyData New York City 2019",
+    "Tensor networks have been used in Physics to find efficient expressions of many-body quantum systems, describing systems from ..."
+  ],
+  [
+    "&quot;Efficient Machine Learning with Tensor Networks&quot; Prof. Qibin Zhao - EPFL CIS RIKEN AIP",
+    "RIKEN Center for Advanced Intelligence Project (AIP) which houses more than 40 research teams ranging from fundamentals of ..."
+  ],
+  [
+    "Suyash Joshi   Deep Learning Tensor Flow, DJLfor Enterprise Java Developers",
+    "https://developer.oracle.com/"
+  ],
+  [
+    "My First Machine Learning Project (Tensorflow Deep-Learning)",
+    "This is my very first machine-learning project in python using tensorflow. It utilizes a deep learning neural network and is trained ..."
+  ],
+  [
+    "Learn PyTorch for deep learning in a day. Literally.",
+    "Welcome to the most beginner-friendly place on the internet to learn PyTorch for deep learning. All code on GitHub ..."
+  ],
+  [
+    "Tensorflow and deep learning - without a PhD by Martin Görner",
+    "Please subscribe to our YouTube channel @ https://bit.ly/devoxx-youtube Like us on Facebook ..."
+  ],
+  [
+    "Rank, Axes, and Shape Explained - Tensors for Deep Learning",
+    "Part 2: Introducing tensors for deep learning and neural network programming. fast.ai: http://www.fast.ai/ VIDEO SECTIONS ..."
+  ],
+  [
+    "Intro to TinyML Part 1: Training a Neural Network for Arduino in TensorFlow | Digi-Key Electronics",
+    "In this tutorial series, Shawn introduces the concept of Tiny Machine Learning (TinyML), which consists of running machine ..."
+  ],
+  [
+    "What is a neuron? | Deep Learning Tutorial 3 (Tensorflow Tutorial, Keras &amp; Python)",
+    "In this video, we will see how you can think of a logistic regression as a neuron. We will use insurance dataset as a sample and ..."
+  ],
+  [
+    "Real-Time Machine Learning with Tensor Flow, Kafka and MemSQL - Bryan Offut (MemSQL)",
+    "Subscribe to O'Reilly on YouTube: http://goo.gl/n3QSYi Follow O'Reilly on: Twitter: http://twitter.com/oreillymedia Facebook: ..."
+  ],
+  [
+    "Probabilistic Machine Learning in TensorFlow",
+    "In this episode of Coffee with a Googler, Laurence Moroney sits down with Josh Dillon. Josh works on TensorFlow, Google's open ..."
+  ],
+  [
+    "The Hitchhiker&#39;s Guide to Tensorflow - Introduction to Machine Learning and Tensorflow",
+    "Tensorflow is one of the most popular Open Source projects on Github and definitely, the one most popular Machine Learning ..."
+  ],
+  [
+    "Deep Learning: How tensor dot product works",
+    "In this video I talked about how tensor dot product works."
+  ],
+  [
+    "Gradual tensor typing for practical machine learning in Haskell with Hasktorch",
+    "Abstract from Torsten: Hasktorch is a library for neural networks and tensor math in Haskell. It is leveraging the C++ backend of ..."
+  ],
+  [
+    "TensorFlow Tutorial 02 - Tensor Basics - Beginner Course",
+    "New Tutorial series about TensorFlow 2! Learn all the basics you need to get started with this deep learning framework! Part 02: ..."
+  ],
+  [
+    "134 - What are Optimizers in deep learning? (Keras &amp; TensorFlow)",
+    ""
+  ],
+  [
+    "Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras p.3",
+    "Welcome to a tutorial where we'll be discussing Convolutional Neural Networks (Convnets and CNNs), using one to classify dogs ..."
+  ],
+  [
+    "Tensorflow Object Detection in 5 Hours with Python | Full Course with 3 Projects",
+    "Want to get up to speed on AI powered Object Detection but not sure where to start? Want to start building your own deep learning ..."
+  ],
+  [
+    "TensorFlow: an ML platform for solving impactful and challenging problems",
+    "Machine learning is solving challenging problems that impact everyone around the world. See how researchers at PlantVillage ..."
+  ],
+  [
+    "Deep Learning Live - 3 | TensorFlow Tutorial | Deep Learning Using TensorFlow Training | Edureka",
+    "Edureka TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka TensorFlow Tutorial video ..."
+  ],
+  [
+    "Basic Tensor Arithmetic (The Hadamard Product) — Topic 12 of Machine Learning Foundations",
+    "In this video from my Machine Learning Foundations series, I demonstrate basic tensor arithmetic (including the Hadamard ..."
+  ],
+  [
+    "Create Sparse Tensor using TensorFlow 2.0 Python Tutorial | Deep Learning | Machine Learning",
+    "In TensorFlow 2.0 Python Tutorial in Hindi, We will Learn about the TensorFlow Programming element to build TensorFlow ..."
+  ],
+  [
+    "Tensor Transposition — Topic 11 of Machine Learning Foundations",
+    "In this video from my Machine Learning Foundations series, I introduce the theory of tensor transposition, and we carry out ..."
+  ],
+  [
+    "Rock Paper Scissors - Machine Learning Style using Tensor Flow",
+    "I was just experimenting today with gesture recognition vs generic object recognition using TensorFlow. Naturally a great game to ..."
+  ],
+  [
+    "How to use your trained model - Deep Learning basics with Python, TensorFlow and Keras p.6",
+    "In this part, we're going to cover how to actually use your model. We will us our cats vs dogs neural network that we've been ..."
+  ],
+  [
+    "Deep Learning with Tensorflow - Convolutional Network with TensorFlow",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "Scalar | Vector | Matrix | Tensor | Linear Algebra |  Machine Learning Math tutorial",
+    "An tensor is an array of data (numbers, functions, etc.) which is expanded in any number (0 and greater) of dimensions."
+  ],
+  [
+    "Train an Image Classifier with TensorFlow for Poets - Machine Learning Recipes #6",
+    "Monet or Picasso? In this episode, we'll train our own image classifier, using TensorFlow for Poets. Along the way, I'll introduce ..."
+  ],
+  [
+    "Is Microsoft Hummingbird Machine Learning Tensor Computation Really Fast?",
+    "machinelearning #hummingbird #tensor #xgboost Hummingbird is a library for compiling trained traditional ML models into tensor ..."
+  ],
+  [
+    "Jean Kossaifi: &quot;Efficient Tensor Representation for Deep Learning with TensorLy and PyTorch&quot;",
+    "Tensor Methods and Emerging Applications to the Physical and Data Sciences 2021 Workshop IV: Efficient Tensor ..."
+  ],
+  [
+    "TensorFlow 2.0 Tutorial - Full Course | TensorFlow Tutorial | Deep Learning | Great Learning",
+    "1000+ Free Courses With Free Certificates: ..."
+  ],
+  [
+    "52 - Input Shape of Tensor in Neural Network for PyTorch | Deep Learning | Machine Lerning",
+    "Also Checkout my 2nd Channel ( on Trading, Crypto & Investments ) ..."
+  ],
+  [
+    "Anima Anandkumar (UCI): Tensor Methods for Large-Scale Machine Learning",
+    "Anima Anandkumar (UCI): Tensor Methods for Large-Scale Machine Learning May 20, 2016."
+  ],
+  [
+    "Deep Learning with Python, TensorFlow, and Keras tutorial",
+    "An updated deep learning introduction using Python, TensorFlow, and Keras. Text-tutorial and notes: ..."
+  ],
+  [
+    "Deep Learning with TensorFlow - Introduction to TensorFlow",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "Stack vs Concat in PyTorch, TensorFlow &amp; NumPy - Deep Learning Tensor Ops",
+    "Welcome to this neural network programming series. In this episode, we will dissect the difference between concatenating and ..."
+  ],
+  [
+    "How to Build a Neural Network with TensorFlow and Keras in 10 Minutes",
+    "This is a short tutorial on How to build a Neural Network in Python with TensorFlow and Keras in just about 10 minutes Full ..."
+  ],
+  [
+    "Miles Stoudenmire: Introduction to Tensor Networks for Machine Learning.",
+    "Miles Stoudenmire (Flatiron Institute) Talk given at CMAC2020 ..."
+  ],
+  [
+    "Image classification using CNN (CIFAR10 dataset) | Deep Learning Tutorial 24 (Tensorflow &amp; Python)",
+    "In this video we will do small image classification using CIFAR10 dataset in tensorflow. We will use convolutional neural network ..."
+  ],
+  [
+    "49 - PyTorch Tensor vs Numpy array &amp; detach-method of PyTorch | Deep Learning | Neural Network",
+    "Also Checkout my 2nd Channel ( on Trading, Crypto & Investments ) ..."
+  ],
+  [
+    "Deep Learning with Tensorflow - Recommendation System with a Restrictive Boltzmann Machine",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "How To Run TensorFlow Lite on Raspberry Pi for Object Detection",
+    "TensorFlow Lite is a framework for running lightweight machine learning models, and it's perfect for low-power devices like the ..."
+  ],
+  [
+    "Tensor Flow and Machine Learning",
+    "Event: IEEE AcSIR CSIO Virtual Talks Speaker: Mr Jason Mayes Topic: Tensor Flow.js."
+  ],
+  [
+    "Simple Explanation of GRU (Gated Recurrent Units) | Deep Learning Tutorial 37 (Tensorflow &amp; Python)",
+    "Simple Explanation of GRU (Gated Recurrent Units): Similar to LSTM, Gated recurrent unit addresses short term memory problem ..."
+  ],
+  [
+    "Tensor network-based machine learning of non-Markovian quantum processes",
+    "CQT Online Talks - Series: Quantum Machine Learning Journal Club Talks Speakers: Dario Poletti, SUTD Abstract: We show how ..."
+  ],
+  [
+    "OSDI &#39;22 - SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute",
+    "OSDI '22 - SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute Ningxin Zheng, Microsoft Research; Bin Lin, ..."
+  ],
+  [
+    "Python Tensor Flow Tutorial - Predicting Numbers",
+    "Check out http://ConsultingJoe.com for more."
+  ],
+  [
+    "How to Make Money with Tensorflow",
+    "Tensorflow is a popular open source machine learning library released by Google that allows developers to build ML models ..."
+  ],
+  [
+    "Photonic tensor cores for machine learning",
+    "https://bit.ly/3muwX7H Read this article in Applied Physics Reviews by Mario Miscuglio and Volker J. Sorger. Machine learning ..."
+  ],
+  [
+    "Tutorial 05:  Tensor Basics In PyTorch in Urdu/Hindi | Deep Learning | Python",
+    "This Tutorial covers the basics of Tensors and Tensor operations in PyTorch. Learn how to find Size , Type , Dimension of tensor."
+  ],
+  [
+    "Deep Learning : Discussion on &quot;Reshape&quot; tensor operation",
+    "In this video I talked about reshape tensor operation."
+  ],
+  [
+    "Does a Deep Learning Laptop Exist? - Tensorbook Review",
+    "Reviewing Lambda and Razer's Tensorbook, a laptop aimed at deep learning, with 16GB of VRAM (GPU memory), 64GB of RAM, ..."
+  ],
+  [
+    "Generic Tensor Notation — Topic 9 of Machine Learning Foundations",
+    "This video wraps up the content of the first segment (\"Data Structures for Linear Algebra\") of the first subject (\"Intro to Linear ..."
+  ],
+  [
+    "FOSDEM 2017 - Tensor Processing and Machine Learning for Signal Processing.mp4",
+    ""
+  ],
+  [
+    "Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4",
+    "Welcome to part 4 of the deep learning basics with Python, TensorFlow, and Keras tutorial series. In this part, what we're going to ..."
+  ],
+  [
+    "Practical Machine Learning with Tensorflow - Course Introduction",
+    "By Prof. Ashish Tendulkar and Prof. Balaraman Ravindran | Google and IIT Madras This will be an applied Machine Learning ..."
+  ],
+  [
+    "Tensor, Tensor Networks, Quantum Tensor Networks in Machine Learning: An Hourglass Architecture.",
+    "X.-Y. Liu, Q. Zhao, J. Biamonte, A. Walid. Tensor, Tensor Networks, Quantum Tensor Networks in Machine Learning: An ..."
+  ],
+  [
+    "Wide &amp; Deep Learning with TensorFlow - Machine Learning",
+    "Wide & Deep Learning (https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html) combines the ..."
+  ],
+  [
+    "Loss or Cost Function | Deep Learning Tutorial 11 (Tensorflow Tutorial, Keras &amp; Python)",
+    "Loss or a cost function is an important concept we need to understand if you want to grasp how a neural network trains itself."
+  ],
+  [
+    "DEEP LEARNING WITH TENSORFLOW TUTORIAL | Introduction to TensorFlow Syntax in 20 Minutes",
+    "Sign up for Our Complete Data Science Training with 57% OFF: https://bit.ly/3kJODLd Download Our Free Data Science ..."
+  ],
+  [
+    "Functions used in Tensor Flow Machine Learning",
+    "Functions used in Tensor Flow."
+  ],
+  [
+    "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras &amp; Python)",
+    "Tensorflow tf.Data api allows you to build a data input pipeline. Using this you can handle large dataset for your deep learning ..."
+  ],
+  [
+    "Tensor Cores in a Nutshell",
+    "This video gives a brief introduction to the Tensor Core technology inside NVIDIA GPUs and how its important to maximizing deep ..."
+  ],
+  [
+    "Dive into Deep Learning - Lecture 1: PyTorch Tensor Basics, Operations, Functions, and Broadcasting",
+    "In this video, we review Section \"2.1. Data Manipulation\" of the \"Dive into Deep Learning\" textbook available at ..."
+  ],
+  [
+    "What Google&#39;s Tensor Chip means for Machine Learning Engineers",
+    "In this Video, I'm sharing my opinion about Google's Tensor Chip (Google's own SOC to feature on Pixel 6 phone) and what it ..."
+  ],
+  [
+    "How I passed the TensorFlow Developer Certification exam (and how you can too)",
+    "At the start of May, I decided to take the TensorFlow Developer Certification. So I created myself a curriculum to sharpen my ..."
+  ],
+  [
+    "Machine Learning on Arduino with TensorFlow Lite Micro",
+    "Arduino is on a mission to make machine learning simple enough for anyone to use. We've been working with the TensorFlow ..."
+  ],
+  [
+    "MACHINE LEARNING using TENSOR FLOW | DAY 2",
+    "In this video we introduced Neural network, Tensors, Tensorflow , Keras and tried improving the accuracy obtained on Day 1 ..."
+  ],
+  [
+    "Tensor Processing and Machine Learning for Signal Processing Functional Algorithm Definition and Co…",
+    "Tensor Processing and Machine Learning for Signal Processing Functional Algorithm Definition and Concurrent Automation by ..."
+  ],
+  [
+    "Using MATLAB with Tensorflow and PyTorch for Deep Learning",
+    "Watch live to learn about how the deep learning frameworks in MATLAB and Simulink can be used with TensorFlow and PyTorch ..."
+  ],
+  [
+    "Python Machine Learning Tutorial #8 - Handwritten Digit Recognition with Tensorflow",
+    "In this video we are putting the theory into practice. We design a neural network which recognizes handwritten digits. For this we ..."
+  ],
+  [
+    "Deep Learning with PyTorch Live Course - Tensors, Gradient Descent &amp; Linear Regression (Part 1 of 6)",
+    "This is a beginner-friendly coding-first online course on PyTorch - one of the most widely used and fastest growing frameworks for ..."
+  ],
+  [
+    "But what is a neural network? | Chapter 1, Deep learning",
+    "What are the neurons, why are there layers, and what is the math underlying it? Help fund future projects: ..."
+  ],
+  [
+    "What Are Autoencoders? | Autoencoders Using TensorFlow  | Deep Learning Using TensorFlow | Edureka",
+    "AI & Deep Learning with Tensorflow Training: https://goo.gl/vDxgi5 ** ) This Edureka tutorial video of \"What are autoencoders\" ..."
+  ],
+  [
+    "2.1) What is a Tensor? Data Representation for Deep Learning",
+    "1.1) What means Learning for Artificial Intelligence? https://youtu.be/ilRxmIslZbI 1.2) How Deep Learning differs from Machine ..."
+  ],
+  [
+    "Introducing Einops for Tensor Operations in Deep Learning",
+    "Discusses einops as a linear algebra library that can be used to perform various portable tensor operations in deep learning."
+  ],
+  [
+    "Deep Learning Tutorial Python, Tensorflow And Keras: Introduction and Installation",
+    "In this introductory tutorial we will clarify what deep learning and neural networks is. We will also see what python keras library is ..."
+  ],
+  [
+    "Ivan Oseledets: &quot;Tensor-train decomposition and its applications in machine learning&quot;",
+    "Tensor Methods and Emerging Applications to the Physical and Data Sciences 2021 Workshop II: Tensor Network States and ..."
+  ],
+  [
+    "TensorFlow Tutorial For Beginners | TensorFlow Explained | Deep Learning &amp;Tensorflow | Simplilearn",
+    "TensorFlow is a deep learning framework developed by Google to solve intelligent problems. This video on the TensorFlow ..."
+  ],
+  [
+    "Tensor Introduction in PyTorch:  Part-1 | Deep learning with PyTorch (Bangla)",
+    "Tensors are the key components of Pytorch. We can say PyTorch is wholly based on the Tensors. In mathematics, a rectangular ..."
+  ],
+  [
+    "Deep Learning with Tensorflow - The Long Short Term Memory Model",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "Deep Learning with Tensorflow - Linear Regression with TensorFlow",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "TensorFlow Tutorial 05 - Convolutional Neural Network (CNN)",
+    "New Tutorial series about TensorFlow 2! Learn all the basics you need to get started with this deep learning framework! Part 05: ..."
+  ],
+  [
+    "TensorFlow In 10 Minutes | TensorFlow Tutorial  | Deep Learning &amp; TensorFlow | Edureka Rewind - 1",
+    "Edureka Deep Learning Course with Tensorflow Certification ..."
+  ],
+  [
+    "TensorFlow Explained | Deep Learning Using TensorFlow | TensorFlow Tutorial | Edureka",
+    "TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) In this TensorFlow tutorial, you will be learning ..."
+  ],
+  [
+    "Deep Learning With 🔥TensorFlow Full Course | Deep Learning Full Course For Beginners | Simplilearn",
+    "FREE Deep Learning Course With Completion Certificate: ..."
+  ],
+  [
+    "CNN Flatten Operation Visualized - Tensor Batch Processing for Deep Learning",
+    "Visualize a tensor flatten operation for a single grayscale image, and show how we can flatten specific tensor axes, which is often ..."
+  ],
+  [
+    "MACHINE LEARNING using TENSOR FLOW | DAY 1",
+    "In this video we have explained Machine Learning from scratch (explaining it's importance in day to day life). The whole Machine ..."
+  ],
+  [
+    "How to Code a Deep Learning Model in TensorFlow.js",
+    "This is the second video in our four-part \"AI in Node.js\" learning path series. Check out the full tutorial here: http://ibm.biz/Bdqfiv In ..."
+  ],
+  [
+    "Anima Anandkumar - Role of Tensors in Large-Scale Machine Learning",
+    "Presented at the Matroid Scaled Machine Learning Conference 2018 scaledml.org | #scaledmlconf."
+  ],
+  [
+    "Machine Learning Community Standup - TorchSharp &amp; Tensor Programming",
+    "In this week's community standup Don Syme talks about TorchSharp, a set of .NET bindings for the PyTorch engine, and tensor ..."
+  ],
+  [
+    "TensorFlow: Tensor and Image Basics",
+    "How to create a tf.Tensor from an array, manipulate it with TensorFlow functions (such as tf.reshape or tf.gather), and visualize it ..."
+  ],
+  [
+    "Tensor  analysis  tensor algebra for Bsc Msc  maths in hindi tensor analysis for Bsc Msc maths in hindi tensor calculus for Bsc Msc maths in hindi",
+    "Tensor analysis for Bsc Msc maths in hindi tensor analysis for Bsc Msc maths in hindi tensor calculus for Bsc Msc maths in hindi ..."
+  ],
+  [
+    "Why Machine Learning is important | #datascience | #data | #machinelearning | Tensor Learners",
+    "This video explains why machine learning is important for us and companies. What is the big picture behind it. Watch , Learn and ..."
+  ],
+  [
+    "New Directions for Tensor Networks: Machine Learning and Quantum Computing II",
+    "Speaker: Miles Stoudenmire (Center for Computational Quantum Physics, Flatiron Institute, U.S.A.) Summer School on Collective ..."
+  ],
+  [
+    "AI in Medicine |  Medical Imaging Classification (TensorFlow Tutorial)",
+    "Can AI be used to detect various diseases from a simple body scan? Yes! Normally, doctors train for years to do this and the error ..."
+  ],
+  [
+    "This is a game changer! (AlphaTensor by DeepMind explained)",
+    "alphatensor #deepmind #ai Matrix multiplication is the most used mathematical operation in all of science and engineering."
+  ],
+  [
+    "Streaming Machine Learning with Apache Kafka and TensorFlow",
+    "Streaming Machine Learning with Apache Kafka and TensorFlow without the need for a data store / data lake like AWS S3 or ..."
+  ],
+  [
+    "Deep learning Project: Image recognition Project using Tensor flow",
+    "In this video, We're going to see about how to create an image recognition project using a deep learning project using python."
+  ],
+  [
+    "Theano vs TensorFlow |  Deep Learning Frameworks Compared | Edureka",
+    "AI & Deep Learning with Tensorflow Training: https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video will ..."
+  ],
+  [
+    "GOOGLE PIXEL 6 PRO REVIEW| TENSOR| GOOGLE&#39;S MAGIC| AI| MACHINE LEARNING| SMARTPHONE!",
+    "Google Pixel 6 Pro is a flagship smartphone. It has a Tensor chipset that has AI and Machine learning capabilities. It runs on stock ..."
+  ],
+  [
+    "Loading in your own data - Deep Learning basics with Python, TensorFlow and Keras p.2",
+    "Welcome to a tutorial where we'll be discussing how to load in our own outside datasets, which comes with all sorts of challenges!"
+  ],
+  [
+    "AI in Medicine |  Medical Imaging Classification (TensorFlow Tutorial)",
+    "Can AI be used to detect various diseases from a simple body scan? Yes! Normally, doctors train for years to do this and the error ..."
+  ],
+  [
+    "Image Classification of a Tensor Network-Based Machine Learning Algorithm. Mykhal Gideoni Mangada.",
+    "Graduate Thesis Defense on 24 August 2021, 4:00 – 5:30 PM. Mangada, Mykhal Gideoni L. (MS Physics) Title: Image ..."
+  ],
+  [
+    "How to Create Random Tensor | Deep Learning With Tensorflow #5",
+    "Ready to learn the fundamentals of TensorFlow and deep learning with Python? Well, you've come to the right place. After this ..."
+  ],
+  [
+    "&quot;TensorFlow: A Framework for Scalable Machine Learning&quot; with Martin Wicke",
+    "Title: TensorFlow: A Framework for Scalable Machine Learning Date: October 19, 2016 Time: 12:00 PM ET Duration: 1 hour, ..."
+  ],
+  [
+    "AMAZON Web Services Tensor Flow Machine Learning Stock Investing",
+    "Are you ready for the exponential machine intelligence mega-trend? In this series of videos I present my Top 10 AI stocks to invest ..."
+  ],
+  [
+    "TensorFlow Tutorial | Deep Learning Using TensorFlow | TensorFlow Tutorial Python | Edureka",
+    "Edureka TensorFlow Training (Use Code \"YOUTUBE20\"): https://www.edureka.co/ai-deep-learning-with-tensorflow This ..."
+  ],
+  [
+    "Derivatives | Deep Learning Tutorial 9 (Tensorflow Tutorial, Keras &amp; Python)",
+    "Derivatives and partial derivatives are important concepts that we need to understand in order to gain knowledge on how neural ..."
+  ],
+  [
+    "TensorFlow Tutorial Part 1 | Deep Learning Using TensorFlow | TensorFlow Tutorial Python | CloudxLab",
+    "Machine Learning & Deep Learning Specialization Training: https://goo.gl/WxjxtT ) This CloudxLab TensorFlow tutorial helps you ..."
+  ],
+  [
+    "Introduction to TF Agents and Deep Q Learning (Reinforcement learning with TensorFlow Agents)",
+    "Wei Wei, a Developer Advocate for TensorFlow, introduces TF Agents and walks through how to use the Deep Q Learning model ..."
+  ],
+  [
+    "Introduction To TensorFlow | Deep Learning with TensorFlow | TensorFlow For Beginners | Edureka",
+    "AI & Deep Learning with Tensorflow Training: https://goo.gl/vDxgi5 ** This Edureka video on \"Introduction to TensorFlow\" provides ..."
+  ],
+  [
+    "Machine Learning With Tensor Flow | Recurrent Neural Networks | Part 3| Eduonix",
+    "A recurrent neural network (RNN) is a type of artificial neural network commonly used in speech recognition and natural language ..."
+  ],
+  [
+    "Machine Learning and Deep Learning Implementation with Tensor Flow Concepts",
+    "Resource Person Mr.S.Aravinth Seshadri Certified Professional in Data Science and ML Hayagriva's Software Solutions. Salem."
+  ],
+  [
+    "Deep Learning with Tensorflow - Initializing a Restricted Boltzmann Machine",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "Practical Machine Learning with Tensor Flow by Mr. P Ravinder",
+    ""
+  ],
+  [
+    "TensorFlow.js Crash Course - Machine Learning For The Web - Getting Started",
+    "Top Tensorflow Courses (https://codingthesmartway.com/courses/tensorflow) Welcome to the first episode of the ..."
+  ],
+  [
+    "Recursive Neural Tensor Nets - Ep. 11 (Deep Learning SIMPLIFIED)",
+    "Certain patterns are innately hierarchical, like the underlying parse tree of a natural language sentence. A Recursive Neural ..."
+  ],
+  [
+    "Mask Detection With tensor flow RCNN pre-trained model (Machine Learning) &amp; temperature",
+    ""
+  ],
+  [
+    "Anomaly detection with TensorFlow | Workshop",
+    "Learn how to go from basic Keras Sequential models to more complex models using the subclassing API, and see how to build an ..."
+  ],
+  [
+    "7 Deep Learning: tensor backpropagation, convolutional layers (MLVU2020)",
+    "slides: https://mlvu.github.io/lectures/41.DeepLearning1.annotated.pdf course materials: https://mlvu.github.io We recap the basic ..."
+  ],
+  [
+    "How to Choose an NVIDIA GPU for Deep Learning in 2021: Quadro, Ampere, GeForce Compared",
+    "If you are thinking about buying one... or two... GPUs for your deep learning computer, you must consider options like Ampere, ..."
+  ],
+  [
+    "Machine Learning in JavaScript (TensorFlow Dev Summit 2018)",
+    "Nikhil Thorat and Daniel Smilkov discuss TensorFlow.js, which is TensorFlow's new machine learning framework for JavaScript ..."
+  ],
+  [
+    "Difference between #tensor and #vector #shorts #tensorflow #ai #ml",
+    "Data Science Stunt presents to you a universe of artificial intelligence. In 1 minute - Playlists: ..."
+  ],
+  [
+    "Recurrent Neural Networks (RNN) | RNN LSTM | Deep Learning Tutorial | Tensorflow Tutorial | Edureka",
+    "TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This Edureka Recurrent Neural Networks tutorial ..."
+  ],
+  [
+    "Deep Learning with Tensorflow - The Recurrent Neural Network Model",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "TensorFlow and Go",
+    "TensorFlow is an open-source end to end machine learning platform. Among the supported APIs, a Go API is available, and with ..."
+  ],
+  [
+    "Affective Deep Learning Research (TensorFlow Meets)",
+    "In this episode of TensorFlow Meets, Laurence chats with Christian Fanli Ramsey, Affective Deep Learning Researcher."
+  ],
+  [
+    "Multilayer Perceptron with TensorFlow - Deep Learning with Tensorflow",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "TENSOR FLOW  DEEP LEARNING AND MACHINE LEARNING IN URDU",
+    "SO GUYS IN THIS VIDEO I've told you about Tensor flow in urdu and i hope you understood very well and if you GUYS do So ..."
+  ],
+  [
+    "Tensor Flow #Recipe1 | Machine Learning Full Course Recipe#4 | All In One Code | All In One Code",
+    "Official TensorFlow Site : https://www.tensorflow.org/tutorials/customization/custom_training_walkthrough This AllInOneCode ..."
+  ],
+  [
+    "Deep Learning with Tensorflow - Training a Restricted Boltzmann Machine",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "Machine Learning Course For Free || By Google || Tensor Flow || #shorts",
+    "shorts Hello Guys, If Your want to learn machine learning Google has just a free Machine Learning Crash Course where you can ..."
+  ],
+  [
+    "Tensor | Matrix | Vector | Scalar | Machine Learning Math Part 11",
+    "describes completely about tensors Please find the complete playlist for deep learning below ..."
+  ],
+  [
+    "Perspective on Tensor Networks for Machine Learning - E.M. Stoudenmire",
+    "https://itsatcuny.org/calendar/quantum-inspired-machine-learning E.M. Stoudenmire, Flatiron Institute Quantum-inspired Machine ..."
+  ],
+  [
+    "Michelle Fullwood   A gentle introduction to deep learning with TensorFlow   PyCon 2017",
+    "\"Speaker: Michelle Fullwood Deep learning's explosion of spectacular results over the past few years may make it appear esoteric ..."
+  ],
+  [
+    "How High-Dimensional Multi-Tensor Machine Learning Is Being Used to Improve the Prognosis, Diagno...",
+    "Orly Alter, 26th Annual Meeting of the Society for Neuro-Oncology (SNO) (Boston, November 18–21, 2021)."
+  ],
+  [
+    "machine learning tutorial using tflearn (a tensor flow framework)",
+    "To access the source code and dataset used in this project go to the following link - https://github.com/b3dk7/horses-ml tflearn's ..."
+  ],
+  [
+    "TensorFlow: an ML platform for solving impactful and challenging problems",
+    "Machine learning is solving challenging problems that impact everyone around the world. See how researchers at PlantVillage ..."
+  ],
+  [
+    "Tensor Flow JavaScript #javascript #tensorflow #machinelearning",
+    "Tensor Flow website link:- https://www.tensorflow.org/js/ #tensorflow #machinelearning #javascript #library #html #css #javascript ..."
+  ],
+  [
+    "RNN Example in Tensorflow - Deep Learning with Neural Networks 11",
+    "In this deep learning with TensorFlow tutorial, we cover how to implement a Recurrent Neural Network, with an LSTM (long short ..."
+  ],
+  [
+    "Tensor Flow 2.0  - Part 1: Deep Learning and Tabular Data + tf.function",
+    "This event is part of a series of talks organized by Umberto Michelucci and hosted on the platform of ML Together Milan and it was ..."
+  ],
+  [
+    "Deep Learning with Keras + TensorFlow - (Pt.1) Prepare the Fashion MNIST Dataset",
+    "In this series we will build a CNN using Keras and TensorFlow and train it using the Fashion MNIST dataset! In this video, we go ..."
+  ],
+  [
+    "Tutorial 02: What is Tensor? | Introduction to Tensor Deep Learning  |Urdu |  Hindi",
+    "his tutorial is divided into 4 parts; they are: What is Tensor? Dimensions of a Tensor Shapes of a Tensor Tensor in Real world data ..."
+  ],
+  [
+    "Tensor, Tensor Networks, Quantum Tensor Networks in Machine Learning: An Hourglass Architecture",
+    "We describe a seven-layer architecture to characterize the role of tensor, tensor networks and quantum tensor networks in ..."
+  ],
+  [
+    "Einsum to Simplify and Unify Tensor Operations in Deep Learning",
+    "In this discussion, we explain and demonstrate the advantages of using einsum to perform common tensor operations that are ..."
+  ],
+  [
+    "TensorFlow In 10 Minutes | TensorFlow Tutorial | Deep Learning &amp; TensorFlow | Edureka Rewind - 3",
+    "Edureka Deep Learning Course with Tensorflow Certification ..."
+  ],
+  [
+    "TensorBoard with PyTorch - Visualize Deep Learning Metrics",
+    "Welcome to this neural network programming series. In this episode, we will learn how to use TensorBoard to visualize metrics of ..."
+  ],
+  [
+    "#GoogleFree #MachineLearning Course with Tensor Flow APIs | #Google #Online Certification Courses",
+    "GoogleFree #MachineLearning Course with Tensor Flow APIs | #Google #Online Certification Courses #AkashNamdev apply link ..."
+  ],
+  [
+    "TensorFlow for (Truly) Mobile Machine Learning | GDG Chennai | Each One Teach One",
+    "Supriya, Software Engineer @ Xome talks about Tensor flow in Mobile."
+  ],
+  [
+    "Deep Learning in the Browser with TensorFlow.js Introduction p.1",
+    "Hello and welcome to a TensorFlow.js tutorial series. TensorFlow.js, previously deeplearn.js, is a JavaScript library for training ..."
+  ],
+  [
+    "Machine Learning ❤️ Image Processing using Python, OpenCV,  Keras and TensorFlow",
+    "Using Deep Learning to identify objects and fruits Check out our Data Science course: http://share.rmotr.com/B8yc24nh Repo ..."
+  ],
+  [
+    "Flutter Machine learning Prediction App Tensor flow | 5 min 100 line | Flutter ML Teachable Machine",
+    "Click here to Subscribe | https://www.youtube.com/c/traveldev LinkedIn | https://www.linkedin.com/in/rahulraj7626/ Follow on ..."
+  ],
+  [
+    "Machine Learning OverFitting On stock market trading using Tensor Flow",
+    "Here im making a Crypto trading bot using neural networks and here in this video i will share to you how you can avoid under ..."
+  ],
+  [
+    "National Webinar on Deep Learning with Tensor &amp; Keras - Applicational Approach",
+    "This webinar hosted by PG & Research Department of Computer Science held on 03-07-2020 through online."
+  ],
+  [
+    "TensorFlow Installation | Step By Step Guide to Install TensorFlow on Windows | Edureka",
+    "AI and Deep-Learning with TensorFlow (Use Code \"YOUTUBE20\") ..."
+  ],
+  [
+    "Transfer Learning | Deep Learning Tutorial 27 (Tensorflow, Keras &amp; Python)",
+    "Transfer learning is a very important concept in the field of computer vision and natural language processing. Using transfer ..."
+  ],
+  [
+    "MACHINE LEARNING using TENSOR FLOW | DAY 3 | Getting started with kaggle | Ms. Usha Rengaraju",
+    "On the final day Ms. Usha Rengaraju currently employed at MUST research as principal Data Scientist was the speaker for the ..."
+  ],
+  [
+    "Quantum-inspired machine learning: The solution for explainable AI?",
+    "Tensor networks (TN) are a well-established tool for simulating quantum systems due to their ability to transparently and efficiently ..."
+  ],
+  [
+    "Distributed Tensor Flow on Spark: Scaling Google&#39;s Deep Learning Library",
+    ""
+  ],
+  [
+    "Tensor Processing Unit (TPU) Technical Presentation | TPU Machine Learning",
+    "This video is a Tensor Processing Unit (TPU) Technical Presentation which is a cutting edge latest technology. Do read the full ..."
+  ],
+  [
+    "TensorFlow Tutorial: Basics of Tensor | Deep Learning",
+    "JupyterNotebook: https://github.com/siddiquiamir/Transfer-Learning-TensorFlow In this video, you will learn about the basics of ..."
+  ],
+  [
+    "TensorFlow Extended (TFX): Machine Learning Pipelines and Model Understanding (Google I/O&#39;19)",
+    "This talk will focus on creating a production machine learning pipeline using TFX. Using TFX developers can implement machine ..."
+  ],
+  [
+    "NVIDIA Turing Tensor core is increasing the speed of machine learning model training and gaming FPS!",
+    "The NVIDIA Tensor cores are helping Machine Learning experts to speed up the process of model training, where it took days to ..."
+  ],
+  [
+    "Machine Learning with PyTorch - Basics and Tensor operations",
+    "Machine Learning with PyTorch Basics and Tensor operations Slicing, and Tensor shapes and data types Instructor: Ricardo A."
+  ],
+  [
+    "Practical Machine Learning With Tensor Flow Week 2 NPTEL 2020",
+    "READ DESCRIPTION ModifiedSolutions:(These are finalised no doubts in Solutions) 1-2 2-3 3-No 4-1,2 5-2,3 6-2 7-4 8-3 9-4 ..."
+  ],
+  [
+    "Swift for TensorFlow: The Next-Generation Machine Learning Framework (TF Dev Summit &#39;19)",
+    "TensorFlow is about innovation. In this Swift for TensorFlow session, you will learn about language-integrated automatic ..."
+  ],
+  [
+    "Spotting and solving everyday problems with machine learning | Session",
+    "As a developer, when should you use machine learning (ML) and what's the quickest way to integrate it into your app? In this ..."
+  ],
+  [
+    "Machine Learning with TensorFlow (GDD Europe &#39;17)",
+    "TensorFlow is the most popular open-source machine learning framework in the world. In this video, Andrew Gasparovic gives ..."
+  ],
+  [
+    "Tensor-flow Overfitting and Underfitting Explained For Machine Learning",
+    "What is overfitting in machine or what is underfitting in machine learning. In this video I explain overfitting and underfitting."
+  ],
+  [
+    "Using artificial intelligence to generate 3D holograms in real-time | Tensor Holography",
+    "MIT researchers have developed a way to produce holograms almost instantly. They say the deep learning-based method is so ..."
+  ],
+  [
+    "depthwise separable convolution | Complete tensor operations for MobileNet architecture",
+    "If you like the video, please subscribe to the channel by using the below link https://tinyurl.com/1w5i9nnu This video will give ..."
+  ],
+  [
+    "Recursive Neural Tensor Network (RNTN) Tutorial | Nandu | Razorthink",
+    "Nandu's Teachings: Recursive Neural Tensor Network (RNTN) Dr. Nandu Nandakumar has over 20 years of experience in ..."
+  ],
+  [
+    "Practical machine learning with tensor flow",
+    ""
+  ],
+  [
+    "Tensor Networks and Machine Learning. ANATOLY DYMARSKY",
+    ""
+  ],
+  [
+    "Tensor Learners",
+    "Learn and Explore Data Science and Machine Learning concepts Advanced Deep learning , Python Frameworks and How to ..."
+  ],
+  [
+    "Roman Schutski: Graphical models for tensor networks and machine learning",
+    "Data Fest Online 2020 Graph ML track: https://ods.ai/tracks/graph-ml-df2020 Speaker: Roman Schutski (Skoltech) Graphical ..."
+  ],
+  [
+    "Pytorch Tutorials - 1 - Installation and Tensor Basics for Deep Learning",
+    "Greetings..!! This video is the first video in the deep learning playlist. Deep Learning is one the most trending and exciting topic to ..."
+  ],
+  [
+    "The Line Equation as a Tensor Graph — Topic 65 of Machine Learning Foundations",
+    "MLFoundations #Calculus #MachineLearning In this video, we get ourselves set up for applying Automatic Differentiation within a ..."
+  ],
+  [
+    "TensorFlow Course - Introduction to tensors",
+    "In this tutorial, you will learn what Tensors are and how to define and work with them. Source code: ..."
+  ],
+  [
+    "Deep Learning with Tensorflow - Applying Recurrent Networks to Language Modelling",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "Machine Learning and Deep Learning using Tensor Flow &amp; Keras : Neural Network Basics",
+    "http://ytwizard.com/r/DQKLFq http://ytwizard.com/r/DQKLFq Machine Learning and Deep Learning using Tensor Flow & Keras A-Z ..."
+  ],
+  [
+    "Install tensorflow 2.0 | Deep Learning Tutorial 5 (Tensorflow Tutorial, Keras &amp; Python)",
+    "I will show how to install tensorflow 2.0 on windows computer. I will be installing it on top of anaconda. Video to install anaconda ..."
+  ],
+  [
+    "Autoencoders Tutorial | Autoencoders In Deep Learning | Tensorflow Training | Edureka",
+    "AI & Deep Learning with Tensorflow Training: www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video of ..."
+  ],
+  [
+    "Deep Learning 24: (6) Variational AutoEncoder : Implementation in Tensor Flow",
+    "In this lecture, a complete implementation of Variational Auto Encoder is done using Tensor Flow in Google Colab."
+  ],
+  [
+    "Writing your own Machine Learning models using TensorFlow - TF Workshop - Session 3",
+    "TensorFlow workshop is a three part series instructed by Dr. Ashish Tendulkar in Chennai, India. In session 3 Ashish explains ..."
+  ],
+  [
+    "Indulge in Machine Learning || Neural Nets with Tensor Flow || Akhil Soni || CODEZILLA Community",
+    "Codezilla is a club for all the misfits, the people who have the drive to contribute to the coding society and those who are able to ..."
+  ],
+  [
+    "Deep Learning- Learn With Tensor Flow and Python - learn Deep Learning",
+    "Link to this course(special discount) https://www.udemy.com/course/deep-learning-with-tensor-flow/?"
+  ],
+  [
+    "tf serving tutorial | tensorflow serving tutorial | Deep Learning Tutorial 48 (Tensorflow, Python)",
+    "Are you using flask or Fast API to serve your machine learning models? tf serving is a tool that allows you to bring up a model ..."
+  ],
+  [
+    "Activation Functions | Deep Learning Tutorial 8 (Tensorflow Tutorial, Keras &amp; Python)",
+    "Activation functions (step, sigmoid, tanh, relu, leaky relu ) are very important in building a non linear model for a given problem."
+  ],
+  [
+    "Hands-on introduction to Deep Learning with Keras and Tensorflow - Rodrigo Agundez",
+    "PyData Amsterdam 2018 Deep Learning has already conquered areas such as image recognition, NLP, voice recognition, and is ..."
+  ],
+  [
+    "New Directions for Tensor Networks: Machine Learning and Quantum Computing I",
+    "Speaker: Miles Stoudenmire (Center for Computational Quantum Physics, Flatiron Institute, U.S.A.) Summer School on Collective ..."
+  ],
+  [
+    "Real-World Machine Learning with TensorFlow and Cloud ML (GDD India &#39;17)",
+    "TensorFlow, Google's open source library for machine learning, has been democratizing the world of machine intelligence since ..."
+  ],
+  [
+    "TensorFlow In 10 Minutes | TensorFlow Tutorial  | Deep Learning &amp; TensorFlow | Edureka Rewind - 1",
+    "Edureka Deep Learning Course with Tensorflow Certification ..."
+  ],
+  [
+    "Machine Learning Zero to Hero (Google I/O&#39;19)",
+    "This is a talk for people who know code, but who don't necessarily know machine learning. Learn the 'new' paradigm of machine ..."
+  ],
+  [
+    "Machine Learning Models with TensorFlow Using Amazon SageMaker - AWS Online Tech Talks",
+    "TensorFlow is one of the leading Machine Learning (ML) frameworks that has a broad support in the industry and has become a ..."
+  ],
+  [
+    "Tensor Reduction — Topic 13 of Machine Learning Foundations",
+    "In this video from my Machine Learning Foundations series, we'll perform hands-on code demos in NumPy, TensorFlow, and ..."
+  ],
+  [
+    "On the Expressive Power of Deep Learning: A Tensor Analysis",
+    "Author: Nadav Cohen, Or Sharir, Amnon Shashua."
+  ],
+  [
+    "Hands On Machine Learning  with Scikit learn-Keras and tensor flow",
+    ""
+  ],
+  [
+    "TensorFlow Tutorial | Deep Learning with TensorFlow | TensorFlow Tutorial for Beginners |Simplilearn",
+    "This TensorFlow tutorial will help you understand what is Deep Learning and it's libraries, why use TensorFlow, what is ..."
+  ],
+  [
+    "Machine Learning Models with TensorFlow Using Amazon SageMaker - AWS Online Tech Talks",
+    "TensorFlow is one of the leading Machine Learning (ML) frameworks that has a broad support in the industry and has become a ..."
+  ],
+  [
+    "Machine Learning Zero to Hero (Google I/O&#39;19)",
+    "This is a talk for people who know code, but who don't necessarily know machine learning. Learn the 'new' paradigm of machine ..."
+  ],
+  [
+    "Deep Learning 11: Linear Regression using Tensor Flow in Google Colaboratory",
+    "In this lecture we are implementing linear regression using TensorFlow. #regression#tensorflow#colab."
+  ],
+  [
+    "Derek Ferguson — Machine learning in Java from nothing to production in one hour",
+    "Ближайшая конференция: JPoint 2023, 12–13 апреля (Online), 18–19 апреля (Offline) Подробности и билеты: ..."
+  ],
+  [
+    "Machine Learning and Deep Learning using Tensor Flow &amp; Keras : Welcome &amp; Introduction",
+    "http://ytwizard.com/r/DQKLFq http://ytwizard.com/r/DQKLFq Machine Learning and Deep Learning using Tensor Flow & Keras A-Z ..."
+  ],
+  [
+    "Tensorflow and deep learning - without a PhD by Martin Görner",
+    "Please subscribe to our YouTube channel @ https://bit.ly/devoxx-youtube Like us on Facebook ..."
+  ],
+  [
+    "Recurrent Neural Networks (RNN) - Deep Learning w/ Python, TensorFlow &amp; Keras p.7",
+    "In this part we're going to be covering recurrent neural networks. The idea of a recurrent neural network is that sequences and ..."
+  ],
+  [
+    "Introduction to Tensor Calculus",
+    ""
+  ],
+  [
+    "TensorFlow Tutorial | Deep Learning with TensorFlow | TensorFlow Tutorial for Beginners |Simplilearn",
+    "This TensorFlow tutorial will help you understand what is Deep Learning and it's libraries, why use TensorFlow, what is ..."
+  ],
+  [
+    "Xlrd Error in Machine learning (Tensor Flow - Jupyter Notebook)",
+    "How to remove Xlrd error in Machine learning with tensor flow (Jupyter )"
+  ],
+  [
+    "Get started with PyTorch - TENSOR | HINDI | PYTHON | Deep Learning",
+    "GitHub Repo: https://github.com/ayushmankumar7/Deep-Learning-Series---Youtube Brand new series on Deep Learning in Hindi ..."
+  ],
+  [
+    "Deep Learning with Tensorflow - RBMs and Autoencoders",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "Learn TensorFlow.js - Deep Learning and Neural Networks with JavaScript",
+    "This full course introduces the concept of client-side artificial neural networks. We will learn how to deploy and run models along ..."
+  ],
+  [
+    "SCALAR AND TENSOR QUANTITIES 🔥 #tensoranalysis #scalarquantity #physics #shorts",
+    "SCALAR AND TENSOR QUANTITIES #tensoranalysis #scalarquantity #physics #shorts scalar and tensor quantities and ..."
+  ],
+  [
+    "Face Recognition With Machine Learning- Tensor Flow",
+    "In this video, I will show you how to developed an AI model to Predict weather the Input Images holds an appropriate image of ..."
+  ],
+  [
+    "New Directions for Tensor Networks  Machine Learning and Quantum Computing I",
+    "Donation: http://bit.ly/2FXei0Q Speaker: Miles Stoudenmire (Center for Computational Quantum Physics, Flatiron Institute, ..."
+  ],
+  [
+    "Reinforcement Learning in TensorFlow with TF-Agents (TF Dev Summit &#39;19)",
+    "Learn how to use TensorFlow and Reinforcement Learning to solve complex tasks. See the revamped dev site ..."
+  ],
+  [
+    "William Huggins: Towards Quantum Machine Learning with Tensor Networks",
+    "Contributed talk by William Huggins from Berkeley University of California, on \"Towards Quantum Machine Learning with Tensor ..."
+  ],
+  [
+    "Object Detection Using Tensorflow | TensorFlow Tutorial For Beginners | Deep Learning | Simplilearn",
+    "TensorFlow is a popular deep learning library for building neural network models. In this video, you will learn how about the ..."
+  ],
+  [
+    "Intro to Feature Engineering with TensorFlow - Machine Learning Recipes #9",
+    "Hey everyone! Here's an intro to techniques you can use to represent your features - including Bucketing, Crossing, Hashing, and ..."
+  ],
+  [
+    "Introduction to Tensorflow.js and Machine Learning",
+    "Learn the basics of machine learning, how TensorFlow.js fits into the picture, and why you might want to consider using machine ..."
+  ],
+  [
+    "What are Tensors Tensor In depth Explanation Tensor in Machine Learning",
+    ""
+  ],
+  [
+    "Build a Deep Audio Classifier with Python and Tensorflow",
+    "In this tutorial, you'll learn how to build a Deep Audio Classification model with Tensorflow and Python! Get the code: ..."
+  ],
+  [
+    "Tech planet 2016_Google Tensor Flow &amp; Machine Learning in the Cloud",
+    "Tech planet 2016_Google Tensor Flow & Machine Learning in the Cloud, Kaz Sato / Evangelist, Google Japan."
+  ],
+  [
+    "Deep Learning 5: Easy Understanding of Tensor Flow Programming",
+    "This lecture discuss basics of TensorFlow programming #colab#tensorflow#python."
+  ],
+  [
+    "Exercises on Tensor Operations — Topic 15 of Machine Learning Foundations",
+    "In this quick video from my Machine Learning Foundations series, I provide three exercises to test your comprehension of the ..."
+  ],
+  [
+    "Deep Learning With Python &amp; Tensorflow - PyConSG 2016",
+    "Speaker: Ian Lewis Description Python has lots of scientific, data analysis, and machine learning libraries. But there are many ..."
+  ],
+  [
+    "Tensor Processing Unit (TPU) Technical Presentation (1/3) | TPU Machine Learning",
+    "This video is 1/3 part of video series Tensor Processing Unit (TPU) Technical Presentation which is a cutting edge latest ..."
+  ],
+  [
+    "Unity3D Machine Learning Setup for ML-Agents on Windows 10 with Tensorflow",
+    "Check out the Course: https://bit.ly/3i7lLtH ------- Install tensorflow for machine learning in Unity3D today. Follow the steps here, ..."
+  ],
+  [
+    "Machine Learning, Tensor Decomposition &amp; the Geometry of Moments",
+    "Talk by Prof. Mourrain."
+  ],
+  [
+    "Machine Learning magic for your web application with TensorFlow.js (Chrome Dev Summit 2019)",
+    "As a web developer, you may have felt that all this buzz and excitement about machine learning seems to require Python, and ..."
+  ],
+  [
+    "TensorFlow and Deep Learning without a PhD, Part 1 (Google Cloud Next &#39;17)",
+    "With TensorFlow, deep machine learning transitions from an area of research to mainstream software engineering. In this video ..."
+  ],
+  [
+    "Machine Learning | 07 | Deep Learning (Tensor-Based Backpropagation &amp; Convolutional Neural Networks)",
+    "Machine Learning | 07 | Deep Learning (Tensor-Based Backpropagation & Convolutional Neural Networks) In this lecture, we ..."
+  ],
+  [
+    "A Concrete Introduction to Tensor Products",
+    "The tensor product of vector spaces (or modules over a ring) can be difficult to understand at first because it's not obvious how ..."
+  ],
+  [
+    "TFX: an end-to-end machine learning platform for TensorFlow (TensorFlow Meets)",
+    "Meet Clemens Mewald, Product Manager who works on TensorFlow Extended (TFX). Watch to learn about what exactly TFX is ..."
+  ],
+  [
+    "Make Money with Tensorflow 2.0",
+    "I've built an app called NeuralFund that uses Tensorflow 2.0 to make automated investment decisions. I used Tensorflow 2.0 to ..."
+  ],
+  [
+    "Deep Learning 6: Easy Understanding of Variables, Constants and Placeholders in Tensor Flow (Part A)",
+    "This lecture discuss the concepts of Variables, Constants and Placeholders in Tensor Flow #colab#tensorflow#python."
+  ],
+  [
+    "The Future Of Machine Learning (And Tensor Flow Quantum)",
+    "Quantum Machine Learning is very demanding but also rewarding. If you've got some time to play with it, current technologies let ..."
+  ],
+  [
+    "TensorFlowJS: Machine Learning In JavaScript",
+    "TensorFlowJS is the new machine learning framework for JavaScript developers. It supports building ML models in JavaScript, ..."
+  ],
+  [
+    "Data Batch and Tensor Data Python Machine Learning Deep Learning Computer vision",
+    "Data Batch and Tensor Data Python Machine Learning Deep Learning Computer vision Reference- \"Deep Learning with Python ..."
+  ],
+  [
+    "Deep Learning 2: Introduction to TensorFlow",
+    "Matteo Hessel, Research Engineer & Alex Davies, Software Engineer share an introduction to Tensorflow as part of the Advanced ..."
+  ],
+  [
+    "Tensor Analysis",
+    "This playlist contains video lectures on Tensor Analysis. This video is prepared as per the MSc Physics 2018 syllabus of Kerala ..."
+  ],
+  [
+    "Deep Learning- Handwritten Digits Recognition Tutorial | Tensorflow | CNN | for beginners",
+    "This video contains a stepwise implementation of handwritten digits classification for extreme beginners 1) Brainstorming, how to ..."
+  ],
+  [
+    "Tensor flow cost functions - google tensorflow cost - deep learning using tensorflow - certificate",
+    "google tensorflow cost - house price prediction using tensorflow on google colab. how to get your google tensorflow certification in ..."
+  ],
+  [
+    "Simple explanation of convolutional neural network | Deep Learning Tutorial 23 (Tensorflow &amp; Python)",
+    "A very simple explanation of convolutional neural network or CNN or ConvNet such that even a high school student can ..."
+  ],
+  [
+    "Deep Learning 13: Dynamic visualization of Linear Regression parameters using Tensor Board",
+    "In this lecture we discuss how we can make decision about the correctness of the code by observing the parameter values of ..."
+  ],
+  [
+    "PyTorch for Deep Learning with Python Bootcamp | 16 | Basic PyTorch Tensor Operations",
+    "PyTorch for Deep Learning with Python Bootcamp | 16 | Basic PyTorch Tensor Operations Welcome to the best online course for ..."
+  ],
+  [
+    "TENSOR CALCULAS",
+    ""
+  ],
+  [
+    "The Power of Swift for Machine Learning (TensorFlow Meets)",
+    "On this episode of TensorFlow Meets, Laurence (@lmoroney) talks with Chris Lattner (@clattner_llvm), the creator of Swift, about ..."
+  ],
+  [
+    "Optimizing with TensorBoard - Deep Learning w/ Python, TensorFlow &amp; Keras p.5",
+    "Welcome to part 5 of the Deep learning with Python, TensorFlow and Keras tutorial series. In the previous tutorial, we introduced ..."
+  ],
+  [
+    "Machine Learning with TensorFlow • Robert Saxby &amp; Rokesh Jankie • GOTO 2017",
+    "This presentation was recorded at GOTO Amsterdam 2017. #GOTOcon #GOTOams http://gotoams.nl Robert Saxby - Google ..."
+  ],
+  [
+    "Tensor Operations for Machine Learning with Anima Anandkumar - #142",
+    "In this episode of our TrainAI series, I sit down with Anima Anandkumar, Bren Professor at Caltech and Principal Scientist with ..."
+  ],
+  [
+    "Tensor Analysis",
+    ""
+  ],
+  [
+    "TensorFlow Tutorial #16 Reinforcement Learning",
+    "How to implement Reinforcement Learning in TensorFlow. This is a version of Q-Learning that is somewhat different from the ..."
+  ],
+  [
+    "Data Batch and Tensor Data Python Machine Learning Deep Learning Computer vision",
+    "Data Batch and Tensor Data Python Machine Learning Deep Learning Computer vision Reference- \"Deep Learning with Python ..."
+  ],
+  [
+    "We organised a workshop on &quot;Deep Learning and Model Deployment using Tensor Flow Lite&quot;",
+    ""
+  ],
+  [
+    "What exactly is this TFX thing? (TensorFlow Extended)",
+    "Introducing the first episode of the five part series on Real World Machine Learning in Production which will help you get to speed ..."
+  ],
+  [
+    "PyTorch for Deep Learning with Python Bootcamp | 16 | Basic PyTorch Tensor Operations",
+    "PyTorch for Deep Learning with Python Bootcamp | 16 | Basic PyTorch Tensor Operations Welcome to the best online course for ..."
+  ],
+  [
+    "Senor Tensor - Enhancing Shopping Experience with Machine Learning and TensorFlow.js",
+    "Join this Thursday 15.04.2021: https://zoom.us/webinar/register/WN_deMXNlYZT_-8MAiV4oSliQ."
+  ],
+  [
+    "Invited 1: Quantum Mechanics, Tensor Networks and Machine Learning - Nicola Pancotti",
+    "You can visit the Workshop's webpage here: https://tensorworkshop.github.io/2020/ ."
+  ],
+  [
+    "TensorFlow 2.0 Tutorial For Beginners | Introduction To TensorFlow 2 | TensorFlow Training | Edureka",
+    "Edureka TensorFlow 2.0 Training: https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka TensorFlow 2.0 Tutorial ..."
+  ],
+  [
+    "RTX 3050 Twin Edge OC While Running Deep Learning with Tensor Flow in Python",
+    ""
+  ],
+  [
+    "Episode-1.2: Getting started with Tensorflow &amp; Tensorboard-TFK-Deep Learning || Exploring Neurons",
+    "This episode gets you started with Tensorflow and Tensorboard The codes: https://github.com/anujshah1003/TFK-Deep-Learning ..."
+  ],
+  [
+    "TensorFlow TFLearn Tutorial For Beginners | Deep Learning | Edureka | Deep Learning Rewind - 3",
+    "Edureka Tensorflow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka TensorFlow TFLearn ..."
+  ],
+  [
+    "Deep Learning with Tensorflow - Introduction to Convolutional Networks",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "Tensorflow Tutorial for Beginners | Tensorflow on Neural Networks | Intellipaat",
+    "Intellipaat AI course: https://intellipaat.com/artificial-intelligence-deep-learning-course-with-tensorflow/ In this tensorflow tutorial for ..."
+  ],
+  [
+    "TensorFlow TFLearn Tutorial | Deep Learning with Neural Networks and TensorFlow | Edureka",
+    "TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka TensorFlow TFLearn Tutorial ..."
+  ],
+  [
+    "Installing Latest TensorFlow version with CUDA, cudNN and GPU support - Step by step tutorial 2021",
+    "In this video I show you the freakishly difficult task of setting up and installing the latest tensorflow version with GPU support on ..."
+  ],
+  [
+    "Pytorch Tutorials - 2 - Operations with Tensor Basics for Deep Learning",
+    "Greetings..!! This video is the second video in the deep learning playlist. Deep Learning is one the most trending and exciting ..."
+  ],
+  [
+    "2. Introduction to tensors.",
+    "MIT 8.962 General Relativity, Spring 2020 Instructor: Scott Hughes View the complete course: https://ocw.mit.edu/8-962S20 ..."
+  ],
+  [
+    "241 Customizing a TensorFlow 2 Model (DEEP LEARNING TENSOR FLOW 2.0) DATA SCIENCE BEGINNER COURSE",
+    ""
+  ],
+  [
+    "Machine Learning Maths | Matrix Operations | Transpose | Tensors | Part 1 | Eduonix",
+    "Complete AI and Machine Learning Training Program to build powerful AI for Real-World applications! Over 100+ Hrs, 30+ Techs ..."
+  ],
+  [
+    "Tensor Analysis",
+    ""
+  ],
+  [
+    "Cloud OnAir: End-to-End Machine Learning With TensorFlow on Google Cloud Platform",
+    "Operationalizing models can be challenging. This webinar walks through a development workflow that will make ..."
+  ],
+  [
+    "Machine learning using tensor flow javascript part 1",
+    "machine_learning #tensor_flow #AI Part 2:https://youtu.be/JMEKoBzCf2Y Part3:https://youtu.be/DnzsFPIYAH8 Some of my other ..."
+  ],
+  [
+    "Code for Deep Learning - ArgMax and Reduction Tensor Ops",
+    "Learn about tensor reduction operations and the ArgMax operation for artificial neural network programming and deep learning ..."
+  ],
+  [
+    "Keras Tutorial TensorFlow | Deep Learning with Keras | Building Models with Keras | Edureka",
+    "TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka Keras Tutorial TensorFlow video ..."
+  ],
+  [
+    "Artificial Neural Network Webinar | Understand Machine Learning Algorithm | Tensor - Lejhro Learning",
+    "Let's take some great career moves together   Registration link - www.tensor.lejhro.com/webinar Hope to see you there."
+  ],
+  [
+    "Tensors for Beginners 0: Tensor Definition",
+    "Less of a focus on physics in this one. More of a focus on the mathematical definition."
+  ],
+  [
+    "Intro to TinyML Part 1: Training a Neural Network for Arduino in TensorFlow | Digi-Key Electronics",
+    "In this tutorial series, Shawn introduces the concept of Tiny Machine Learning (TinyML), which consists of running machine ..."
+  ],
+  [
+    "Hierarchical Extreme Quantum Machine Learning with Tensor and Neural Networks, NISQ Era - Pinaki Sen",
+    "Abstract: Recently, the closeness between the techniques used in classical machine learning and quantum-many body physics ..."
+  ],
+  [
+    "How to use your trained model - Deep Learning basics with Python, TensorFlow and Keras p.6",
+    "In this part, we're going to cover how to actually use your model. We will us our cats vs dogs neural network that we've been ..."
+  ],
+  [
+    "Computer Architecture, Machine Learning using Tensor Flow_Feedback_Avadi",
+    ""
+  ],
+  [
+    "Machine Learning and Deep Learning using Tensor Flow &amp; Keras : Intelligent Learning System",
+    "http://ytwizard.com/r/DQKLFq http://ytwizard.com/r/DQKLFq Machine Learning and Deep Learning using Tensor Flow & Keras A-Z ..."
+  ],
+  [
+    "Transfer learning and Transformer models (ML Tech Talks)",
+    "In this session of Machine Learning Tech Talks, Software Engineer from Google Research, Iulia Turc, will walk us through the ..."
+  ],
+  [
+    "Creating Chatbots Using TensorFlow | Chatbot Tutorial | Edureka | AI Live - 1",
+    "NIT Warangal Post Graduate Diploma in AI & Machine Learning with Edureka: https://www.edureka.co/nitw-ai-ml-pgp This ..."
+  ],
+  [
+    "Machine Learning with PyTorch - CIFAR10 and Tensor transformations (part 1)",
+    "Machine Learning with PyTorch - CIFAR10 and Tensor transformations (part 1) Instructor: Ricardo A. Calix, Ph.D. Link: ..."
+  ],
+  [
+    "بالعربي TensorFlow Deep Learning Library Windows Python Installation",
+    "How to link TensorFlow library with CPU support only with Python and calling it from both Windows CMD and PyCharm IDE."
+  ],
+  [
+    "Image Classification With Deep Learning And Tensorflow: Intro Project",
+    "In this video, we'll walk through an end to end computer vision project using TensorFlow and Keras. We'll read in an image ..."
+  ],
+  [
+    "TensorTraffic - traffic prediction using machine learning - Pawel Gora",
+    "Description Together with an international group of scientists, I am developing TensorFlow-based tool, TensorTraffic, for predicting ..."
+  ],
+  [
+    "neural networks machine learning tensor flow ml5 to detect the sleep",
+    "neural networks machine learning tensor flow ml5 to detect the sleep."
+  ],
+  [
+    "What is a Tensor? | Tensorflow Tutorials using Python | Part - 1 |",
+    "Tensorflow is an open-source framework developed by Google. Tensorflow is used for Neural Network and Deep Learning ..."
+  ],
+  [
+    "DEEP LEARNING WITH TENSOR FLOW COURSE WHAT IS DEEP LEARNING AI CODING STUDY ZTM COURSE",
+    "DEEP LEARNING WITH TENSOR FLOW COURSE WHAT IS DEEP LEARNING AI CODING STUDY ZTM COURSE REACT ..."
+  ],
+  [
+    "1/3 Tensor - A mathematical language | In Hindi",
+    "In an m- dimensional space, a tensor of rank n is a mathematical object that has n indices, m^n components, and obey certain ..."
+  ],
+  [
+    "TensorFlow and Deep Learning without a PhD, Part 2 (Google Cloud Next &#39;17)",
+    "Deep learning has already revolutionized machine learning research, but it hasn't been broadly accessible to many developers."
+  ],
+  [
+    "TensorFlow TFLearn Tutorial For Beginners | Deep Learning | Edureka | Deep Learning Rewind - 4",
+    "Edureka Tensorflow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka TensorFlow TFLearn ..."
+  ],
+  [
+    "Artificial intelligence | Machine Learning | Deep Learning | Capstone Project &amp; Tensor Flow | हिंदी",
+    "Artificial intelligence | Machine Learning | Deep Learning | Capstone Project & Tensor Flow | हिंदी | आईबीएम ..."
+  ],
+  [
+    "Tensorboard Introduction | Deep Learning Tutorial 16 (Tensorflow2.0, Keras &amp; Python)",
+    "Often it becomes necessary to see what's going on inside your neural network. Tensorboard is a tool that comes with tensorflow ..."
+  ],
+  [
+    "Setting Up CUDA, CUDNN, Keras, and TensorFlow on Windows 11 for GPU Deep Learning",
+    "Complete walkthrough of installing TensorFlow/Keras with GPU support on Windows 11. We make use of a \"pip install\" rather than ..."
+  ],
+  [
+    "¿Que es un Tensor en Deep Learning?. What is a tensor in Deep Learning",
+    "Aprende de forma fácil que es un Tensor en el mundo de la Inteligencia Artificial. Learn easily what a Tensor is in the world of ..."
+  ],
+  [
+    "Deep-learning using Python and Tensor flow - KPI Consulting Services",
+    "happylearningweekwebinars2019FebMarchseries #Deeplearning using #Python and Tensorflow #Tensorflow ..."
+  ],
+  [
+    "Creating Chatbots Using TensorFlow | Chatbot Tutorial | Edureka | AI Live - 1",
+    "NIT Warangal Post Graduate Diploma in AI & Machine Learning with Edureka: https://www.edureka.co/nitw-ai-ml-pgp This ..."
+  ],
+  [
+    "TensorFlow TFLearn Tutorial For Beginners | Deep Learning | Edureka | Deep Learning Rewind - 4",
+    "Edureka Tensorflow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka TensorFlow TFLearn ..."
+  ],
+  [
+    "Tensor Flow for Deep Learning Applications | St. Xaviers Catholic College of Engineering | Webinar",
+    "For FREE 5 Days Industrial Training Program Details please follow our Instagram page ..."
+  ],
+  [
+    "How to Build a Neural Network with TensorFlow and Keras in 10 Minutes",
+    "This is a short tutorial on How to build a Neural Network in Python with TensorFlow and Keras in just about 10 minutes Full ..."
+  ],
+  [
+    "1/3 Tensor - A mathematical language | In Hindi",
+    "In an m- dimensional space, a tensor of rank n is a mathematical object that has n indices, m^n components, and obey certain ..."
+  ],
+  [
+    "Machine learning Tensor flow",
+    ""
+  ],
+  [
+    "Setting Up CUDA, CUDNN, Keras, and TensorFlow on Windows 11 for GPU Deep Learning",
+    "Complete walkthrough of installing TensorFlow/Keras with GPU support on Windows 11. We make use of a \"pip install\" rather than ..."
+  ],
+  [
+    "Tensorflow Multi-Person Pose Estimation with Python // Machine Learning Tutorial",
+    "Get the code: https://github.com/nicknochnack/MultiPoseMovenetLightning Links Model: ..."
+  ],
+  [
+    "Tensor Processing and Machine Learning for Signal Processing Functional Algorithm Definition and Co",
+    "FOSDEM 2017 Hacking conference #hacking, #hackers, #infosec, #opsec, #IT, #security."
+  ],
+  [
+    "Machine Learning at scale: TensorFlow in the Cloud (Yufeng Guo)",
+    "Moving the heavy lifting of machine learning to the cloud is a great way to get large speed ups. This session will step through this ..."
+  ],
+  [
+    "spotlight 14: Tensor and Tensor Networks for Machine Learning: An Hourglass Architecture",
+    "by Xiao-Yang Liu You can visit the Workshop's webpage here: https://tensorworkshop.github.io/2020/ ."
+  ],
+  [
+    "Probabilistic Deep Learning in TensorFlow: The Why and How | ODSC Europe 2019",
+    "Bayesian probabilistic techniques allow machine learning practitioners to encode expert knowledge in otherwise-uninformed ..."
+  ],
+  [
+    "Machine Learning with PyTorch - CIFAR10 and Tensor transformations (part 2)",
+    "Machine Learning with PyTorch - CIFAR10 and Tensor transformations (part 2) Instructor: Ricardo A. Calix, Ph.D. Link: ..."
+  ],
+  [
+    "Advances in machine learning and TensorFlow (Google I/O &#39;18)",
+    "Artificial intelligence affects more than just computer science. Join this session to hear a collection of short presentations from top ..."
+  ],
+  [
+    "TensorFlow Hub: reusing machine learning modules (TensorFlow Meets)",
+    "TensorFlow Hub is all about helping people reuse parts of machine learning models. In this episode of TensorFlow Meets, we sit ..."
+  ],
+  [
+    "Tensor Flow and Machine Learning",
+    "Event: IEEE AcSIR CSIO Virtual Talks Speaker: Mr Jason Mayes Topic: Tensor Flow.js."
+  ],
+  [
+    "Deep Learning 12: Visualization of Linear Regression parameters using  Tensor Board",
+    "Here we are discussing visualization of linear regression parameters i.e. weights and bias in Tensorboard. This is continuation of ..."
+  ],
+  [
+    "What the HECK is a Tensor?!?",
+    "The term \"tensor\" is often misunderstood. Let's figure out what they are through vector examples like velocity, angular momentum, ..."
+  ],
+  [
+    "Google Tensor is a milestone for machine learning - Highlight from DWB Podcast Episode 35",
+    "Google Tensor is a milestone for machine learning - Highlight from DWB Podcast Episode 35 #Google #Tensor #Pixel Source: ..."
+  ],
+  [
+    "Razer x Lambda Tensorbook - The Deep Learning Laptop - Launch Video - April 2022",
+    "Order yours today: ..."
+  ],
+  [
+    "Deep Learning For Real Time Streaming Data With Kafka And Tensorflow | YongTang - ODSC East 2019",
+    "In mission-critical real time applications, using machine learning to analyze streaming data are gaining momentum. In those ..."
+  ],
+  [
+    "129 - What are Callbacks, Checkpoints and Early Stopping in deep learning (Keras and TensorFlow)",
+    "Code generated in the video can be downloaded from here: https://github.com/bnsreenu/python_for_microscopists."
+  ],
+  [
+    "Google Pixel 6 pro⚡ &amp; 6💥 | Tensor Chipset | Machine Learning | Speech Recognition | Malayalam 2021.",
+    "S Vlogz. SUBSCRIBE the channel."
+  ],
+  [
+    "Machine Learning and Tensor flow (CS Conference Ep2)",
+    ""
+  ],
+  [
+    "Tensor algebra",
+    ""
+  ],
+  [
+    "Microcontroller boards for Tensor Flow | Microcontroller boards supporting Machine Learning",
+    "Microcontroller boards for Tensor Flow www.embeddeddesignblog.blogspot.com www.TalentEve.com ..."
+  ],
+  [
+    "TensorFlow in 5 Minutes | Introduction To TensorFlow | Deep Learning Using TensorFlow | Edureka",
+    "AI & Deep Learning with Tensorflow Training: https://goo.gl/vDxgi5 ** This Edureka video of \"TensorFlow in 5 minutes\" provides ..."
+  ],
+  [
+    "Use  of Tensor board in deep learning  with MNIST dataset in Google Colab",
+    "Google colab link = https://colab.research.google.com/drive/1m4ae-UBBezb6pbm0FhkykibZ6Vpqcdiv Source code link= ..."
+  ],
+  [
+    "Deep Learning with Pytorch BookClub (Chapter 3): Tensor in Pytorch",
+    "Deep learning with PyTorch chapter."
+  ],
+  [
+    "PyTorch Tutorial 11: Transpose of a tensor PyTorch",
+    "PyTorch Tutorial 11: Transpose of a tensor PyTorch In this video, we will learn how to transpose a tensor Other important playlists ..."
+  ],
+  [
+    "Tensorflow Image Classification | Build Your Own Image Classifier In Tensorflow | Edureka",
+    "AI and Deep Learning using TensorFlow: https://edureka.co/ai-deep-learning-with-tensorflow *** This Edureka Live video on ..."
+  ],
+  [
+    "PyTorch Tutorial 16 - How To Use The TensorBoard",
+    "New Tutorial series about Deep Learning with PyTorch! ⭐ Check out Tabnine, the FREE AI-powered code completion tool I use to ..."
+  ],
+  [
+    "What is TensorFlow? | Introduction to TensorFlow | TensorFlow Tutorial for Beginners | Simplilearn",
+    "This TensorFlow tutorial will help you in understanding what is TensorFlow and how it is used in Deep Learning. In this tutorial ..."
+  ],
+  [
+    "We organised a workshop on &quot;Deep Learning and Model Deployment using Tensor Flow Lite&quot; 💻",
+    ""
+  ],
+  [
+    "OSDI &#39;22 - ROLLER: Fast and Efficient Tensor Compilation for Deep Learning",
+    "OSDI '22 - ROLLER: Fast and Efficient Tensor Compilation for Deep Learning Hongyu Zhu, University of Toronto and Microsoft ..."
+  ],
+  [
+    "Tensorflow (/deep learning) GPU vs CPU demo",
+    "Agenda: Tensorflow(/deep learning) on CPU vs GPU - Setup (using Docker) - Basic benchmark using MNIST example Setup ..."
+  ],
+  [
+    "Jean Kossaifi: &quot;Efficient Tensor Representation for Deep Learning with TensorLy and PyTorch&quot;",
+    "Tensor Methods and Emerging Applications to the Physical and Data Sciences 2021 Workshop IV: Efficient Tensor ..."
+  ],
+  [
+    "Machine Learning Training with Tensor Virtual Machine (TVM) and Adreno GPUs",
+    "This video was presented at the online version of IWOCL / SYCLcon 2021. Speaker: Siva Rama Krishna Reddy, Qualcomm ..."
+  ],
+  [
+    "Coding Tensorflow en Español - Episodio 1",
+    "En este episodio de Coding TensorFlow, Martin Aguinis (@MartinAguinis) demuestra cómo hacer funcionar TensorFlow.js en el ..."
+  ],
+  [
+    "134 - What are Optimizers in deep learning? (Keras &amp; TensorFlow)",
+    ""
+  ],
+  [
+    "Stack vs Concat in PyTorch, TensorFlow &amp; NumPy - Deep Learning Tensor Ops",
+    "Welcome to this neural network programming series. In this episode, we will dissect the difference between concatenating and ..."
+  ],
+  [
+    "Kubeflow: Machine Learning on Kubernetes",
+    "In this episode of AI Adventures, Yufeng introduces Kubeflow, an open-source project that is meant to help make running machine ..."
+  ],
+  [
+    "A journey to protect the Great Barrier Reef using Machine Learning",
+    "Explore how Google teamed up with CSIRO to enhance monitoring efforts of harmful species on the Great Barrier Reef. Through a ..."
+  ],
+  [
+    "New Directions for Tensor Networks: Machine Learning and Quantum Computing III",
+    "Speaker: Miles Stoudenmire (Center for Computational Quantum Physics, Flatiron Institute, U.S.A.) Summer School on Collective ..."
+  ],
+  [
+    "Creating PyTorch Tensors for Deep Learning - Best Options",
+    "Neural network programming and deep learning with PyTorch. A deeper look into the tensor creation options. Ted talk: ..."
+  ],
+  [
+    "Build Deep Learning model in browser | Tensor-flow Playground | Machine Learning",
+    "Play with tensorflow playground and get an intuition about what deep learning is in your web browser."
+  ],
+  [
+    "02 Introduction to Tensor Flow 2.3 | Deep Learning Master Class",
+    "TensorFlow is an end-to-end open-source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, ..."
+  ],
+  [
+    "Tensorflow for Deep Learning Research - Lecture 1",
+    "These series of tutorials on tensorflow are based on the publicly available slides from the Stanford University class - CS20SI ..."
+  ],
+  [
+    "Creative Applications of Deep Learning with TensorFlow",
+    "Introducing the online course, Creative Applications of Deep Learning with TensorFlow, in partnership with Google Magenta."
+  ],
+  [
+    "02 Introduction to Tensor Flow 2.3 | Deep Learning Master Class",
+    "TensorFlow is an end-to-end open-source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, ..."
+  ],
+  [
+    "Tensorflow for Deep Learning Research - Lecture 1",
+    "These series of tutorials on tensorflow are based on the publicly available slides from the Stanford University class - CS20SI ..."
+  ],
+  [
+    "Creative Applications of Deep Learning with TensorFlow",
+    "Introducing the online course, Creative Applications of Deep Learning with TensorFlow, in partnership with Google Magenta."
+  ],
+  [
+    "TensorFlow &amp; Keras Tutorial 2022 | Deep Learning With TensorFlow &amp; Keras | Simplilearn",
+    "Free TensorFlow Course: ..."
+  ],
+  [
+    "PyData Ann Arbor: Sebastian Raschka   | An Introduction to Deep Learning with TensorFlow",
+    "PyData Ann Arbor Meetup - August 24, 2017 Sponsored by NumFOCUS, TD Ameritrade, and MIDAS ..."
+  ],
+  [
+    "ATPESC 2022 1.4 SW defined Machine Learning with Groq’s Tensor Streaming Processor | Andrew Ling",
+    "Presented at the Argonne Training Program on Extreme-Scale Computing 2022. Slides for this presentation are available at: ..."
+  ],
+  [
+    "Getting Started with TensorFlow and Deep Learning | SciPy 2018 Tutorial | Josh Gordon",
+    "A friendly introduction to Deep Learning, taught at the beginner level. We'll work through introductory exercises across several ..."
+  ],
+  [
+    "Continuum Mechanics — Tensors — Ansys Innovation Course",
+    "This course discusses the mathematical quantities called tensors and their properties. Tensors and vector fields are discussed as ..."
+  ],
+  [
+    "Sentiment Analysis Using Tensorflow | Deep Learning Project with Code",
+    "Sentiment analysis (or opinion mining) is a natural language processing technique used to determine whether data is positive, ..."
+  ],
+  [
+    "Machine Learning for audio classification",
+    "In this video you'll get an introduction to Machine Learning for the Audio Domain and also some of the theory that is needed to ..."
+  ],
+  [
+    "Jeremy Howard: Deep Learning Frameworks - TensorFlow, PyTorch, fast.ai | AI Podcast Clips",
+    "This is a clip from a conversation with Jeremy Howard from Aug 2019. New full episodes every Mon & Thu and 1-2 new clips or a ..."
+  ],
+  [
+    "Deep Learning 51: CNN_3 - Convolution, Max-Pooling and RELU operations in Tensor Flow",
+    "In this lecture image features obtained from Convolution, Max-pooling and Relu operations in CNN is analysed using Tensor Flow ..."
+  ],
+  [
+    "Tensor Analaysis ( Math B.Sc.3rd year and M.Sc )",
+    "tensor analysis in mathematical physics , tensor analysis msc mathematics , tensor analysis msc physics lecture , tensor analysis ..."
+  ],
+  [
+    "matrix calculus and tensor calculus for deep learning  and CAS for tensor and matrix calculus",
+    "https://www.youtube.com/watch?v=rBH_7knxZQQ http://www.matrixcalculus.org/ https://github.com/mshvartsman/symbolic-mat-diff ..."
+  ],
+  [
+    "Tensor Program Abstraction - Episode 2",
+    "In the second lecture for Machine Learning Compilation, CMU professor Tianqi Chen covers tensor program abstraction - the ..."
+  ],
+  [
+    "&quot;Large-Scale Deep Learning with TensorFlow,&quot; Jeff Dean",
+    "Title: Large-Scale Deep Learning with TensorFlow Date: Thursday, July 07, 2016 Time: 12:00 PM Eastern Daylight Time Duration: ..."
+  ],
+  [
+    "Deep Learning on AI தமிழில் Tamil - Part 35 | Recurrent Neural Networks(Tensor flow)",
+    "Deep Learning on AI தமிழில் Tamil - Part 35 | Recurrent Neural Networks(Tensor flow) ..."
+  ],
+  [
+    "Clustering using Tensor Flow",
+    "Clustering using Tensor Flow."
+  ],
+  [
+    "Deep Learning With PyTorch - Full Course",
+    "In this course you learn all the fundamentals to get started with PyTorch and Deep Learning. ⭐ Check out Tabnine, the FREE ..."
+  ],
+  [
+    "New Directions for Tensor Networks: Machine Learning and Quantum Computing III",
+    "Speaker: Miles Stoudenmire (Center for Computational Quantum Physics, Flatiron Institute, U.S.A.) Summer School on Collective ..."
+  ],
+  [
+    "YOLO Object Detection (TensorFlow tutorial)",
+    "You Only Look Once - this object detection algorithm is currently the state of the art, outperforming R-CNN and it's variants. I'll go ..."
+  ],
+  [
+    "Machine Learning - Tensor Flow Ep. VI",
+    "Hola Comunidad! Seguimos con nuestra serie de eventos en Colombia en esta sesión abriremos el 2021 con un Hands - on ..."
+  ],
+  [
+    "Lab 4 Digit Recognition using Tensor Flow",
+    ""
+  ],
+  [
+    "Tensors For Beginners (-1): Motivation",
+    "This is the start of a video series on tensors that I'm doing. I hope it helps someone out there on the internet. I'm sorry that my voice ..."
+  ],
+  [
+    "Simple Explanation of LSTM | Deep Learning Tutorial 36 (Tensorflow, Keras &amp; Python)",
+    "LSTM or long short term memory is a special type of RNN that solves traditional RNN's short term memory problem. In this video I ..."
+  ],
+  [
+    "Lecture 02: Introduction to Tensor",
+    ""
+  ],
+  [
+    "Machine Learning And Tensor flow.js",
+    "Dear All, Greetings from the Department of Computer Science (AI&ML) and (Cybersecurity), JAIN(Deemed-to-be University)!"
+  ],
+  [
+    "Let&#39;s Build A Video Game With Unity and TensorFlow",
+    "In this session, we'll build a little smartphone game, train a bot to play it using reinforcement learning, Python, and TensorFlow, ..."
+  ],
+  [
+    "General Tensors",
+    ""
+  ],
+  [
+    "Build a Generative Adversarial Neural Network with Tensorflow and Python | Deep Learning Projects",
+    "Want to get your hands dirty building a deep learning powered GAN with Python? Well in this video you'll learn everything ..."
+  ],
+  [
+    "TensorFlow Deep Learning Project #3: Video Analysis",
+    "The video shows how to do tensorflow based video analysis at a basic level. Computing infrastructure consists of: Ubuntu 16.04, ..."
+  ],
+  [
+    "Future-proof web apps with Angular and TensorFlow.js | Session",
+    "In this Session, we share how you can build an intelligent User Interface (UI) at any scale by combining Angular and ..."
+  ],
+  [
+    "Vector &amp; Tensor Analysis",
+    "Vector & Tensor Analysis By Malik Raza Latif."
+  ],
+  [
+    "Deep Learning with Tensorflow - Recursive Neural Tensor Networks",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "Deep Learning 15:  Visualization of Neural Network Parameters using Tensor Flow",
+    "In this lecture we are visualizing the hidden layers (weights and bias parameters) of neural network using Tensor Board."
+  ],
+  [
+    "Dario Poletti: Tensor networks for classical and quantum machine learning tasks",
+    "Title: Tensor networks for classical and quantum machine learning tasks Abstract: The method of choice to study one-dimensional ..."
+  ],
+  [
+    "Top 5 takeaways from Women in Machine Learning Symposium 2022",
+    "Catch the top 5 takeaways from Women in Machine Learning Symposium 2022. Learn about the new MediaPipe Studio, Sign ..."
+  ],
+  [
+    "On-device machine learning: TensorFlow on Android (Google Cloud Next &#39;17)",
+    "In this video, Yufeng Guo applies deep learning models to local prediction on mobile devices. Yufeng shows you how to use ..."
+  ],
+  [
+    "Using TensorFlow Hub for more productive machine learning",
+    "Libraries and a repository of shared code dramatically boost efficiency as well as innovation. If you lack the resources, do not want ..."
+  ],
+  [
+    "From TensorFlow to RTL in three months",
+    "Hear how in only three months Ph. D student Myung-Seok Shim was able to learn how to take a TensorFlow machine learning ..."
+  ],
+  [
+    "Real time object detection and recognition using python | Deep Learning /ML | Tensor flow | part_1",
+    "A real time Object detection and classification using deep learning with TensorFlow. The TensorFlow object detection API is the ..."
+  ],
+  [
+    "Text Classification Using BERT &amp; Tensorflow | Deep Learning Tutorial 47 (Tensorflow, Keras &amp; Python)",
+    "Using BERT and Tensorflow 2.0, we will write simple code to classify emails as spam or not spam. BERT will be used to generate ..."
+  ],
+  [
+    "Lecture 7: Introduction to TensorFlow",
+    "Lecture 7 covers Tensorflow. TensorFlow is an open source software library for numerical computation using data flow graphs."
+  ],
+  [
+    "Deep Learning 37: (4) Wasserstein Generative Adversarial Network (WGAN): Coding using Tensor Flow",
+    "In this lecture implementation of Wasserstein Generative Adversarial Network (WGAN) is performed in TensorFlow using Google ..."
+  ],
+  [
+    "What is a tensor anyway?? (from a mathematician)",
+    "Suggest a problem: https://forms.gle/ea7Pw7HcKePGB4my5 Please Subscribe: ..."
+  ],
+  [
+    "Jacob Biamonte/Russia/MIPT: Tensor Networks in Quantum Enhanced Machine Learning",
+    "We provide a concise introduction to tensor networks, leading to their contemporary use in quantum computing, quantum ..."
+  ],
+  [
+    "03 Tensor Flow Low Level API | Deep Learning Master Class",
+    "In this workshop, you'll learn how the TensorFlow Python API works. You'll get to practice defining constants and variables like the ..."
+  ],
+  [
+    "Cloud TPU Pods: AI Supercomputing for Large Machine Learning Problems (Google I/O&#39;19)",
+    "Cloud Tensor Processing Unit (TPU) is an ASIC designed by Google for neural network processing. TPUs feature a domain ..."
+  ],
+  [
+    "tensor analysis for Bsc Msc maths   tensor analysis in hindi  tensor calculus in hindi by Hd sir",
+    "Paid course by hd sir https://youtu.be/X-fOjS9Dk0c tensor analysis for Bsc Msc maths in hindi tensor analysis in hindi tensor ..."
+  ],
+  [
+    "Deep Learning (Tensor flow + Opencv) ID Detector and Orientation Detector",
+    ""
+  ],
+  [
+    "129 - What are Callbacks, Checkpoints and Early Stopping in deep learning (Keras and TensorFlow)",
+    "Code generated in the video can be downloaded from here: https://github.com/bnsreenu/python_for_microscopists."
+  ],
+  [
+    "&quot;Deep Learning For Computer Vision Using Tensor Flow &quot; with Ashwin Phadke || EngineersConnect",
+    "Hey Engineers, As we already said to you all, EngineersConnectgoing to have a free webinar session on Introduction to Deep ..."
+  ],
+  [
+    "Incredible things your community is creating with TensorFlow.js  - #MadeWithTFJS",
+    "Usage of Machine Learning in JavaScript has grown exponentially since 2020 and is expected to continue. Check out just a few of ..."
+  ],
+  [
+    "What&#39;s a Tensor?",
+    "Dan Fleisch briefly explains some vector and tensor concepts from A Student's Guide to Vectors and Tensors."
+  ],
+  [
+    "&quot;Deep Learning For Computer Vision Using Tensor Flow&quot; with Ashwin Phadke || EngineersConnect",
+    "Hey Engineers, As we already said to you all, EngineersConnectgoing to have a free webinar session on Introduction to Deep ..."
+  ],
+  [
+    "Installing Latest TensorFlow on Windows with CUDA, cudNN &amp; GPU support - Step by Step Tutorial 2022",
+    "In this video I will show you how to set up and install the latest Tensorflow version with GPU support on Windows 10 & 11. We will ..."
+  ],
+  [
+    "Deep Learning With PyTorch - Full Course",
+    "In this course you learn all the fundamentals to get started with PyTorch and Deep Learning. ⭐ Check out Tabnine, the FREE ..."
+  ],
+  [
+    "The Road Ahead: Google&#39;s Comprehensive Platform for Open Source Machine Learning",
+    "Google offers the only comprehensive free and open source ecosystem for AI and Machine Learning that covers everything from ..."
+  ],
+  [
+    "Recurrent Neural Networks RNN | Tensorflow Tutorial | Edureka | Deep Learning Rewind - 4",
+    "Edureka Tensorflow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka Recurrent Neural Networks ..."
+  ],
+  [
+    "What is TensorFlow? | Introduction to TensorFlow | TensorFlow Tutorial for Beginners | Simplilearn",
+    "This TensorFlow tutorial will help you in understanding what is TensorFlow and how it is used in Deep Learning. In this tutorial ..."
+  ],
+  [
+    "TensorFlow &amp; Keras Tutorial 2022 | Deep Learning With TensorFlow &amp; Keras | Simplilearn",
+    "Free TensorFlow Course: ..."
+  ],
+  [
+    "TVM Conf 2020 - Day 2 - Ansor: Generating High Performance Tensor Programs for Deep Learning",
+    "Lianmin Zheng, U.C. Berkeley High-performance tensor programs are crucial to guarantee efficient execution of deep learning ..."
+  ],
+  [
+    "Connections between Weighted Automata, Spectral Learning and Tensor Networks - Guillaume Rabusseau",
+    "Invited talk at the 15th International Conference on Grammatical Inference (ICGI 2020/21: https://icgi2020.lis-lab.fr/) Abstract: In ..."
+  ],
+  [
+    "Machine Learning on Arduino with TensorFlow Lite Micro",
+    "Arduino is on a mission to make machine learning simple enough for anyone to use. We've been working with the TensorFlow ..."
+  ],
+  [
+    "Getting started with Tensorflow and machine Learning  #1",
+    "rest of tutorials playlist https://www.youtube.com/watch?v=skgOmlbpR_c&list=PLL2hlSFBmWwyOriWjgGO3HKxCE_pi4Sc5."
+  ],
+  [
+    "Machine learning bubble blowing ... Tiny Machine Learning on the Edge with TensorFlow Lite",
+    "Tiny Machine Learning on the Edge with TensorFlow Lite Running on SAMD51, we have trained a new model that listens for \"up\" ..."
+  ],
+  [
+    "Pneumonia Classification on X-rays using TensorFlow and Tensor Processing Units (TPUs) | Kaggle",
+    "TIMESTAMPS 0:00 Introduction 0:23 Load the data 0:55 Visualize the dataset 1:31 Build the CNN (convolutional neural network) ..."
+  ],
+  [
+    "Learning Multiple Networks via Supervised Tensor Decomposition",
+    "Machine Learning and Physical Science workshop, NeurIPS 2020."
+  ],
+  [
+    "A journey to protect the Great Barrier Reef using Machine Learning",
+    "Explore how Google teamed up with CSIRO to enhance monitoring efforts of harmful species on the Great Barrier Reef. Through a ..."
+  ],
+  [
+    "What exactly is this TFX thing? (TensorFlow Extended)",
+    "Introducing the first episode of the five part series on Real World Machine Learning in Production which will help you get to speed ..."
+  ],
+  [
+    "Top 5 takeaways from Women in Machine Learning Symposium 2022",
+    "Catch the top 5 takeaways from Women in Machine Learning Symposium 2022. Learn about the new MediaPipe Studio, Sign ..."
+  ],
+  [
+    "Tensorflow, deep learning and modern convolutional neural nets, without a PhD by Martin Görner",
+    "The hottest topic in computer science today is machine learning and deep neural networks. Many problems deemed \"impossible\" ..."
+  ],
+  [
+    "Tensorboard Explained in 5 Min",
+    "In this video, we first go through the code for a simple handwritten character classifier in Python, then visualize it in Tensorboard."
+  ],
+  [
+    "AWS re:Invent 2019: Deep learning applications with TensorFlow, featuring Mobileye (AIM410-R)",
+    "TensorFlow is one of several open-source deep learning frameworks used in machine learning development that is currently ..."
+  ],
+  [
+    "Tensor Flow Dev Cert: Overview of the Machine Learning framework!",
+    ""
+  ],
+  [
+    "TinyML: Getting Started with TensorFlow Lite for Microcontrollers | Digi-Key Electronics",
+    "In this tutorial, Shawn shows you how to use the TensorFlow Lite for Microcontrollers library to perform machine learning tasks on ..."
+  ],
+  [
+    "Tensorflow for Deep Learning Research - Lecture 5_2",
+    "This is the second part of the fifth lecture in the series of tutorials on tensorflow and is based on the publicly available slides from ..."
+  ],
+  [
+    "TensorFlow in 5 Minutes | Introduction To TensorFlow | Deep Learning Using TensorFlow | Edureka",
+    "AI & Deep Learning with Tensorflow Training: https://goo.gl/vDxgi5 ** This Edureka video of \"TensorFlow in 5 minutes\" provides ..."
+  ],
+  [
+    "Tensor Processing Unit • क्लाउड कंप्यूटिग • आभासी मशीन • यंत्र शिक्षण #shorts #wonderfactz2.0",
+    "Tensor Processing Unit • क्लाउड कंप्यूटिग • आभासी मशीन • यंत्र शिक्षण #shorts ..."
+  ],
+  [
+    "Deep Learning with Tensorflow - Introduction to Convolutional Networks",
+    "Enroll in the course for free at: https://bigdatauniversity.com/courses/deep-learning-tensorflow/ Deep Learning with TensorFlow ..."
+  ],
+  [
+    "[OLD] Lecture 2.3: Backpropagation, a tensor view",
+    "There is a new version of this video available at https://youtu.be/O-xs8IyP4bQ ERRATA: - In slide 75, the vectorization can actually ..."
+  ],
+  [
+    "Powered by TensorFlow: utilizing deep learning to better predict extreme weather",
+    "Machine learning is helping to solve challenging, real-world problems around the world. See how a team of engineers and ..."
+  ],
+  [
+    "Tensor Flow Dev Cert: Step 4 of the Machine Learning framework...Features!",
+    ""
+  ],
+  [
+    "Converting words to numbers, Word Embeddings | Deep Learning Tutorial 39 (Tensorflow &amp; Python)",
+    "Machine learning models don't understand words. They should be converted to numbers before they are fed to RNN or any other ..."
+  ],
+  [
+    "Realtime Object Detection | Object Detection with TensorFlow | Edureka | Deep Learning Live - 1",
+    "AI & Deep Learning Using TensorFlow - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video will ..."
+  ],
+  [
+    "Let&#39;s Build A Video Game With Unity and TensorFlow",
+    "In this session, we'll build a little smartphone game, train a bot to play it using reinforcement learning, Python, and TensorFlow, ..."
+  ],
+  [
+    "TensorFlow 2.0 Tutorial For Beginners | Introduction To TensorFlow 2 | TensorFlow Training | Edureka",
+    "Edureka TensorFlow 2.0 Training: https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka TensorFlow 2.0 Tutorial ..."
+  ],
+  [
+    "Introduction to Tensors in TensorFlow #01",
+    "In this video, we are going to learn about Tensors in TensorFlow. Tensors are primary data structure of the TensorFlow. TF uses ..."
+  ],
+  [
+    "Retail Shelf Analysis using Tensorflow",
+    "Retail Shelf Analysis using Tensorflow Object Detection API."
+  ],
+  [
+    "Tensor Flow Dev Cert: Step 5 of the Machine Learning framework...Modeling 4!",
+    ""
+  ],
+  [
+    "Everything You Need to Know About Deep Deterministic Policy Gradients (DDPG) | Tensorflow 2 Tutorial",
+    "Deep Deterministic Policy Gradients (DDPG) is an actor critic algorithm designed for use in environments with continuous action ..."
+  ],
+  [
+    "Lecture 7: Introduction to TensorFlow",
+    "Lecture 7 covers Tensorflow. TensorFlow is an open source software library for numerical computation using data flow graphs."
+  ],
+  [
+    "Bitcoin price Prediction using Tensor flow (Python) integrated with MATLAB",
+    "Bitcoin Price Prediction using Tensor Flow(python) used with MATLAB . A deep learning program for highly accurate prediction ."
+  ],
+  [
+    "On-Device Machine Learning with Flutter - Kshitiz Rimal (Flutter Week)",
+    "On-Device Machine Learning is a technique to train and run a Deep Learning models on the edge devices such as Smartphones, ..."
+  ],
+  [
+    "Tensor Analysis",
+    "This playlist contains video lectures on Tensor Analysis. This video is prepared as per the MSc Physics 2018 syllabus of Kerala ..."
+  ],
+  [
+    "Tensor Modeling for Large Array Processing in Wireless Communications (WCNPS 2020 keynote)",
+    ""
+  ],
+  [
+    "tensor analysis for Bsc Msc maths   tensor analysis in hindi  tensor calculus in hindi by Hd sir",
+    "Paid course by hd sir https://youtu.be/X-fOjS9Dk0c tensor analysis for Bsc Msc maths in hindi tensor analysis in hindi tensor ..."
+  ],
+  [
+    "Realtime Age and Gender estimation using MLKit and Tensor Flow Android | ML Kit &amp; TF Lite 021",
+    "In this video we will combine ML kit with custom tensorflow lite models to do realtime Age and Gender estimation. The use case ..."
+  ],
+  [
+    "Deep Learning - 03 06 ¿Qué es un tensor?",
+    ""
+  ],
+  [
+    "From TensorFlow to RTL in three months",
+    "Hear how in only three months Ph. D student Myung-Seok Shim was able to learn how to take a TensorFlow machine learning ..."
+  ],
+  [
+    "Introduction to Convolutional Neural Networks(CNN) With TensorFlow | Edureka | Deep Learning Live -1",
+    "Edureka TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka \"Introduction to ..."
+  ],
+  [
+    "Lec 3: Tensor and Tensor Algebra - 1",
+    "Computational Continuum Mechanics Course URL: https://swayam.gov.in/nd1_noc20_me74/preview Prof. Sachin Singh Gautam ..."
+  ],
+  [
+    "Tensorflow and deep learning, without a PhD, Martin Gorner, Google",
+    ""
+  ],
+  [
+    "UNET Segmentation in Keras TensorFlow | Semantic Segmentation | Deep Learning",
+    "IdiotDeveloper #ImageSegmentation #UNET About: This video is all about the most popular and widely used Segmentation ..."
+  ],
+  [
+    "Customer Churn Prediction using ANN | Keras and Tensorflow | Deep Learning Classification",
+    "Code - https://www.kaggle.com/campusx/notebook8ad570467f."
+  ],
+  [
+    "The MOST powerful smartphone chip 3.0! A16 vs 8+ Gen1 vs Tensor 2 vs Exynos vs Dimensity vs Kirin!",
+    "Head to https://squarespace.com/versus to save 10% off your first purchase of a website or domain using code \"versus\"! Round 3 ..."
+  ],
+  [
+    "Tensor Analysis | Lecture 1 | Introduction to tensors | Kerala University | MSc Physics",
+    "In this video 2:17 - What is a vector 14:09 - Introduction to tensor 20:12 - Stress tensor 32:27 - Define tensor From Rejeena R ..."
+  ],
+  [
+    "Hands on Machine Learning - Chapter 3 - Classification",
+    "A complete overview of Chapter 3 of the book Hands-on Machine Learning with Scikit-Learn Keras & Tensorflow Dataset: ..."
+  ],
+  [
+    "Build a deep neural network in 4 mins with TensorFlow in Colab",
+    "Google Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the Cloud. In this episode ..."
+  ],
+  [
+    "&quot;Deep Learning For Computer Vision Using Tensor Flow &quot; with Ashwin Phadke || EngineersConnect",
+    "Hey Engineers, As we already said to you all, EngineersConnectgoing to have a free webinar session on Introduction to Deep ..."
+  ],
+  [
+    "720p to 8K Deep Learning upscale using 3rd Gen Tensor Core - RTX 3090 Founders Edition",
+    "This video was upscaled from 720p to 4320p (8K) using Deep Learning and 3rd generation Tensor Cores from my RTX 3090 ..."
+  ],
+  [
+    "Learning Multiple Networks via Supervised Tensor Decomposition",
+    "Machine Learning and Physical Science workshop, NeurIPS 2020."
+  ],
+  [
+    "Fundamental Operations of Tensors Part 1 for B.Sc 2nd year by Sapna Agarwal",
+    ""
+  ],
+  [
+    "Day 1/30 Machine Learning Master Class - Sanjay",
+    "If You Haven't Register still, Register Now: ..."
+  ],
+  [
+    "Ambulance Detection using Image Processing - Raspberry Pi 3 Tensor Flow with Deep Learning",
+    "Ambulance Detection using Image Processing - Raspberry Pi 3 Tensor Flow with Deep Learning."
+  ],
+  [
+    "Reinforcement Learning with TensorFlow and Unity - Pittsburgh ML Summit ‘19",
+    "Dan Goncharov, Head of 42 Robotics GDG Fremont, talks about Reinforcement Learning with TensorFlow and Unity. Also, see an ..."
+  ],
+  [
+    "100 Days of Deep Learning",
+    "A complete end-to-end playlist on Deep Learning where topics like ANN, CNN, and RNN are covered."
+  ],
+  [
+    "03 Tensor Flow Low Level API | Deep Learning Master Class",
+    "In this workshop, you'll learn how the TensorFlow Python API works. You'll get to practice defining constants and variables like the ..."
+  ],
+  [
+    "03.- Curso de TensorFlow. ¿Qué son los tensores?",
+    "Videotutorial Nº 3 del Curso de TensorFlow, en el que vemos como crear y usar tensores y el papel que juegan dentro de ..."
+  ],
+  [
+    "Angular 11 and Tensor js | Blur Background Video Calling | Finger Gesture Control",
+    "Angular 11 and Tensor js along with GitHub link in description below . TensorFlow.js is a JavaScript library developed by Google ..."
+  ],
+  [
+    "[POPL&#39;22] Verified Tensor-Program Optimization Via High-Level Scheduling Rewrites",
+    "Verified Tensor-Program Optimization Via High-Level Scheduling Rewrites Amanda Liu, Gilbert Louis Bernstein, Adam Chlipala, ..."
+  ],
+  [
+    "Computational Continuum Mechanics",
+    ""
+  ],
+  [
+    "Serving TensorFlow models serveless - Google Cloud Function - Deep Learning model deployment demo",
+    "Full course on Udemy https://www.udemy.com/course/machine-learning-deep-learning-model-deployment/?"
+  ],
+  [
+    "Everything You Need To Master Actor Critic Methods | Tensorflow 2 Tutorial",
+    "In this brief tutorial you're going to learn the fundamentals of deep reinforcement learning, and the basic concepts behind actor ..."
+  ],
+  [
+    "Recurrent Neural Networks (RNN) Tutorial | Tensorflow Tutorial | Edureka | Deep Learning Rewind - 3",
+    "Edureka Tensorflow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka Recurrent Neural Networks ..."
+  ],
+  [
+    "Install Tensorflow Object Detection From Scratch in 5 Steps | Python Deep Learning",
+    "Running into errors? Tired of seeing \"ERROR: XXXXX something didn't go right\" I hear you! Installing Tensorflow Object Detection ..."
+  ],
+  [
+    "Distributed TensorFlow training (Google I/O &#39;18)",
+    "To efficiently train machine learning models, you will often need to scale your training to multiple GPUs, or even multiple machines ..."
+  ],
+  [
+    "100% Deep Learning / Tensor Flow Auto Generated Audica Map",
+    "A sight-read of a random song using the Tensor Flow osu! algorithm https://github.com/kotritrona/osumapper + Zerny's amazing ..."
+  ],
+  [
+    "Deep Learning - 03 06 ¿Qué es un tensor?",
+    ""
+  ],
+  [
+    "Tensor Analysis- Lec.1,(Basic Concepts) by Dr. D. N. Garain, For Maths  &amp; Phy(B.Sc. , M.Sc) &amp; Engg.",
+    "I have tried to distribute the knowledge of Tensor Analysis in details by a series of Lectures through YouTube. Even a layman may ..."
+  ],
+  [
+    "Creating Chatbots Using TensorFlow | Chatbot Tutorial | Edureka | Deep Learning Live - 1",
+    "AI & Deep Learning with Tensorflow Training : https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video of ..."
+  ],
+  [
+    "Text Summarization - TensorFlow and Deep Learning Singapore",
+    "Speaker: Anusha Sample Code: https://github.com/anooshac/machine-learning-projects/tree/master/text-summarizer Event Page: ..."
+  ],
+  [
+    "Suyash Joshi - Deep Learning (Tensor Flow, DJL)for Enterprise Java Developers",
+    ""
+  ],
+  [
+    "Tensor Flow Dev Cert: Overview of the Machine Learning framework!",
+    ""
+  ],
+  [
+    "Tensor Flow Dev Cert: Step 4 of the Machine Learning framework...Features!",
+    ""
+  ],
+  [
+    "What is Artificial Intelligence &amp; Deep Learning - Tensorflow Tutorial Python - Intellipaat",
+    "Intellipaat AI course: https://intellipaat.com/artificial-intelligence-deep-learning-course-with-tensorflow/ In this video tutorial you will ..."
+  ],
+  [
+    "Tensor Analysis, Lecture-9 (Metric Tensor &amp; Line Element), by Dr.D.N.Garain, For Maths &amp; Phy &amp; Engg.",
+    "metric_tensor_and_line_element This lecture contains description of Metric Tensor or Fundamental covariant Tensor and Metric ..."
+  ],
+  [
+    "TensorFlow And Keras Tutorial | Deep Learning With TensorFlow &amp; Keras  | Deep Learning | Simplilearn",
+    "This video on TensorFlow and Keras tutorial will help you understand Deep Learning frameworks, what is TensorFlow, ..."
+  ],
+  [
+    "Tensors — Continuum Mechanics — Lesson 1, Part 1",
+    "In this video lesson we introduce the tensor, a mathematical term that can be thought of as a generalization of scalars and vectors."
+  ],
+  [
+    "1. Tensor Analysis | Introduction | Prof Khalid",
+    "tensoranalysis #bsc #msc Introduction of course and book of tensor analysis is given."
+  ],
+  [
+    "Call Libraries Keras and Tensor flow- Topic # 19- Urdu| Hindi",
+    "Call Libraries Keras and Tensor flow- Topic # 19- Urdu| Hindi Keras is a deep learning API written in Python, running on top of the ..."
+  ],
+  [
+    "TensorFlow Hub: Reusable Machine Learning (TF Dev Summit &#39;19)",
+    "TensorFlow Hub is a library for reusable pieces of machine learning. In this talk we will refresh when you would want to use it, talk ..."
+  ],
+  [
+    "Women in Machine Learning Symposium 2022 Keynote",
+    "Machine Learning is changing the world by impacting businesses and everyday life. In this Keynote we cover what's new and ..."
+  ],
+  [
+    "Tensor Flow Dev Cert: Step 5 of the Machine Learning framework...Modeling 1!",
+    ""
+  ],
+  [
+    "Tensor Properties II — Continuum Mechanics — Lesson 5, Part 1",
+    "In this video lesson, the tensor product (also called dyadic product) is discussed. The concept of tensor product is helpful to form ..."
+  ],
+  [
+    "Connections between Weighted Automata, Spectral Learning and Tensor Networks - Guillaume Rabusseau",
+    "Invited talk at the 15th International Conference on Grammatical Inference (ICGI 2020/21: https://icgi2020.lis-lab.fr/) Abstract: In ..."
+  ],
+  [
+    "Pragmatic Deep Learning Model for Forex Forecasting",
+    "This is the companion video for my article: ..."
+  ],
+  [
+    "B.Sc.- 2 (Lt.-02) Mathematics-III (Mechanics) : Abhishek Sir",
+    "mechanics."
+  ],
+  [
+    "Realtime Age and Gender estimation using MLKit and Tensor Flow Android | ML Kit &amp; TF Lite 021",
+    "In this video we will combine ML kit with custom tensorflow lite models to do realtime Age and Gender estimation. The use case ..."
+  ],
+  [
+    "Tensor Decompositions for Multi-Aspect Graph Analytics and Beyond- Evangelos (Vagelis) Papalexakis",
+    "Abstract: Tensors and tensor decompositions have been very popular and effective tools for analyzing multi-aspect data in a wide ..."
+  ]
+]
