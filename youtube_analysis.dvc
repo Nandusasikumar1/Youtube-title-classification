@@ -1,0 +1,6 @@
+outs:
+- md5: b8ccbe4791f10dbdb86e7b268f4be9ac.dir
+  size: 13378278
+  nfiles: 120
+  hash: md5
+  path: youtube_analysis
